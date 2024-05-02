@@ -1,0 +1,1213 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "isAutoBanNpc": true,
+    "protectNpcMobileLod": true,
+    "BENAABMGANF": 5,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 9061,
+            "alias": "9061",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.5,
+                "actionId": 144,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.5,
+                "actionId": 145
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 146,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 147,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "9061",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 148,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 149,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 106,
+                "ACDCGBPKCAF": 690610402,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 132,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610402",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    16539619057256012993,
+                    14695226985045469120,
+                    16557045502803829024,
+                    13187458181253127261
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 1.4539999961853027,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 190,
+                "HJICCFGEJKI": 4030,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 108,
+                "ACDCGBPKCAF": 690610403,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 133,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610403_2",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610403_1",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    10545466308986813941,
+                    4565775470956649106,
+                    14655564758519588015,
+                    14512826728953669321
+                ],
+                "DNLCAPCJGNB": [
+                    11038357359622500615,
+                    10079998440308401692,
+                    17489115194031888242,
+                    1933943952763954703
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 154,
+                "HJICCFGEJKI": 1110,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 109,
+                "HLOONFICMOJ": [
+                    690610404
+                ],
+                "BJBCCFDIICN": [
+                    296157262
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 296157258
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 111,
+                "ACDCGBPKCAF": 690610405,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 134,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610405",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    9448934020429947296,
+                    17053195826888539881,
+                    2099133939512874376,
+                    17817803055286726282
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 157,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigSetAnimatorSpeedAction",
+                "type": "SET_ANIMATOR_SPEED",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 187,
+                "speedRatio": 1.2000000476837158,
+                "blendType": "EaseInOutQuad"
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 1.2890000343322754,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 158,
+                "HJICCFGEJKI": 1150,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 113,
+                "ACDCGBPKCAF": 690610406,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 135,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610406",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    10860640424320318011,
+                    4291969606499972922,
+                    15568017408905531427,
+                    7704324619032133081
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 159,
+                "HJICCFGEJKI": 1130,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigSetAnimatorSpeedAction",
+                "type": "SET_ANIMATOR_SPEED",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 189,
+                "speedRatio": 1.0,
+                "blendType": "EaseInOutQuad"
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 4.264999866485596,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 160,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 115,
+                "ACDCGBPKCAF": 690610407,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 136,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610407",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    11614831462673628119,
+                    4060125923100708105,
+                    10129055008801001935,
+                    11823936602998744656
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 162,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.8040000200271606,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 163,
+                "HJICCFGEJKI": 1172,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 5.834000110626221,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 164,
+                "HJICCFGEJKI": 1060,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 117,
+                "ACDCGBPKCAF": 690610408,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 137,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610408",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    11790793348745252952,
+                    1868743129761759010,
+                    17884535067463300461,
+                    407392294837113904
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 165,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.8309999704360962,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 183,
+                "HJICCFGEJKI": 1171,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 6.059999942779541,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 167,
+                "HJICCFGEJKI": 1110,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 8.428999900817871,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 166,
+                "HJICCFGEJKI": 4041,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 119,
+                "ACDCGBPKCAF": 690610409,
+                "LENKPLFIBOP": 1.0
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 138,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610409",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    5682077826719117030,
+                    4450307375501334804,
+                    15782775506590222576,
+                    16227140903353947061
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 169,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.8999999761581421,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 170,
+                "HJICCFGEJKI": 1130,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 5.104000091552734,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 171,
+                "HJICCFGEJKI": 4031,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 121,
+                "ACDCGBPKCAF": 690610410,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 139,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610410",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    1274302368112977210,
+                    13708725934144278843,
+                    4729487910265118698,
+                    5692146080872263528
+                ]
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 192,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "PNNIHPBNLOI": {
+                    "x": 352.5270080566406,
+                    "y": 10.019000053405762
+                },
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 196,
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "x": -4.0,
+                    "z": 2.0
+                },
+                "NDLLBBLIGBK": {
+                    "x": -4.0,
+                    "z": 2.0
+                },
+                "AIHABEFBJJA": 0.20000000298023224,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 122,
+                "HLOONFICMOJ": [
+                    690610411,
+                    690610413
+                ],
+                "BJBCCFDIICN": [
+                    590940485,
+                    590940486
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 296157258
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "delayTime": 1.340000033378601,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 193,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.30000001192092896,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "delayTime": 1.340000033378601,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 197,
+                "useTargetPos": false,
+                "AIHABEFBJJA": 0.20000000298023224,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 124,
+                "ACDCGBPKCAF": 690610412,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 140,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610412",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    15431203396553970367,
+                    9760295594280849732,
+                    18245390253053209764,
+                    13261293321150597596
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 175,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 194,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 198,
+                "useTargetPos": false,
+                "AIHABEFBJJA": 1.0,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.9430000185966492,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 174,
+                "HJICCFGEJKI": 1060,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 126,
+                "ACDCGBPKCAF": 690610414,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 141,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610414",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    14288747715232867998,
+                    8518650403002623573,
+                    5806365249211693353,
+                    2930711356308994994
+                ]
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 195,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 199,
+                "useTargetPos": false,
+                "AIHABEFBJJA": 1.0,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 206,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 1.0269999504089355,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 186,
+                "HJICCFGEJKI": 4031,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 128,
+                "ACDCGBPKCAF": 690610415,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 142,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610415",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    14623008939348573102,
+                    6060352942985972291,
+                    5925477096891902763,
+                    286407630187743731
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 176,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 200,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "PNNIHPBNLOI": {
+                    "x": 344.3280029296875,
+                    "y": 6.794000148773193
+                },
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 201,
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "x": -4.0,
+                    "z": 2.0
+                },
+                "NDLLBBLIGBK": {
+                    "x": -4.0,
+                    "z": 2.0
+                },
+                "AIHABEFBJJA": 0.20000000298023224,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "delayTime": 1.340000033378601,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 202,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "delayTime": 1.340000033378601,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 203,
+                "useTargetPos": false,
+                "AIHABEFBJJA": 0.20000000298023224,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 2.6540000438690186,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 177,
+                "HJICCFGEJKI": 1173,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 130,
+                "ACDCGBPKCAF": 690610416,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 143,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610416",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    1715136538504389879,
+                    10328431855209764654,
+                    3027878833276039852,
+                    10978948891409134803
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 181,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 204,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 205,
+                "useTargetPos": false,
+                "AIHABEFBJJA": 0.20000000298023224,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 2.0899999141693115,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 179,
+                "HJICCFGEJKI": 1030,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 3.375999927520752,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 180,
+                "HJICCFGEJKI": 4031,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 4.919000148773193,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 182,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 104
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 131,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 296157259,
+            "nextGrpId": 296157260
+        },
+        {
+            "index": 1,
+            "grpId": 296157260,
+            "nextGrpId": 296157261
+        },
+        {
+            "index": 2,
+            "grpId": 296157261,
+            "nextGrpId": 296157262
+        },
+        {
+            "index": 3,
+            "grpId": 296157262,
+            "nextGrpId": 296157263
+        },
+        {
+            "index": 4,
+            "grpId": 296157263,
+            "nextGrpId": 296157264
+        },
+        {
+            "index": 5,
+            "grpId": 296157264,
+            "nextGrpId": 296157265
+        },
+        {
+            "index": 6,
+            "grpId": 296157265,
+            "nextGrpId": 296157266
+        },
+        {
+            "index": 7,
+            "grpId": 296157266,
+            "nextGrpId": 296157267
+        },
+        {
+            "index": 8,
+            "grpId": 296157267,
+            "nextGrpId": 590940485
+        },
+        {
+            "index": 9,
+            "grpId": 590940485,
+            "nextGrpId": 590940487
+        },
+        {
+            "index": 10,
+            "grpId": 590940486,
+            "nextGrpId": 590940487
+        },
+        {
+            "index": 11,
+            "grpId": 590940487,
+            "nextGrpId": 590940488
+        },
+        {
+            "index": 12,
+            "grpId": 590940488,
+            "nextGrpId": 590940489
+        },
+        {
+            "index": 13,
+            "grpId": 590940489,
+            "nextGrpId": 590940490
+        }
+    ],
+    "freeStyleDic": {
+        "9061": [
+            4030,
+            1110,
+            1150,
+            1130,
+            1172,
+            1060,
+            4041,
+            1171,
+            4031,
+            1173,
+            1030
+        ]
+    },
+    "GCEOGCMIEAN": {
+        "9061": [
+            "SitChat01AS",
+            "SitHoldArm01AS",
+            "SitPutArm01AS",
+            "SitShrug01AS",
+            "SitThink01AS"
+        ]
+    }
+}

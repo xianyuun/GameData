@@ -1,0 +1,73 @@
+{
+    "id": 74679,
+    "type": "WQ",
+    "DPKJDKDKDFH": "mainQuestTag",
+    "titleTextMapHash": 66108303,
+    "descTextMapHash": 2268063006,
+    "luaPath": "Actor/Quest/WQ74679",
+    "rewardIdList": [
+        174679
+    ],
+    "CFHCHGOOLBN": true,
+    "PMKEAKECDPO": 2027,
+    "subQuests": [
+        {
+            "subId": 7467901,
+            "mainId": 74679,
+            "order": 1,
+            "descTextMapHash": 458712868,
+            "finishCond": [
+                {
+                    "type": "QUEST_CONTENT_COMPLETE_TALK",
+                    "param": [
+                        7467901,
+                        0
+                    ]
+                }
+            ],
+            "guide": {
+                "type": "QUEST_GUIDE_NPC",
+                "param": [
+                    "30485"
+                ],
+                "guideScene": 3,
+                "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+                "DHGKFEKLGFG": 4
+            },
+            "CDDKJNJPILI": {
+                "KPOGPNLFAAE": ""
+            },
+            "DBJJALMJAGP": true,
+            "isRewind": true,
+            "versionBegin": "",
+            "versionEnd": ""
+        }
+    ],
+    "PCNNNPLAEAI": [
+        {
+            "id": 7467901,
+            "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+            "AFNAENENCBB": [
+                {
+                    "type": "QUEST_COND_STATE_EQUAL",
+                    "param": [
+                        "7467901",
+                        "2"
+                    ]
+                }
+            ],
+            "KPMDGJNJNJC": 5,
+            "FMFFELFBBJN": 746790101,
+            "JDOFKFPHIDC": [
+                30485
+            ],
+            "GHHGNCCJOEJ": "QuestDialogue/WQ/Filmfest_74679/Q7467901",
+            "OLLANCCFJKD": 74679,
+            "NKIDPMJGEKA": 12326762176783333551,
+            "BBMLHKKNIOJ": "",
+            "EIPOLMFCODP": [
+                "[3_340100474:3436.863,449.586,4437.817,0.000,31.286,0.000]"
+            ]
+        }
+    ]
+}

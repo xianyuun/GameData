@@ -1,0 +1,30 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigLuaAction",
+                "type": "LUA_ACTION",
+                "duration": 3.0,
+                "invoke": true,
+                "invokeAlias": "12007",
+                "invokeParam": 1
+            }
+        ],
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "DOMDCMLMEKG": "EXIT",
+                "PEOMGGJMOLC": "TO_INTEE",
+                "NPJJNOFEADI": 5.0,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ]
+    ]
+}

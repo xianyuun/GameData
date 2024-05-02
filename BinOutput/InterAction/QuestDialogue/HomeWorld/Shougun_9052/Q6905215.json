@@ -1,0 +1,268 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 9052,
+            "alias": "9052",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "9052"
+                ],
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9052"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "9052"
+                ],
+                "useTargetPos": false,
+                "AIHABEFBJJA": 1.0,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.5,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.5
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "9052",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9052"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Shougun/Cs_Emo_690521501",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    13478637459541757666,
+                    16855694209778721711,
+                    7065715343590355297,
+                    17445930333338039730
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9052"
+                ],
+                "HJICCFGEJKI": 1170,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9052"
+                ],
+                "ACDCGBPKCAF": 690521501,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "9052",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "delayTime": 0.46700000762939453,
+                "aliasList": [
+                    "9052"
+                ],
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "x": 2.0
+                },
+                "NDLLBBLIGBK": {
+                    "x": 2.0
+                },
+                "AIHABEFBJJA": 0.05000000074505806,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "delayTime": 0.8579999804496765,
+                "aliasList": [
+                    "9052"
+                ],
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "x": 1.0
+                },
+                "NDLLBBLIGBK": {
+                    "x": 1.0
+                },
+                "AIHABEFBJJA": 0.07000000029802322,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 1.5579999685287476,
+                "aliasList": [
+                    "9052"
+                ],
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "delayTime": 1.7580000162124634,
+                "aliasList": [
+                    "9052"
+                ],
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "x": -1.0
+                },
+                "NDLLBBLIGBK": {
+                    "x": -1.0
+                },
+                "AIHABEFBJJA": 0.05000000074505806,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "delayTime": 2.1579999923706055,
+                "aliasList": [
+                    "9052"
+                ],
+                "useTargetPos": false,
+                "AIHABEFBJJA": 0.07000000029802322,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            }
+        ],
+        [
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9052"
+                ],
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 4218559692,
+            "nextGrpId": 4218559693
+        },
+        {
+            "index": 1,
+            "grpId": 4218559693,
+            "nextGrpId": 4218559694
+        },
+        {
+            "index": 2,
+            "grpId": 4218559694,
+            "nextGrpId": 4218559695
+        }
+    ],
+    "freeStyleDic": {
+        "9052": [
+            1170
+        ]
+    }
+}

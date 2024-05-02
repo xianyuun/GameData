@@ -1,0 +1,366 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "protectNpcMobileLod": true,
+    "BENAABMGANF": 7,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1005,
+            "alias": "1005",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.10000000149011612,
+                "actionId": 103,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 104
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 131,
+                "flag": 32,
+                "MEHNLJGJOJM": "TO_TARGET",
+                "GJFGEAEKFEH": {
+                    "x": 2627.054931640625,
+                    "y": 484.93701171875,
+                    "z": 3657.321044921875
+                },
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "Avatar",
+                "HKMHEDBICGC": true,
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 129,
+                "flag": 32,
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "1005",
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "delayTime": 0.5,
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 132,
+                "flag": 64,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 10.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 107,
+                "ACDCGBPKCAF": 740771201,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 109,
+                "ACDCGBPKCAF": 740771202,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 110,
+                "HLOONFICMOJ": [
+                    740771203
+                ],
+                "BJBCCFDIICN": [
+                    1322011544
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 1322011540
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.5,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 130
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 112,
+                "HLOONFICMOJ": [
+                    740771204
+                ],
+                "BJBCCFDIICN": [
+                    1322011545
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 1322011540
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 114,
+                "ACDCGBPKCAF": 740771205,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 115,
+                "HLOONFICMOJ": [
+                    740771206
+                ],
+                "BJBCCFDIICN": [
+                    1322011546
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 1322011540
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 117,
+                "ACDCGBPKCAF": 740771207,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 119,
+                "ACDCGBPKCAF": 740771208,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 121,
+                "ACDCGBPKCAF": 740771209,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 123,
+                "ACDCGBPKCAF": 740771210,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 125,
+                "ACDCGBPKCAF": 740771211,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 126,
+                "HLOONFICMOJ": [
+                    740771212
+                ],
+                "BJBCCFDIICN": [
+                    2327652156
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 1322011540
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 128,
+                "ACDCGBPKCAF": 740771213,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 105
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 1322011541,
+            "nextGrpId": 1322011542
+        },
+        {
+            "index": 1,
+            "grpId": 1322011542,
+            "nextGrpId": 1322011543
+        },
+        {
+            "index": 2,
+            "grpId": 1322011543,
+            "nextGrpId": 1322011544
+        },
+        {
+            "index": 3,
+            "grpId": 1322011544,
+            "nextGrpId": 1322011545
+        },
+        {
+            "index": 4,
+            "grpId": 1322011545,
+            "nextGrpId": 1322011546
+        },
+        {
+            "index": 5,
+            "grpId": 1322011546,
+            "nextGrpId": 1322011547
+        },
+        {
+            "index": 6,
+            "grpId": 1322011547,
+            "nextGrpId": 1322011548
+        },
+        {
+            "index": 7,
+            "grpId": 1322011548,
+            "nextGrpId": 1322011549
+        },
+        {
+            "index": 8,
+            "grpId": 1322011549,
+            "nextGrpId": 2327652155
+        },
+        {
+            "index": 9,
+            "grpId": 2327652155,
+            "nextGrpId": 2327652156
+        },
+        {
+            "index": 10,
+            "grpId": 2327652156,
+            "nextGrpId": 2327652157
+        },
+        {
+            "index": 11,
+            "grpId": 2327652157,
+            "nextGrpId": 2327652158
+        }
+    ]
+}

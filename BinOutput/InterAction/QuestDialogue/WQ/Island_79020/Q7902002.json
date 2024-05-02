@@ -1,0 +1,337 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "isAutoBanNpc": true,
+    "protectNpcMobileLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1005,
+            "alias": "1005",
+            "visible": true,
+            "bornPointName": "",
+            "removeActorType": "REMOVE_WITH_DISAPPEAR",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 136,
+                "MEHNLJGJOJM": "TO_TARGET",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "MOIAMOAOEHJ": "1005",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 137,
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200101,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "HLOONFICMOJ": [
+                    790200102
+                ],
+                "BJBCCFDIICN": [
+                    765571921
+                ],
+                "FALHCBLLBCG": true
+            },
+            {
+                "$type": "MoleMole.Config.ConfigUITriggerInterAction",
+                "type": "UI_TRIGGER",
+                "delayTime": 0.7670000195503235,
+                "contextName": "QuestReadingDialog",
+                "param": "101771"
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200103,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200116,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200104,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200105,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200106,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "HLOONFICMOJ": [
+                    790200107,
+                    790200108
+                ],
+                "BJBCCFDIICN": [
+                    765571926,
+                    765571926
+                ],
+                "FALHCBLLBCG": true
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200109,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200110,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200111,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "HLOONFICMOJ": [
+                    790200112
+                ],
+                "BJBCCFDIICN": [
+                    2257893058
+                ],
+                "FALHCBLLBCG": true
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200113,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200114,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790200115,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.699999988079071
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 765571919,
+            "nextGrpId": 765571920
+        },
+        {
+            "index": 1,
+            "grpId": 765571920,
+            "nextGrpId": 765571921
+        },
+        {
+            "index": 2,
+            "grpId": 765571921,
+            "nextGrpId": 765571922
+        },
+        {
+            "index": 3,
+            "grpId": 765571922,
+            "nextGrpId": 765571923
+        },
+        {
+            "index": 4,
+            "grpId": 765571923,
+            "nextGrpId": 765571924
+        },
+        {
+            "index": 5,
+            "grpId": 765571924,
+            "nextGrpId": 765571925
+        },
+        {
+            "index": 6,
+            "grpId": 765571925,
+            "nextGrpId": 765571926
+        },
+        {
+            "index": 7,
+            "grpId": 765571926,
+            "nextGrpId": 765571927
+        },
+        {
+            "index": 8,
+            "grpId": 765571927,
+            "nextGrpId": 2257893057
+        },
+        {
+            "index": 9,
+            "grpId": 2257893057,
+            "nextGrpId": 2257893058
+        },
+        {
+            "index": 10,
+            "grpId": 2257893058,
+            "nextGrpId": 2257893059
+        },
+        {
+            "index": 11,
+            "grpId": 2257893059,
+            "nextGrpId": 2257893060
+        },
+        {
+            "index": 12,
+            "grpId": 2257893060,
+            "nextGrpId": 2257893061
+        },
+        {
+            "index": 13,
+            "grpId": 2257893061,
+            "nextGrpId": 2257893062
+        }
+    ]
+}

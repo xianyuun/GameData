@@ -1,0 +1,563 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 9046,
+            "alias": "9046",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.5,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.5
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "9046",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "9046"
+                ],
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9046"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.4000000059604645,
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "9046",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9046"
+                ],
+                "ACDCGBPKCAF": 690460402,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9046"
+                ],
+                "HJICCFGEJKI": 1060,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9046"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Hutao/Cs_Emo_690460402",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    13457994098867178442,
+                    7510323529177062869,
+                    15681755811554258282,
+                    5839676767128879834
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9046"
+                ],
+                "ACDCGBPKCAF": 690460403,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9046"
+                ],
+                "HJICCFGEJKI": 1130,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9046"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Hutao/Cs_Emo_690460403",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "DGGHNBHDFHF": false,
+                "GCKBEBFAPKP": [
+                    14528388385134142174,
+                    9209901480201968895,
+                    1037460763107037708,
+                    12672407303954161868
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "HLOONFICMOJ": [
+                    690460405
+                ],
+                "BJBCCFDIICN": [
+                    4254518048
+                ],
+                "FALHCBLLBCG": true
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9046"
+                ],
+                "ACDCGBPKCAF": 690460404,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9046"
+                ],
+                "HJICCFGEJKI": 1130,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9046"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Hutao/Cs_Emo_690460404",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    7780847600879482247,
+                    11998731893300992958,
+                    291012371360017011,
+                    6406728762691255253
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9046"
+                ],
+                "ACDCGBPKCAF": 690460406,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9046"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Hutao/Cs_Emo_690460406",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    7663530534997079622,
+                    8658972754767743300,
+                    3739158499460848414,
+                    7295136922449386817
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9046"
+                ],
+                "ACDCGBPKCAF": 690460407,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9046"
+                ],
+                "HJICCFGEJKI": 1230,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9046"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Hutao/Cs_Emo_690460407",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    17422680198945027352,
+                    9710548438328020092,
+                    16289571048434120667,
+                    10082705864541854517
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9046"
+                ],
+                "ACDCGBPKCAF": 690460408,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9046"
+                ],
+                "HJICCFGEJKI": 1220,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9046"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Hutao/Cs_Emo_690460408",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    12454867636381619217,
+                    10339008293938036269,
+                    15255354842022069515,
+                    14241821106257877055
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "HLOONFICMOJ": [
+                    690460410,
+                    690460411
+                ],
+                "BJBCCFDIICN": [
+                    4254518052,
+                    4254518052
+                ],
+                "FALHCBLLBCG": true
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9046"
+                ],
+                "ACDCGBPKCAF": 690460409,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9046"
+                ],
+                "HJICCFGEJKI": 1120,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9046"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Hutao/Cs_Emo_690460409",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    17225217988724198813,
+                    7947256301594708668,
+                    15329572296791026127,
+                    714706495985934946
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9046"
+                ],
+                "ACDCGBPKCAF": 690460412,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9046"
+                ],
+                "HJICCFGEJKI": 1120,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9046"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Hutao/Cs_Emo_690460412",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    17322936937700775907,
+                    15871967598763231472,
+                    13224562216990187171,
+                    15421781646018852675
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9046"
+                ],
+                "ACDCGBPKCAF": 690460413,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "delayTime": 0.027420425787568092,
+                "aliasList": [
+                    "9046"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Hutao/Cs_Emo_690460413",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    16894616415670232760,
+                    5147964880911211837,
+                    783790477885918243,
+                    9523156445710263993
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9046"
+                ],
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 4254518044,
+            "nextGrpId": 4254518045
+        },
+        {
+            "index": 1,
+            "grpId": 4254518045,
+            "nextGrpId": 4254518046
+        },
+        {
+            "index": 2,
+            "grpId": 4254518046,
+            "nextGrpId": 4254518047
+        },
+        {
+            "index": 3,
+            "grpId": 4254518047,
+            "nextGrpId": 4254518048
+        },
+        {
+            "index": 4,
+            "grpId": 4254518048,
+            "nextGrpId": 4254518049
+        },
+        {
+            "index": 5,
+            "grpId": 4254518049,
+            "nextGrpId": 4254518050
+        },
+        {
+            "index": 6,
+            "grpId": 4254518050,
+            "nextGrpId": 4254518051
+        },
+        {
+            "index": 7,
+            "grpId": 4254518051,
+            "nextGrpId": 4254518052
+        },
+        {
+            "index": 8,
+            "grpId": 4254518052,
+            "nextGrpId": 3041040532
+        },
+        {
+            "index": 9,
+            "grpId": 3041040532,
+            "nextGrpId": 3041040533
+        },
+        {
+            "index": 10,
+            "grpId": 3041040533,
+            "nextGrpId": 3041040534
+        }
+    ],
+    "freeStyleDic": {
+        "9046": [
+            1060,
+            1130,
+            1230,
+            1220,
+            1120
+        ]
+    }
+}

@@ -1,0 +1,259 @@
+{
+    "luaDataPath": "",
+    "dontUseDefaultFinish": true,
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 9027,
+            "alias": "9027",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.10000000149011612,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "9027"
+                ],
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9027"
+                ],
+                "MCGCHJMHMDI": true,
+                "FNDLMMMOCLP": {
+                    "z": -2.0
+                },
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "9027"
+                ],
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "z": 1.0
+                },
+                "NDLLBBLIGBK": {
+                    "z": 1.0
+                },
+                "AIHABEFBJJA": 1.0,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            }
+        ],
+        [
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.5,
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "9027",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "9027",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "z": -1.0
+                },
+                "NDLLBBLIGBK": {
+                    "z": -1.0
+                },
+                "AIHABEFBJJA": 1.0,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9027"
+                ],
+                "ACDCGBPKCAF": 690270101,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9027"
+                ],
+                "HJICCFGEJKI": 1120,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9027"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Ningguang/Cs_Emo_690270101",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    15038002445632998042,
+                    6178323797826727836,
+                    13640315862223083559,
+                    16227543698397835844
+                ]
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9027"
+                ],
+                "ACDCGBPKCAF": 690270102,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9027"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Ningguang/Cs_Emo_690270102",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    6089004518862780586,
+                    13928947530297865894,
+                    10944559183190623624,
+                    17633268912058412878
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 2.9166669845581055,
+                "aliasList": [
+                    "9027"
+                ],
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9027"
+                ],
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 3506431228,
+            "nextGrpId": 3506431229
+        },
+        {
+            "index": 1,
+            "grpId": 3506431229,
+            "nextGrpId": 3506431230
+        },
+        {
+            "index": 2,
+            "grpId": 3506431230,
+            "nextGrpId": 3506431231
+        },
+        {
+            "index": 3,
+            "grpId": 3506431231,
+            "nextGrpId": 3506431232
+        }
+    ],
+    "freeStyleDic": {
+        "9027": [
+            1120
+        ]
+    }
+}

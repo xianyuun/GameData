@@ -1,0 +1,30 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "group": [
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "duration": 5.0,
+                "HPIDHECJEAA": "BUBBLE"
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "duration": 5.0,
+                "HPIDHECJEAA": "BUBBLE"
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "duration": 5.0,
+                "HPIDHECJEAA": "BUBBLE"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "luaDataPath": "",
+    "isSimpleTalk": true,
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 10015,
+            "alias": "10015",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 10014,
+            "alias": "10014",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "delayTime": 0.30000001192092896,
+                "duration": 0.10000000149011612,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.4000000059604645
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "10015"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "10014",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "10014"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "10014",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "10015",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "10015"
+                ],
+                "ACDCGBPKCAF": 110081086,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "10015"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_Avatar_Event/Cs_Emo_Homeworld/Cs_Emo_110081086",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    9064092630693376315,
+                    9394065871440205043,
+                    1989581282886295202,
+                    979017516537542503
+                ]
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "10015"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "10014",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "10015"
+                ],
+                "HJICCFGEJKI": 1171,
+                "MOAIMHFEAMK": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 3.6650328636169434,
+                "aliasList": [
+                    "10015"
+                ],
+                "HJICCFGEJKI": 1130,
+                "MOAIMHFEAMK": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 7.375980377197266,
+                "aliasList": [
+                    "10015"
+                ],
+                "HJICCFGEJKI": 4030,
+                "MOAIMHFEAMK": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "10014"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "10015",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "10014",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "10014"
+                ],
+                "ACDCGBPKCAF": 110081087,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "10014"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_Avatar_Event/Cs_Emo_Homeworld/Cs_Emo_110081087",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    17194629187507056800,
+                    12539989405564233426,
+                    13050561763639207075,
+                    10046671092039336256
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "10014"
+                ],
+                "HJICCFGEJKI": 1190,
+                "MOAIMHFEAMK": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "10015"
+                ],
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "PAOLGENKEGO": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 1237250056,
+            "nextGrpId": 1237250057
+        },
+        {
+            "index": 1,
+            "grpId": 1237250057,
+            "nextGrpId": 1237250058
+        },
+        {
+            "index": 2,
+            "grpId": 1237250058,
+            "nextGrpId": 1237250059
+        },
+        {
+            "index": 3,
+            "grpId": 1237250059,
+            "nextGrpId": 1237250060
+        }
+    ],
+    "freeStyleDic": {
+        "10015": [
+            1171,
+            1130,
+            4030
+        ],
+        "10014": [
+            1190
+        ]
+    }
+}

@@ -1,0 +1,156 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1037,
+            "alias": "1037",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.10000000149011612,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEHNLJGJOJM": "TO_TARGET",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "1037",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "delayTime": 0.800000011920929,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.30000001192092896,
+                "MOIAMOAOEHJ": "1037",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "1037",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1037"
+                ],
+                "MCGCHJMHMDI": true,
+                "useTargetPos": true,
+                "KKNEOPHCNHD": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1037"
+                ],
+                "ACDCGBPKCAF": 120221701,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "1037"
+                ],
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_Avatar_PersonalLine/Cs_Emo_Avatar_Kokomi/Cs_Emo_120221701",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    4352809820943044672,
+                    2278276705189230909,
+                    13654113276280568675,
+                    4676153619122374312
+                ]
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "delayTime": 1.9709999561309814,
+                "aliasList": [
+                    "1037"
+                ],
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "z": 7.0
+                },
+                "NDLLBBLIGBK": {
+                    "z": 7.0
+                },
+                "AIHABEFBJJA": 1.0,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 995706703,
+            "nextGrpId": 995706704
+        },
+        {
+            "index": 1,
+            "grpId": 995706704,
+            "nextGrpId": 995706705
+        }
+    ],
+    "freeStyleDic": {
+        "1037": []
+    }
+}

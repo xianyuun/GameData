@@ -1,0 +1,208 @@
+{
+    "id": 400402,
+    "LMOJAGFIMPO": "REFUTE_400602_TITLETEXTTEXTMAP_137",
+    "BFCCBMAAMKJ": 2,
+    "NDNFPBPOIJH": true,
+    "KBKICMOAGLA": "REFUTE_400602_ENEMYNAMETEXTMAP_138",
+    "DPEPJAEDEEL": "UI_NPC_Quest_Furina",
+    "MCJHHIAAEMC": 40066306,
+    "CMAPKCAMGCO": [
+        13316
+    ],
+    "PMHELJKPICH": "REFUTE_400602_SELFNAMETEXTMAP_139",
+    "NMADDCKGGAH": "UI_AvatarIcon_PlayerGirl",
+    "DDBMAMMPJBF": true,
+    "OIDNOBNNGCB": 40066801,
+    "LKGMEMOCODK": [
+        0,
+        1005
+    ],
+    "NCIBDABPFAA": 400620,
+    "DDKPODJANKI": [
+        {
+            "id": 40040201,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_192",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_193",
+            "BFNAECHPEIA": 40066301,
+            "EGIMNFHDLCA": "UI_QuestRefute_400402_01",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_400402_01",
+            "icon": "",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_194",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_195"
+        },
+        {
+            "id": 40040202,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_196",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_197",
+            "BFNAECHPEIA": 40066302,
+            "EGIMNFHDLCA": "UI_QuestRefute_400402_02e",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_400402_02e",
+            "icon": "",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_198",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_199"
+        },
+        {
+            "id": 40040203,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_200",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_201",
+            "BFNAECHPEIA": 40066303,
+            "EGIMNFHDLCA": "UI_QuestRefute_400402_03e",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_400402_03e",
+            "icon": "",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_202",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_203"
+        },
+        {
+            "id": 40040204,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_204",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_205",
+            "BFNAECHPEIA": 40066304,
+            "EGIMNFHDLCA": "UI_QuestRefute_400402_04e",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_400402_04e",
+            "icon": "",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_206",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_207"
+        },
+        {
+            "id": 40040205,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_208",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_209",
+            "BFNAECHPEIA": 40066305,
+            "CHFILENFNKB": -2,
+            "EGIMNFHDLCA": "UI_QuestRefute_400402_05",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_400402_05",
+            "icon": "",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_210",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_211"
+        }
+    ],
+    "EOBIBLBKMCM": [
+        {
+            "id": 40040206,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_212",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_213",
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40069910,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerGirl",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EGIMNFHDLCA": "",
+            "ICBDBFNMDPA": "",
+            "icon": "UI_QuestIcon_400405",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_214",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_215"
+        },
+        {
+            "id": 40040207,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_216",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_217",
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40069910,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerGirl",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EGIMNFHDLCA": "",
+            "ICBDBFNMDPA": "",
+            "icon": "UI_QuestIcon_400406",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_218",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_219"
+        },
+        {
+            "id": 40040208,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_220",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_221",
+            "NEAGOFIIBDJ": [
+                {
+                    "NIDCEGMNBJG": 40066501,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerGirl",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40069910,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerGirl",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EGIMNFHDLCA": "UI_QuestRefute_400402_02s",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_400402_02s",
+            "icon": "UI_QuestIcon_400412",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_222",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_223",
+            "CKAKJHAGINF": [
+                40040202
+            ]
+        },
+        {
+            "id": 40040209,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_224",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_225",
+            "NEAGOFIIBDJ": [
+                {
+                    "NIDCEGMNBJG": 40066601,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerGirl",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40069910,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerGirl",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EGIMNFHDLCA": "UI_QuestRefute_400402_03s",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_400402_03s",
+            "icon": "UI_QuestIcon_400402",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_226",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_227",
+            "CKAKJHAGINF": [
+                40040203
+            ]
+        },
+        {
+            "id": 40040210,
+            "title": "REFUTEBULLET_400602_TITLETEXTMAP_228",
+            "EPPJCCIHOKO": "REFUTEBULLET_400602_TITLECORRECTTEXTMAP_229",
+            "NEAGOFIIBDJ": [
+                {
+                    "NIDCEGMNBJG": 40066701,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerGirl",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40069910,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerGirl",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EGIMNFHDLCA": "UI_QuestRefute_400402_04s",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_400402_04s",
+            "icon": "UI_QuestIcon_400403",
+            "MACCOEICHDP": "REFUTEBULLET_400602_DESCRIPTIONTEXTMAP_230",
+            "FIKKPOLJABK": "REFUTEBULLET_400602_DESCRIPTIONCORRECTTEXTMAP_231",
+            "CKAKJHAGINF": [
+                40040204
+            ]
+        }
+    ],
+    "OHAKLEOIKDF": 1548,
+    "PALFEMMABMM": [
+        [
+            40040201,
+            40040208,
+            40040209,
+            40040210,
+            40040205
+        ]
+    ],
+    "GJFFPJEHDDE": 4006,
+    "NGPFLBFMMFC": ""
+}

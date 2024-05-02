@@ -1,0 +1,78 @@
+{
+  "id": 74680,
+  "type": "WQ",
+  "DPKJDKDKDFH": "mainQuestTag",
+  "titleTextMapHash": 3354930711,
+  "descTextMapHash": 615266334,
+  "luaPath": "Actor/Quest/WQ74680",
+  "rewardIdList": [
+    174680
+  ],
+  "CFHCHGOOLBN": true,
+  "PMKEAKECDPO": 2027,
+  "subQuests": [
+    {
+      "subId": 7468001,
+      "mainId": 74680,
+      "order": 1,
+      "descTextMapHash": 1251011620,
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            7468001,
+            0
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_NPC",
+        "param": [
+          "30486"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "DBJJALMJAGP": true,
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    }
+  ],
+  "PCNNNPLAEAI": [
+    {
+      "id": 7468001,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "7468001",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "FMFFELFBBJN": 746800101,
+      "JDOFKFPHIDC": [
+        30486
+      ],
+      "GHHGNCCJOEJ": "QuestDialogue/WQ/Filmfest_74680/Q7468001",
+      "OLLANCCFJKD": 74680,
+      "NKIDPMJGEKA": 4822830945907894884,
+      "BBMLHKKNIOJ": "",
+      "EIPOLMFCODP": [
+        "[3_340100476:3421.750,449.586,4453.235,0.000,65.230,0.000]"
+      ]
+    }
+  ],
+  "DBHFDGHAFGF": {
+    "30486": [
+      1160
+    ]
+  }
+}

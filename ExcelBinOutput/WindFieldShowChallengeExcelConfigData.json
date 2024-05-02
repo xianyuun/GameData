@@ -1,0 +1,342 @@
+[
+  {
+    "ABPGNGKEDLG": 1,
+    "OKLHBGLDBNP": 1,
+    "showType": "SHOW_TYPE_GOAL",
+    "ONNLAEELBCM": [
+      3,
+      5,
+      6
+    ],
+    "titleTextMapHash": 4078243605,
+    "JLGJGFADEDI": 4265370155,
+    "EACCHANPAIK": 1139993203
+  },
+  {
+    "ABPGNGKEDLG": 2,
+    "OKLHBGLDBNP": 1,
+    "showType": "SHOW_TYPE_GOAL",
+    "ONNLAEELBCM": [
+      3,
+      4
+    ],
+    "titleTextMapHash": 908839229,
+    "JLGJGFADEDI": 3839456987,
+    "EACCHANPAIK": 2998250971
+  },
+  {
+    "ABPGNGKEDLG": 3,
+    "OKLHBGLDBNP": 25,
+    "showType": "SHOW_TYPE_COIN",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 3125199941,
+    "JLGJGFADEDI": 4083689019,
+    "EACCHANPAIK": 3321720091
+  },
+  {
+    "ABPGNGKEDLG": 4,
+    "OKLHBGLDBNP": 3,
+    "showType": "SHOW_TYPE_WIND",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 3627460269,
+    "JLGJGFADEDI": 3887473715,
+    "EACCHANPAIK": 1202179635
+  },
+  {
+    "ABPGNGKEDLG": 5,
+    "timeLimit": 20,
+    "showType": "SHOW_TYPE_WIND_TIME",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 4186613405,
+    "JLGJGFADEDI": 4256680483,
+    "EACCHANPAIK": 2017136555
+  },
+  {
+    "ABPGNGKEDLG": 6,
+    "showType": "SHOW_TYPE_WIND_PROGRESS",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 2871755869,
+    "JLGJGFADEDI": 1878908843,
+    "EACCHANPAIK": 1303653619
+  },
+  {
+    "ABPGNGKEDLG": 7,
+    "OKLHBGLDBNP": 1,
+    "showType": "SHOW_TYPE_GOAL",
+    "ONNLAEELBCM": [
+      9,
+      11,
+      12
+    ],
+    "titleTextMapHash": 3843185869,
+    "JLGJGFADEDI": 82345067,
+    "EACCHANPAIK": 614515627
+  },
+  {
+    "ABPGNGKEDLG": 8,
+    "OKLHBGLDBNP": 1,
+    "showType": "SHOW_TYPE_GOAL",
+    "ONNLAEELBCM": [
+      9,
+      10
+    ],
+    "titleTextMapHash": 186284293,
+    "JLGJGFADEDI": 2454124059,
+    "EACCHANPAIK": 717345363
+  },
+  {
+    "ABPGNGKEDLG": 9,
+    "OKLHBGLDBNP": 25,
+    "showType": "SHOW_TYPE_COIN",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 1318582037,
+    "JLGJGFADEDI": 1442264795,
+    "EACCHANPAIK": 3708255867
+  },
+  {
+    "ABPGNGKEDLG": 10,
+    "OKLHBGLDBNP": 3,
+    "showType": "SHOW_TYPE_WIND",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 2433883597,
+    "JLGJGFADEDI": 4233259619,
+    "EACCHANPAIK": 3639902699
+  },
+  {
+    "ABPGNGKEDLG": 11,
+    "timeLimit": 30,
+    "showType": "SHOW_TYPE_WIND_TIME",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 432015357,
+    "JLGJGFADEDI": 3268582571,
+    "EACCHANPAIK": 3989289163
+  },
+  {
+    "ABPGNGKEDLG": 12,
+    "showType": "SHOW_TYPE_WIND_PROGRESS",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 2623355133,
+    "JLGJGFADEDI": 692408659,
+    "EACCHANPAIK": 2106524331
+  },
+  {
+    "ABPGNGKEDLG": 13,
+    "OKLHBGLDBNP": 1,
+    "showType": "SHOW_TYPE_GOAL",
+    "ONNLAEELBCM": [
+      15,
+      17,
+      18
+    ],
+    "titleTextMapHash": 662585805,
+    "JLGJGFADEDI": 1967576003,
+    "EACCHANPAIK": 830665755
+  },
+  {
+    "ABPGNGKEDLG": 14,
+    "OKLHBGLDBNP": 1,
+    "showType": "SHOW_TYPE_GOAL",
+    "ONNLAEELBCM": [
+      15,
+      16
+    ],
+    "titleTextMapHash": 1999819661,
+    "JLGJGFADEDI": 2601930227,
+    "EACCHANPAIK": 2431314755
+  },
+  {
+    "ABPGNGKEDLG": 15,
+    "OKLHBGLDBNP": 25,
+    "showType": "SHOW_TYPE_COIN",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 1907858453,
+    "JLGJGFADEDI": 4143756283,
+    "EACCHANPAIK": 3195748819
+  },
+  {
+    "ABPGNGKEDLG": 16,
+    "OKLHBGLDBNP": 3,
+    "showType": "SHOW_TYPE_WIND",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 1403358309,
+    "JLGJGFADEDI": 2711233107,
+    "EACCHANPAIK": 994130435
+  },
+  {
+    "ABPGNGKEDLG": 17,
+    "timeLimit": 40,
+    "showType": "SHOW_TYPE_WIND_TIME",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 1075259693,
+    "JLGJGFADEDI": 4216916331,
+    "EACCHANPAIK": 2699821395
+  },
+  {
+    "ABPGNGKEDLG": 18,
+    "showType": "SHOW_TYPE_WIND_PROGRESS",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 2908805685,
+    "JLGJGFADEDI": 2703488187,
+    "EACCHANPAIK": 1483824043
+  },
+  {
+    "ABPGNGKEDLG": 19,
+    "OKLHBGLDBNP": 1,
+    "showType": "SHOW_TYPE_GOAL",
+    "ONNLAEELBCM": [
+      21,
+      23,
+      24
+    ],
+    "titleTextMapHash": 173470677,
+    "JLGJGFADEDI": 673324715,
+    "EACCHANPAIK": 3266872539
+  },
+  {
+    "ABPGNGKEDLG": 20,
+    "OKLHBGLDBNP": 1,
+    "showType": "SHOW_TYPE_GOAL",
+    "ONNLAEELBCM": [
+      21,
+      22
+    ],
+    "titleTextMapHash": 1434349413,
+    "JLGJGFADEDI": 2008944011,
+    "EACCHANPAIK": 3065801731
+  },
+  {
+    "ABPGNGKEDLG": 21,
+    "OKLHBGLDBNP": 25,
+    "showType": "SHOW_TYPE_COIN",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 20219077,
+    "JLGJGFADEDI": 200477051,
+    "EACCHANPAIK": 527631691
+  },
+  {
+    "ABPGNGKEDLG": 22,
+    "OKLHBGLDBNP": 3,
+    "showType": "SHOW_TYPE_WIND",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 1007765429,
+    "JLGJGFADEDI": 1831502339,
+    "EACCHANPAIK": 813802075
+  },
+  {
+    "ABPGNGKEDLG": 23,
+    "timeLimit": 50,
+    "showType": "SHOW_TYPE_WIND_TIME",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 2566118333,
+    "JLGJGFADEDI": 1184690347,
+    "EACCHANPAIK": 2365870387
+  },
+  {
+    "ABPGNGKEDLG": 24,
+    "showType": "SHOW_TYPE_WIND_PROGRESS",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 93238101,
+    "JLGJGFADEDI": 3228543795,
+    "EACCHANPAIK": 3429688483
+  },
+  {
+    "ABPGNGKEDLG": 25,
+    "timeLimit": 60,
+    "showType": "SHOW_TYPE_TATAKAI",
+    "ONNLAEELBCM": [
+      26
+    ],
+    "titleTextMapHash": 1334253349,
+    "JLGJGFADEDI": 3272467043,
+    "EACCHANPAIK": 4186293667
+  },
+  {
+    "ABPGNGKEDLG": 26,
+    "OKLHBGLDBNP": 15,
+    "showType": "SHOW_TYPE_COIN",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 3272602261,
+    "JLGJGFADEDI": 47089691,
+    "EACCHANPAIK": 1191974251
+  },
+  {
+    "ABPGNGKEDLG": 27,
+    "timeLimit": 90,
+    "showType": "SHOW_TYPE_TATAKAI",
+    "ONNLAEELBCM": [
+      28
+    ],
+    "titleTextMapHash": 2478652021,
+    "JLGJGFADEDI": 1447351075,
+    "EACCHANPAIK": 170620083
+  },
+  {
+    "ABPGNGKEDLG": 28,
+    "OKLHBGLDBNP": 8,
+    "showType": "SHOW_TYPE_DEFEAT_MONSTER",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 1598182733,
+    "JLGJGFADEDI": 760097411,
+    "EACCHANPAIK": 1216780539
+  },
+  {
+    "ABPGNGKEDLG": 29,
+    "timeLimit": 60,
+    "showType": "SHOW_TYPE_TATAKAI",
+    "ONNLAEELBCM": [
+      30
+    ],
+    "titleTextMapHash": 2085419925,
+    "JLGJGFADEDI": 479560859,
+    "EACCHANPAIK": 4263815611
+  },
+  {
+    "ABPGNGKEDLG": 30,
+    "OKLHBGLDBNP": 15,
+    "showType": "SHOW_TYPE_COIN",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 1361381509,
+    "JLGJGFADEDI": 1960824275,
+    "EACCHANPAIK": 1254718643
+  },
+  {
+    "ABPGNGKEDLG": 31,
+    "timeLimit": 90,
+    "showType": "SHOW_TYPE_TATAKAI",
+    "ONNLAEELBCM": [
+      32
+    ],
+    "titleTextMapHash": 1248145845,
+    "JLGJGFADEDI": 3550367955,
+    "EACCHANPAIK": 3341581083
+  },
+  {
+    "ABPGNGKEDLG": 32,
+    "OKLHBGLDBNP": 7,
+    "showType": "SHOW_TYPE_DEFEAT_MONSTER",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 2644765533,
+    "JLGJGFADEDI": 899417819,
+    "EACCHANPAIK": 487562475
+  },
+  {
+    "ABPGNGKEDLG": 33,
+    "timeLimit": 90,
+    "showType": "SHOW_TYPE_TATAKAI",
+    "ONNLAEELBCM": [
+      34
+    ],
+    "titleTextMapHash": 231912101,
+    "JLGJGFADEDI": 693493371,
+    "EACCHANPAIK": 2289768443
+  },
+  {
+    "ABPGNGKEDLG": 34,
+    "OKLHBGLDBNP": 11,
+    "showType": "SHOW_TYPE_DEFEAT_MONSTER",
+    "ONNLAEELBCM": [],
+    "titleTextMapHash": 3457096733,
+    "JLGJGFADEDI": 3311631507,
+    "EACCHANPAIK": 2831184979
+  }
+]

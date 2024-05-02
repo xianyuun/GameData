@@ -1,0 +1,228 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "protectNpcMobileLod": true,
+    "BENAABMGANF": 5,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 13163,
+            "alias": "13163",
+            "visible": true,
+            "bornPointName": "",
+            "forceCreateDaily": true,
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1005,
+            "alias": "1005",
+            "visible": true,
+            "bornPointName": "",
+            "useRelativePos": true,
+            "relativePos": {
+                "x": 0.5,
+                "z": 0.5
+            },
+            "removeActorType": "NEW_REMOVE_WITH_DISAPPEAR",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.10000000149011612,
+                "actionId": 103,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 104
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 118,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "13163",
+                "NPLGONEPKID": true,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 119,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "13163",
+                "NPLGONEPKID": true,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 112,
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "13163",
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 1.0,
+                "aliasList": [
+                    "13163"
+                ],
+                "actionId": 113,
+                "MEHNLJGJOJM": "TO_TARGET",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "Avatar",
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "13163"
+                ],
+                "actionId": 107,
+                "ACDCGBPKCAF": 130191801,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "13163"
+                ],
+                "actionId": 117,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_Avatar_PersonalLine/Cs_Emo_Avatar_Nahida/Cs_Emo_130191801",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    16240142002007334297,
+                    7702861578174574974,
+                    17245686212151765900,
+                    7654258546382689961
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "13163"
+                ],
+                "actionId": 120,
+                "HJICCFGEJKI": 5,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 105
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "13163"
+                ],
+                "actionId": 121,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.10000000149011612,
+                "duration": 1.0,
+                "aliasList": [
+                    "13163"
+                ],
+                "actionId": 114,
+                "MEHNLJGJOJM": "RETURN",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "HKMHEDBICGC": true,
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 1453405581,
+            "nextGrpId": 1453405582
+        },
+        {
+            "index": 1,
+            "grpId": 1453405582,
+            "nextGrpId": 1453405583
+        },
+        {
+            "index": 2,
+            "grpId": 1453405583,
+            "nextGrpId": 1453405584
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "isKeyInteraction": false,
+    "group": [
+        [
+            {
+                "$type": "LJFIDKBFGLM",
+                "type": "GADGET_TOUCH"
+            }
+        ]
+    ]
+}

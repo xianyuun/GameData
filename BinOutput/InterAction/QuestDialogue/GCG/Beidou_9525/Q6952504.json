@@ -1,0 +1,184 @@
+{
+    "luaDataPath": "",
+    "isSimpleTalk": true,
+    "entityBan": "",
+    "disableNpcLod": true,
+    "protectNpcMobileLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 9525,
+            "alias": "9525",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.10000000149011612,
+                "actionId": 103,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 104
+            },
+            {
+                "$type": "MoleMole.Config.ConfigRequestMsgAction",
+                "type": "REQUEST_MSG",
+                "actionId": 108,
+                "msgName": "ClearWorldChallengeTalk",
+                "param": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 112,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "9525",
+                "NPLGONEPKID": true,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9525"
+                ],
+                "actionId": 113,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 109,
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "ODONLEDECOB": true,
+                "MOIAMOAOEHJ": "9525",
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "9525"
+                ],
+                "actionId": 111,
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR_ADVANCED",
+                "ODONLEDECOB": true,
+                "MOIAMOAOEHJ": "",
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9525"
+                ],
+                "actionId": 107,
+                "ACDCGBPKCAF": 695250401,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 105
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "9525"
+                ],
+                "actionId": 110,
+                "MEHNLJGJOJM": "RETURN",
+                "ODONLEDECOB": true,
+                "MOIAMOAOEHJ": "",
+                "HKMHEDBICGC": true,
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9525"
+                ],
+                "actionId": 114,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "",
+                "NPLGONEPKID": true,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 2904189339,
+            "nextGrpId": 2904189340
+        },
+        {
+            "index": 1,
+            "grpId": 2904189340,
+            "nextGrpId": 2904189341
+        },
+        {
+            "index": 2,
+            "grpId": 2904189341,
+            "nextGrpId": 2904189342
+        }
+    ],
+    "freeStyleDic": {
+        "9525": []
+    }
+}

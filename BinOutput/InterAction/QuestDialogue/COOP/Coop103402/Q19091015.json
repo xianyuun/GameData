@@ -1,0 +1,61 @@
+{
+    "luaDataPath": "",
+    "dontUseDefaultFinish": true,
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 143501,
+            "alias": "143501",
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "DOMDCMLMEKG": "RELATIVE_TO_TARGET_ENTITY",
+                "PEOMGGJMOLC": "RELATIVE_TO_TARGET_ENTITY",
+                "OADKONNOJHC": 30.0,
+                "KMABIPKEMNG": 6,
+                "CBNIDBJOFOD": "EaseInOutCubic",
+                "BOLFJKBKMAF": {},
+                "MOIAMOAOEHJ": "143501",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "143501"
+                ],
+                "ACDCGBPKCAF": 1909101501
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 3636300177,
+            "nextGrpId": 3636300178
+        }
+    ]
+}

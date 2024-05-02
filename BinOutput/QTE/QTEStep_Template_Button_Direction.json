@@ -1,0 +1,36 @@
+{
+    "components": [
+        {
+            "$type": "ABFAFFFFFLE",
+            "GGGNNKACKMP": 11,
+            "IBLFILFDEBP": "QTE_STEP_BUTTON_INPUT_LEFT_MOVE",
+            "FJNLHNIKFPP": "QTE_STEP_BUTTON_STYLE_DIRECT",
+            "PNLBGFLJBBN": [
+                {
+                    "actions": [
+                        {
+                            "$type": "HLMEGLJLDOB",
+                            "actionType": "QTE_STEP_ACTION_SUCCESS"
+                        }
+                    ]
+                }
+            ],
+            "AFLBKBEANAG": "QTE_STEP_BUTTON_SLIDE_DIRECT_LEFT",
+            "KFOBCKPPPLD": 45.0,
+            "GFFPKGGGLDM": 50.0,
+            "BMIDHKLKMDD": 0.800000011920929
+        }
+    ],
+    "failTrigger": [
+        {
+            "actions": [
+                {
+                    "$type": "BFJDOPLOKOI",
+                    "actionType": "QTE_STEP_ACTION_CUTSCENE_FAILED_BLACK_SCREEN",
+                    "NNEPPAJGONO": 7201302,
+                    "HDOPJIDANAD": "UI_DUNGEON_MISSION_FAIL"
+                }
+            ]
+        }
+    ]
+}

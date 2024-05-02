@@ -1,0 +1,60 @@
+{
+    "luaDataPath": "",
+    "isSimpleTalk": true,
+    "entityBan": "",
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 205401,
+            "alias": "205401",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "205401"
+                ],
+                "ACDCGBPKCAF": 10110191
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "205401"
+                ],
+                "HJICCFGEJKI": 1172,
+                "PAOLGENKEGO": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 2517025015,
+            "nextGrpId": 2517025016
+        }
+    ],
+    "freeStyleDic": {
+        "205401": [
+            1172
+        ]
+    }
+}

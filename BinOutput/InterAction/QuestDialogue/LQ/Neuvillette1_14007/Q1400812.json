@@ -1,0 +1,247 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "isAutoBanNpc": true,
+    "isBanWidgetPet": true,
+    "protectNpcMobileLod": true,
+    "BENAABMGANF": 7,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "notDestroyInTalk": true,
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 1.0,
+                "actionId": 104
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 1.0,
+                "actionId": 119,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 127,
+                "flag": 64,
+                "MCGCHJMHMDI": true,
+                "useTargetPos": true,
+                "KKNEOPHCNHD": true,
+                "EJKCOJLEEFD": {
+                    "x": -51.130001068115234,
+                    "y": 1.4170000553131104,
+                    "z": -12.805000305175781
+                },
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "",
+                "PPILGAHLBCH": "NONE",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 10.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 126,
+                "flag": 32,
+                "MEHNLJGJOJM": "ABSOLUTE",
+                "GJFGEAEKFEH": {
+                    "x": -51.17499923706055,
+                    "y": 0.4959999918937683,
+                    "z": -12.699999809265137
+                },
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "HKMHEDBICGC": true,
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 120,
+                "ACDCGBPKCAF": 140081201,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 121,
+                "ACDCGBPKCAF": 140081202,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 122,
+                "ACDCGBPKCAF": 140081203,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 109,
+                "HLOONFICMOJ": [
+                    140081204,
+                    140081205
+                ],
+                "BJBCCFDIICN": [
+                    1910629747,
+                    1910629750
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 1910629742
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 123,
+                "ACDCGBPKCAF": 140081206,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 124,
+                "ACDCGBPKCAF": 140081207,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 125,
+                "ACDCGBPKCAF": 140081208,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 114
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 105
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 1910629743,
+            "nextGrpId": 1910629744
+        },
+        {
+            "index": 1,
+            "grpId": 1910629744,
+            "nextGrpId": 1910629745
+        },
+        {
+            "index": 2,
+            "grpId": 1910629745,
+            "nextGrpId": 1910629746
+        },
+        {
+            "index": 3,
+            "grpId": 1910629746,
+            "nextGrpId": 1910629747
+        },
+        {
+            "index": 4,
+            "grpId": 1910629747,
+            "nextGrpId": 1910629748
+        },
+        {
+            "index": 5,
+            "grpId": 1910629748,
+            "nextGrpId": 1910629749
+        },
+        {
+            "index": 6,
+            "grpId": 1910629749,
+            "nextGrpId": 1910629750
+        },
+        {
+            "index": 7,
+            "grpId": 1910629750,
+            "nextGrpId": 1910629751
+        },
+        {
+            "index": 8,
+            "grpId": 1910629751,
+            "nextGrpId": 3394947233
+        }
+    ]
+}

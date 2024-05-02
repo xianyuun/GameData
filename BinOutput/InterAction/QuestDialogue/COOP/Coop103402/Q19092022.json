@@ -1,0 +1,80 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 147701,
+            "alias": "147701",
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "DOMDCMLMEKG": "RELATIVE_TO_TARGET_ENTITY",
+                "PEOMGGJMOLC": "RELATIVE_TO_TARGET_ENTITY",
+                "OADKONNOJHC": 30.0,
+                "KMABIPKEMNG": 6,
+                "CBNIDBJOFOD": "EaseInOutCubic",
+                "BOLFJKBKMAF": {},
+                "MOIAMOAOEHJ": "147701",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "147701"
+                ],
+                "ACDCGBPKCAF": 1909202201
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigSimpleBlackScreenAction",
+                "type": "SIMPLE_BLACK_SCREEN",
+                "durationToBlack": 0.5,
+                "durationKeepBlack": 1.0,
+                "durationFromBlack": 0.5,
+                "textMapID": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.699999988079071
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 3664956236,
+            "nextGrpId": 3664956237
+        },
+        {
+            "index": 1,
+            "grpId": 3664956237,
+            "nextGrpId": 3664956238
+        }
+    ]
+}

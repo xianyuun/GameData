@@ -1,0 +1,71 @@
+{
+    "components": [
+        {
+            "$type": "ABFAFFFFFLE",
+            "GGGNNKACKMP": 2,
+            "GPHNAODJKFL": [
+                {
+                    "actions": [
+                        {
+                            "$type": "CKDNGFKANNP",
+                            "actionType": "QTE_STEP_ACTION_POWER_BAR_VALUE_CHANGE",
+                            "CIANIOGHJAD": 20
+                        },
+                        {
+                            "$type": "HLMEGLJLDOB",
+                            "actionType": "QTE_STEP_ACTION_POWER_BAR_PRESS_DOWN"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "$type": "NBIEIHLEPKA",
+            "LBHGJKHHAKP": 100,
+            "MOMGOMDKIAD": -10.0,
+            "GLFMOHPJONC": 0.10000000149011612,
+            "PGMBMHLJBKF": [
+                {
+                    "condGroup": {
+                        "JGNJJOJPPEG": [
+                            {
+                                "$type": "NCKKIENJJAG",
+                                "IAMBKIEODJH": "QTE_STEP_COND_POWER_BAR_VALUE",
+                                "JAEDKFENNON": "GreaterOrEqual",
+                                "value": 100
+                            }
+                        ]
+                    },
+                    "actions": [
+                        {
+                            "$type": "HLMEGLJLDOB",
+                            "actionType": "QTE_STEP_ACTION_SUCCESS"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "successTrigger": [
+        {
+            "actions": [
+                {
+                    "$type": "HLMEGLJLDOB",
+                    "actionType": "QTE_STEP_ACTION_CUTSCENE_TIME_SCALE_RESET"
+                }
+            ]
+        }
+    ],
+    "failTrigger": [
+        {
+            "actions": [
+                {
+                    "$type": "BFJDOPLOKOI",
+                    "actionType": "QTE_STEP_ACTION_CUTSCENE_FAILED_BLACK_SCREEN",
+                    "NNEPPAJGONO": 7201302,
+                    "HDOPJIDANAD": "UI_DUNGEON_MISSION_FAIL"
+                }
+            ]
+        }
+    ]
+}

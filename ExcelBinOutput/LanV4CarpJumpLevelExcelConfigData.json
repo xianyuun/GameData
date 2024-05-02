@@ -1,0 +1,235 @@
+[
+  {
+    "galleryId": 76101,
+    "OFKNOMGEKAC": 13264,
+    "levelDescTextMapHash": 1342717109,
+    "CGHGHAKADPF": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "GICEMOKDFMO": 133101334,
+    "DMKECMJGCAH": 2.0,
+    "FDMOFIJFBJK": 3082425129,
+    "IEJLIBMFEBP": 19.0,
+    "groupBundleID": 20280101,
+    "KLIMICBIPOF": [
+      71532
+    ],
+    "levelID": 1,
+    "activityID": 2028,
+    "nameTextMapHash": 3113748019,
+    "questList": [
+      40139,
+      71532
+    ],
+    "AMPCJMKOAPN": [],
+    "watcherList": [
+      12028311,
+      12028312,
+      12028313
+    ],
+    "openDay": 3,
+    "PKIGAJIGEFP": [
+      "ACTIVITY_LEVEL_COND_TYPE_MAIN_QUEST"
+    ],
+    "MJCDANMLCGL": [
+      "ACTIVITY_LEVEL_COND_TYPE_OPEN_DAY",
+      "ACTIVITY_LEVEL_COND_TYPE_DEFAULT"
+    ],
+    "MKGKGCNBBEK": [
+      "ACTIVITY_LEVEL_COND_TYPE_WATCHER_REWARD_TAKEN"
+    ]
+  },
+  {
+    "galleryId": 76102,
+    "OFKNOMGEKAC": 13265,
+    "levelDescTextMapHash": 1210722861,
+    "CGHGHAKADPF": [
+      1,
+      2,
+      3,
+      7,
+      5
+    ],
+    "GICEMOKDFMO": 133114029,
+    "DMKECMJGCAH": 2.0,
+    "FDMOFIJFBJK": 941488561,
+    "IEJLIBMFEBP": 19.0,
+    "groupBundleID": 20280102,
+    "KLIMICBIPOF": [
+      71532
+    ],
+    "levelID": 2,
+    "activityID": 2028,
+    "nameTextMapHash": 3831582643,
+    "questList": [
+      40139,
+      71532
+    ],
+    "AMPCJMKOAPN": [
+      1
+    ],
+    "watcherList": [
+      12028321,
+      12028322,
+      12028323
+    ],
+    "openDay": 3,
+    "PKIGAJIGEFP": [
+      "ACTIVITY_LEVEL_COND_TYPE_MAIN_QUEST"
+    ],
+    "MJCDANMLCGL": [
+      "ACTIVITY_LEVEL_COND_TYPE_OPEN_DAY",
+      "ACTIVITY_LEVEL_COND_TYPE_PRE_LEVEL_PLAYED"
+    ],
+    "MKGKGCNBBEK": [
+      "ACTIVITY_LEVEL_COND_TYPE_WATCHER_REWARD_TAKEN"
+    ]
+  },
+  {
+    "galleryId": 76103,
+    "OFKNOMGEKAC": 13266,
+    "levelDescTextMapHash": 3490423605,
+    "CGHGHAKADPF": [
+      1,
+      2,
+      8,
+      3,
+      6
+    ],
+    "GICEMOKDFMO": 133116029,
+    "DMKECMJGCAH": 2.0,
+    "FDMOFIJFBJK": 4123171681,
+    "IEJLIBMFEBP": 19.0,
+    "groupBundleID": 20280103,
+    "KLIMICBIPOF": [
+      71532
+    ],
+    "levelID": 3,
+    "activityID": 2028,
+    "nameTextMapHash": 1779913275,
+    "questList": [
+      40139,
+      71532
+    ],
+    "AMPCJMKOAPN": [
+      2
+    ],
+    "watcherList": [
+      12028331,
+      12028332,
+      12028333
+    ],
+    "openDay": 3,
+    "PKIGAJIGEFP": [
+      "ACTIVITY_LEVEL_COND_TYPE_MAIN_QUEST"
+    ],
+    "MJCDANMLCGL": [
+      "ACTIVITY_LEVEL_COND_TYPE_OPEN_DAY",
+      "ACTIVITY_LEVEL_COND_TYPE_PRE_LEVEL_PLAYED"
+    ],
+    "MKGKGCNBBEK": [
+      "ACTIVITY_LEVEL_COND_TYPE_WATCHER_REWARD_TAKEN"
+    ]
+  },
+  {
+    "galleryId": 76104,
+    "OFKNOMGEKAC": 13266,
+    "levelDescTextMapHash": 963322645,
+    "CGHGHAKADPF": [
+      1,
+      2,
+      8,
+      3,
+      7,
+      4,
+      5,
+      6
+    ],
+    "GICEMOKDFMO": 133101462,
+    "DMKECMJGCAH": 2.0,
+    "FDMOFIJFBJK": 3932809809,
+    "IEJLIBMFEBP": 19.0,
+    "groupBundleID": 20280104,
+    "KLIMICBIPOF": [
+      71532
+    ],
+    "levelID": 4,
+    "activityID": 2028,
+    "nameTextMapHash": 3685508203,
+    "questList": [
+      40139,
+      71532
+    ],
+    "AMPCJMKOAPN": [
+      3
+    ],
+    "watcherList": [
+      12028341,
+      12028342,
+      12028343
+    ],
+    "openDay": 5,
+    "PKIGAJIGEFP": [
+      "ACTIVITY_LEVEL_COND_TYPE_MAIN_QUEST"
+    ],
+    "MJCDANMLCGL": [
+      "ACTIVITY_LEVEL_COND_TYPE_OPEN_DAY",
+      "ACTIVITY_LEVEL_COND_TYPE_PRE_LEVEL_PLAYED"
+    ],
+    "MKGKGCNBBEK": [
+      "ACTIVITY_LEVEL_COND_TYPE_WATCHER_REWARD_TAKEN"
+    ]
+  },
+  {
+    "galleryId": 76105,
+    "OFKNOMGEKAC": 13266,
+    "levelDescTextMapHash": 1347300125,
+    "CGHGHAKADPF": [
+      1,
+      2,
+      8,
+      3,
+      7,
+      4,
+      5,
+      6
+    ],
+    "GICEMOKDFMO": 133101281,
+    "DMKECMJGCAH": 2.0,
+    "FDMOFIJFBJK": 2079485785,
+    "IEJLIBMFEBP": 19.0,
+    "groupBundleID": 20280105,
+    "KLIMICBIPOF": [
+      71532
+    ],
+    "levelID": 5,
+    "activityID": 2028,
+    "nameTextMapHash": 1118248811,
+    "questList": [
+      40139,
+      71532
+    ],
+    "AMPCJMKOAPN": [
+      4
+    ],
+    "watcherList": [
+      12028351,
+      12028352,
+      12028353
+    ],
+    "openDay": 5,
+    "PKIGAJIGEFP": [
+      "ACTIVITY_LEVEL_COND_TYPE_MAIN_QUEST"
+    ],
+    "MJCDANMLCGL": [
+      "ACTIVITY_LEVEL_COND_TYPE_OPEN_DAY",
+      "ACTIVITY_LEVEL_COND_TYPE_PRE_LEVEL_PLAYED"
+    ],
+    "MKGKGCNBBEK": [
+      "ACTIVITY_LEVEL_COND_TYPE_WATCHER_REWARD_TAKEN"
+    ]
+  }
+]

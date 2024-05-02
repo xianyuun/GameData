@@ -1,0 +1,128 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 10424,
+            "alias": "10424",
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.10000000149011612,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "useTargetPos": true,
+                "KKNEOPHCNHD": true,
+                "EJKCOJLEEFD": {
+                    "x": -574.0617065429688,
+                    "y": 224.27613830566406,
+                    "z": 1287.129150390625
+                },
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "",
+                "PPILGAHLBCH": "NONE",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "z": 3.0
+                },
+                "NDLLBBLIGBK": {
+                    "z": 3.0
+                },
+                "AIHABEFBJJA": 1.0,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 1.0,
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEHNLJGJOJM": "ABSOLUTE",
+                "GJFGEAEKFEH": {
+                    "x": -574.0510864257812,
+                    "y": 224.19039916992188,
+                    "z": 1287.1444091796875
+                },
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "10424"
+                ],
+                "ACDCGBPKCAF": 111211001,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "10424"
+                ],
+                "ACDCGBPKCAF": 111211002,
+                "LENKPLFIBOP": 0.5
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 2359640337,
+            "nextGrpId": 2359640338
+        },
+        {
+            "index": 1,
+            "grpId": 2359640338,
+            "nextGrpId": 2359640339
+        }
+    ]
+}

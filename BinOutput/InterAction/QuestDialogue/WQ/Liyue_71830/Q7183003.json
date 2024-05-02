@@ -1,0 +1,165 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 12326,
+            "alias": "12326",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "12326"
+                ],
+                "MCGCHJMHMDI": true,
+                "useTargetPos": true,
+                "KKNEOPHCNHD": true,
+                "EJKCOJLEEFD": {
+                    "x": -783.8709716796875,
+                    "y": 206.58099365234375,
+                    "z": 733.60302734375
+                },
+                "GIAKFCOAECK": true,
+                "BOAHNFGDBAO": 0.5,
+                "GJINJLHBNID": 1.0,
+                "MOIAMOAOEHJ": "",
+                "PPILGAHLBCH": "NONE",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.10000000149011612,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "12326"
+                ],
+                "ACDCGBPKCAF": 718300301,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.8420000076293945,
+                "aliasList": [
+                    "12326"
+                ],
+                "HJICCFGEJKI": 1150,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "12326"
+                ],
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "12326"
+                ],
+                "ACDCGBPKCAF": 718300302,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.5260000228881836,
+                "aliasList": [
+                    "12326"
+                ],
+                "HJICCFGEJKI": 1230,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "12326"
+                ],
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 3970977203,
+            "nextGrpId": 3970977204
+        },
+        {
+            "index": 1,
+            "grpId": 3970977204,
+            "nextGrpId": 3970977205
+        },
+        {
+            "index": 2,
+            "grpId": 3970977205,
+            "nextGrpId": 3970977206
+        },
+        {
+            "index": 3,
+            "grpId": 3970977206,
+            "nextGrpId": 3970977207
+        }
+    ],
+    "freeStyleDic": {
+        "12326": [
+            1150,
+            1230
+        ]
+    }
+}

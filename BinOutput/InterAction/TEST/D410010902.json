@@ -1,0 +1,42 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "isKeyInteraction": false,
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigUITriggerInterAction",
+                "type": "UI_TRIGGER",
+                "contextName": "ActivitySalesManDeliverDialog",
+                "param": ""
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 2.0,
+                "DOMDCMLMEKG": "EXIT",
+                "PEOMGGJMOLC": "TO_INTEE",
+                "NPJJNOFEADI": 4.0,
+                "KMABIPKEMNG": 9,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG_CLEAR"
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 0.75,
+                "MEHNLJGJOJM": "RETURN",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            }
+        ]
+    ]
+}

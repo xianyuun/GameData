@@ -1,0 +1,129 @@
+{
+    "luaDataPath": "",
+    "isSimpleTalk": true,
+    "entityBan": "",
+    "startFade": {},
+    "endFade": {},
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 9005,
+            "alias": "9005",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9005"
+                ],
+                "ACDCGBPKCAF": 201
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "ACDCGBPKCAF": 202
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "ACDCGBPKCAF": 203
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9005"
+                ],
+                "ACDCGBPKCAF": 204
+            }
+        ],
+        [
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9005"
+                ],
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 836099309,
+            "nextGrpId": 836099310
+        },
+        {
+            "index": 1,
+            "grpId": 836099310,
+            "nextGrpId": 836099311
+        },
+        {
+            "index": 2,
+            "grpId": 836099311,
+            "nextGrpId": 836099312
+        },
+        {
+            "index": 3,
+            "grpId": 836099312,
+            "nextGrpId": 836099313
+        },
+        {
+            "index": 4,
+            "grpId": 836099313,
+            "nextGrpId": 836099314
+        },
+        {
+            "index": 5,
+            "grpId": 836099314,
+            "nextGrpId": 836099315
+        },
+        {
+            "index": 6,
+            "grpId": 836099315,
+            "nextGrpId": 836099316
+        },
+        {
+            "index": 7,
+            "grpId": 836099316,
+            "nextGrpId": 836099317
+        }
+    ]
+}

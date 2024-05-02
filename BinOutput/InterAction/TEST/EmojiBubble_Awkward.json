@@ -1,0 +1,42 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigEmojiBubbleAction",
+                "type": "EMOJI_BUBBLE",
+                "pattarnName": "EmojiBubble_Emoji_Awkward"
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 1.0,
+                "DOMDCMLMEKG": "RELATIVE_TO_INTER",
+                "MEEOFFMAAJP": {
+                    "y": 0.5
+                },
+                "CIJLMBOJJBF": 2.0,
+                "PEOMGGJMOLC": "TO_INTEE",
+                "MGDCLCOKDOF": {
+                    "y": 0.5
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 6,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR_ADVANCED",
+                "ODONLEDECOB": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            }
+        ]
+    ]
+}

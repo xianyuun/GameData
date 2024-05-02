@@ -1,0 +1,393 @@
+{
+    "luaDataPath": "",
+    "dontUseDefaultFinish": true,
+    "entityBan": "",
+    "disableNpcLod": true,
+    "isAutoBanNpc": true,
+    "protectNpcMobileLod": true,
+    "BENAABMGANF": 5,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 9061,
+            "alias": "9061",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.5,
+                "actionId": 113,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.5,
+                "actionId": 114
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 116,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 126,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "9061",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 118,
+                "flag": 32,
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "NJPEFGKGIKA": true,
+                "OGIJLLGPLCL": 165.0,
+                "HENLCNIJFMP": 15.0,
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 120,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 127,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 117,
+                "flag": 32,
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "9061",
+                "NJPEFGKGIKA": true,
+                "OGIJLLGPLCL": 165.0,
+                "HENLCNIJFMP": 15.0,
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 128,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "9061",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 106,
+                "ACDCGBPKCAF": 690610101,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 111,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610101",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "DGGHNBHDFHF": false,
+                "GCKBEBFAPKP": [
+                    1954894828760466031,
+                    13849392999409951588,
+                    3190406138046764842,
+                    4622590106771450284
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 122,
+                "HJICCFGEJKI": 1172,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 129,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "Avatar",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 60.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 108,
+                "ACDCGBPKCAF": 690610102,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "INHCDBHOCKI",
+                "type": "EMO_SYNC",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 112,
+                "GIKDLHGKBPJ": "Cs_Emo_Avatar_Simple_Common_Set/Cs_Emo_Avatar_Talk/Cs_Emo_HomeWorld/Cs_Emo_Avatar_Kirara/Cs_Emo_690610102",
+                "FJILCMLOCBP": "",
+                "BJDPMGGJICG": "",
+                "KPKJAPOMILH": "",
+                "GGFNLCMIHPE": "",
+                "IGNNIAHIFBJ": "",
+                "GCKBEBFAPKP": [
+                    5183177454127623187,
+                    2078681491756671307,
+                    826220439409898015,
+                    1751447791033022653
+                ]
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 121,
+                "HJICCFGEJKI": 1190,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "delayTime": 0.3449999988079071,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 130,
+                "useTargetPos": false,
+                "NFCLGPIKCOG": {
+                    "z": 2.0
+                },
+                "NDLLBBLIGBK": {
+                    "z": 2.0
+                },
+                "AIHABEFBJJA": 0.20000000298023224,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 2.193000078201294,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 123,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "delayTime": 2.5799999237060547,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 131,
+                "useTargetPos": false,
+                "AIHABEFBJJA": 0.20000000298023224,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 3.197000026702881,
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 125,
+                "HJICCFGEJKI": 1171,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.30000001192092896,
+                "actionId": 104
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 124,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "PJOALAAMGEP",
+                "type": "LOOK_AT_EYECTRL",
+                "aliasList": [
+                    "9061"
+                ],
+                "actionId": 132,
+                "useTargetPos": false,
+                "AIHABEFBJJA": 1.0,
+                "MOIAMOAOEHJ": "",
+                "CBIJNLJMAMC": "Face"
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 296154376,
+            "nextGrpId": 296154377
+        },
+        {
+            "index": 1,
+            "grpId": 296154377,
+            "nextGrpId": 296154378
+        },
+        {
+            "index": 2,
+            "grpId": 296154378,
+            "nextGrpId": 296154379
+        },
+        {
+            "index": 3,
+            "grpId": 296154379,
+            "nextGrpId": 296154380
+        }
+    ],
+    "freeStyleDic": {
+        "9061": [
+            1172,
+            1190,
+            1171
+        ]
+    },
+    "GCEOGCMIEAN": {
+        "9061": [
+            "SitChat01AS",
+            "SitHoldArm01AS",
+            "SitPutArm01AS",
+            "SitShrug01AS",
+            "SitThink01AS"
+        ]
+    }
+}

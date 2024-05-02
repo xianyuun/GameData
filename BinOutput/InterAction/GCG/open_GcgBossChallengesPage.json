@@ -1,0 +1,80 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "MEEOFFMAAJP": {
+                    "x": 2.6730000972747803,
+                    "y": 1.7309999465942383,
+                    "z": 6.0269999504089355
+                },
+                "MGDCLCOKDOF": {
+                    "x": 0.6679999828338623,
+                    "y": 1.8860000371932983,
+                    "z": 10.986000061035156
+                },
+                "OADKONNOJHC": 20.0,
+                "NPJJNOFEADI": 1.0,
+                "KMABIPKEMNG": 2,
+                "CBNIDBJOFOD": "EaseInOutCubic",
+                "BOLFJKBKMAF": {},
+                "FODCPDFHDLJ": 4.0,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigUITriggerInterAction",
+                "type": "UI_TRIGGER",
+                "contextName": "GcgBossChallengesPage",
+                "param": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "HJICCFGEJKI": 3,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 0.10000000149011612,
+                "DOMDCMLMEKG": "EXIT",
+                "PEOMGGJMOLC": "TO_INTEE",
+                "NPJJNOFEADI": 5.0,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "delayTime": 0.5,
+                "duration": 1.0,
+                "DOMDCMLMEKG": "RELATIVE_TO_INTER",
+                "MEEOFFMAAJP": {
+                    "y": 0.5
+                },
+                "CIJLMBOJJBF": 2.0,
+                "PEOMGGJMOLC": "TO_INTEE",
+                "MGDCLCOKDOF": {
+                    "y": 0.5
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 6,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ]
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "isAutoBanNpc": true,
+    "isBanWidgetPet": true,
+    "protectNpcMobileLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1005,
+            "alias": "1005",
+            "visible": true,
+            "bornPointName": "",
+            "removeActorType": "REMOVE_WITH_DISAPPEAR",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 114,
+                "MEHNLJGJOJM": "TO_TARGET",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "MOIAMOAOEHJ": "1005",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 115,
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790310201,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MoleMole.Config.ConfigUITriggerInterAction",
+                "type": "UI_TRIGGER",
+                "delayTime": 0.5,
+                "contextName": "QuestReadingDialog",
+                "param": "101799"
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 790310205,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.699999988079071
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 795124591,
+            "nextGrpId": 795124592
+        },
+        {
+            "index": 1,
+            "grpId": 795124592,
+            "nextGrpId": 795124593
+        },
+        {
+            "index": 2,
+            "grpId": 795124593,
+            "nextGrpId": 795124594
+        },
+        {
+            "index": 3,
+            "grpId": 795124594,
+            "nextGrpId": 795124595
+        }
+    ]
+}

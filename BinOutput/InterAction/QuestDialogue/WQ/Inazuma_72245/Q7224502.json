@@ -1,0 +1,338 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 20360,
+            "alias": "20360",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1005,
+            "alias": "1005",
+            "visible": true,
+            "bornPointName": "",
+            "useRelativePos": true,
+            "relativePos": {
+                "x": 0.5,
+                "z": 0.5
+            },
+            "removeActorType": "REMOVE_WITH_DISAPPEAR",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "20360"
+                ],
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "1005"
+                ],
+                "MEHNLJGJOJM": "TO_TARGET",
+                "ODONLEDECOB": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "20360",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1005"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "20360",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "20360",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.10000000149011612,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEHNLJGJOJM": "TO_TARGET",
+                "ODONLEDECOB": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "20360",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20360"
+                ],
+                "ACDCGBPKCAF": 722450201,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20360"
+                ],
+                "ACDCGBPKCAF": 722450202,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20360"
+                ],
+                "ACDCGBPKCAF": 722450203,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "HLOONFICMOJ": [
+                    722450204
+                ],
+                "BJBCCFDIICN": [
+                    3407284279
+                ],
+                "FALHCBLLBCG": true
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20360"
+                ],
+                "ACDCGBPKCAF": 722450205,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20360"
+                ],
+                "ACDCGBPKCAF": 722450206,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 722450207,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 722450208,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20360"
+                ],
+                "ACDCGBPKCAF": 722450209,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20360"
+                ],
+                "ACDCGBPKCAF": 722450210,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20360"
+                ],
+                "ACDCGBPKCAF": 722450211,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 722450212,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.699999988079071
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 3407284275,
+            "nextGrpId": 3407284276
+        },
+        {
+            "index": 1,
+            "grpId": 3407284276,
+            "nextGrpId": 3407284277
+        },
+        {
+            "index": 2,
+            "grpId": 3407284277,
+            "nextGrpId": 3407284278
+        },
+        {
+            "index": 3,
+            "grpId": 3407284278,
+            "nextGrpId": 3407284279
+        },
+        {
+            "index": 4,
+            "grpId": 3407284279,
+            "nextGrpId": 3407284280
+        },
+        {
+            "index": 5,
+            "grpId": 3407284280,
+            "nextGrpId": 3407284281
+        },
+        {
+            "index": 6,
+            "grpId": 3407284281,
+            "nextGrpId": 3407284282
+        },
+        {
+            "index": 7,
+            "grpId": 3407284282,
+            "nextGrpId": 3407284283
+        },
+        {
+            "index": 8,
+            "grpId": 3407284283,
+            "nextGrpId": 2546597469
+        },
+        {
+            "index": 9,
+            "grpId": 2546597469,
+            "nextGrpId": 2546597470
+        },
+        {
+            "index": 10,
+            "grpId": 2546597470,
+            "nextGrpId": 2546597471
+        },
+        {
+            "index": 11,
+            "grpId": 2546597471,
+            "nextGrpId": 2546597472
+        },
+        {
+            "index": 12,
+            "grpId": 2546597472,
+            "nextGrpId": 2546597473
+        }
+    ]
+}

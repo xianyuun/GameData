@@ -1,0 +1,163 @@
+{
+    "type": "",
+    "GLFJLEPOKCI": "",
+    "GOHMGCABBGF": [
+        {
+            "type": "",
+            "GLFJLEPOKCI": "Platform == IOS",
+            "GOHMGCABBGF": [
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPhone6S",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1250"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPhone7",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1300"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPhone7Plus",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1900"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPhone8",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1300"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPhone8Plus",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1900"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPhoneX",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1750"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPhoneXR",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1750"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPhoneSE2Gen",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1900"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPhoneSE3Gen",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=2200"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPad6Gen",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1300"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPadMini5Gen",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1700"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPadAir3Gen",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1700"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPad7Gen",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1700"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPad8Gen",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1700"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "Device == iPad9Gen",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=1700"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "",
+            "GLFJLEPOKCI": "Platform == PC",
+            "GOHMGCABBGF": [
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemoryRatio=0"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "",
+            "GLFJLEPOKCI": "Platform == PS4",
+            "GOHMGCABBGF": [
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "PS4 == Base",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=4591"
+                    ]
+                },
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "PS4 == Pro",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=5231"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "",
+            "GLFJLEPOKCI": "Platform == PS5",
+            "GOHMGCABBGF": [
+                {
+                    "type": "",
+                    "GLFJLEPOKCI": "",
+                    "ANOOJKPMIPG": [
+                        "device.lowMemory=11688"
+                    ]
+                }
+            ]
+        }
+    ]
+}

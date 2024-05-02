@@ -1,0 +1,966 @@
+{
+    "luaDataPath": "",
+    "dontUseDefaultFinish": true,
+    "startBlackKeepTime": 0.5,
+    "entityBan": "",
+    "disableNpcLod": true,
+    "isAutoBanNpc": true,
+    "isBanWidgetPet": true,
+    "protectNpcMobileLod": true,
+    "BENAABMGANF": 7,
+    "startFade": {
+        "startFadeInDuration": 0.5,
+        "startFadeOutDuration": 0.5
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "[3_6017:4299.668,98.405,4708.471,0.000,297.027,0.000]",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "notDestroyInTalk": true,
+            "bindMovingTargetKey": ""
+        },
+        {
+            "alias": "AvatarNpc",
+            "visible": true,
+            "bornPointName": "[3_6017:4299.668,98.405,4708.471,0.000,297.027,0.000]",
+            "removeActorType": "NEW_REMOVE",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "notDestroyInTalk": true,
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 5262,
+            "alias": "5262",
+            "visible": true,
+            "bornPointName": "[3_6274:4298.043,97.880,4709.368,0.000,117.501,0.000]",
+            "forceCreateDaily": true,
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "notDestroyInTalk": true,
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 21124,
+            "alias": "21124",
+            "visible": true,
+            "bornPointName": "[3_5057:4299.812,98.300,4709.643,0.000,253.373,0.000]",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "notDestroyInTalk": true,
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 21225,
+            "alias": "21225",
+            "visible": true,
+            "bornPointName": "[3_5056:4298.854,98.023,4707.946,0.000,333.720,0.000]",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "notDestroyInTalk": true,
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1005,
+            "alias": "1005",
+            "visible": true,
+            "bornPointName": "[3_6018:4299.844,98.342,4709.021,0.000,276.765,0.000]",
+            "removeActorType": "NEW_REMOVE_WITH_DISAPPEAR",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "notDestroyInTalk": true,
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 1.0,
+                "actionId": 104
+            },
+            {
+                "$type": "MoleMole.Config.ConfigBlackScreenAction",
+                "type": "BLACK_SCREEN",
+                "duration": 1.0,
+                "actionId": 149,
+                "flag": 2048,
+                "blackScreenType": "KEEP_BLACK",
+                "durationToBlack": 0.5,
+                "durationKeepBlack": 1.0,
+                "durationFromBlack": 0.5,
+                "inteePos": "",
+                "textMapID": "",
+                "useTextFade": true,
+                "changeAudioState": true
+            },
+            {
+                "$type": "MoleMole.Config.ConfigSitOrStandAction",
+                "type": "SIT_OR_STAND",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 155,
+                "banResetFreestyle": true
+            },
+            {
+                "$type": "MoleMole.Config.ConfigVisibleInterAction",
+                "type": "VISIBLE",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 160,
+                "extraParam": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigPlayerNPCEnergyTypeAction",
+                "type": "SET_PLAYER_NPC_ENERGY_TYPE",
+                "aliasList": [
+                    "AvatarNpc"
+                ],
+                "actionId": 156,
+                "setHeroEngergyType": true
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "AvatarNpc"
+                ],
+                "actionId": 157,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 141,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "21124"
+                ],
+                "actionId": 143,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "21225"
+                ],
+                "actionId": 145,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 147,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigBlackScreenAction",
+                "type": "BLACK_SCREEN",
+                "duration": 0.5,
+                "actionId": 150,
+                "flag": 2048,
+                "blackScreenType": "FROM_BLACK",
+                "durationToBlack": 0.5,
+                "durationKeepBlack": 0.5,
+                "durationFromBlack": 0.5,
+                "inteePos": "",
+                "textMapID": "",
+                "useTextFade": true,
+                "changeAudioState": true
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "AvatarNpc"
+                ],
+                "actionId": 170,
+                "flag": 64,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "5262",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 10.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 107,
+                "ACDCGBPKCAF": 740601101,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 162,
+                "flag": 64,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "AvatarNpc",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 10.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 164,
+                "HJICCFGEJKI": 1171,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "21124"
+                ],
+                "actionId": 163,
+                "flag": 64,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "5262",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 10.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "21225"
+                ],
+                "actionId": 168,
+                "flag": 64,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "5262",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 10.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 169,
+                "flag": 64,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "5262",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 10.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "AvatarNpc"
+                ],
+                "actionId": 152,
+                "HLOONFICMOJ": [
+                    740601102
+                ],
+                "BJBCCFDIICN": [
+                    676740758
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 676740755
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 3.0420000553131104,
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 165,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "21124"
+                ],
+                "actionId": 110,
+                "ACDCGBPKCAF": 740601103,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "21124"
+                ],
+                "actionId": 172,
+                "HJICCFGEJKI": 1050,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 2.1459999084472656,
+                "aliasList": [
+                    "21124"
+                ],
+                "actionId": 173,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 112,
+                "ACDCGBPKCAF": 740601104,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 114,
+                "ACDCGBPKCAF": 740601105,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 171,
+                "HJICCFGEJKI": 1230,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "21225"
+                ],
+                "actionId": 116,
+                "ACDCGBPKCAF": 740601106,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 118,
+                "ACDCGBPKCAF": 740601107,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 180,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "AvatarNpc"
+                ],
+                "actionId": 153,
+                "HLOONFICMOJ": [
+                    740601108,
+                    740601111
+                ],
+                "BJBCCFDIICN": [
+                    676740763,
+                    3799094300
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 676740755
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "21225"
+                ],
+                "actionId": 121,
+                "ACDCGBPKCAF": 740601109,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "21225"
+                ],
+                "actionId": 175,
+                "flag": 64,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "AvatarNpc",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 10.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "delayTime": 0.5460000038146973,
+                "aliasList": [
+                    "21225"
+                ],
+                "actionId": 176,
+                "flag": 64,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "5262",
+                "NPLGONEPKID": true,
+                "DJFHELIBLGI": 10.0,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 123,
+                "ACDCGBPKCAF": 740601110,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 177,
+                "HJICCFGEJKI": 1150,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 2.7760000228881836,
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 181,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 125,
+                "ACDCGBPKCAF": 740601112,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 182,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 127,
+                "ACDCGBPKCAF": 740601113,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 129,
+                "ACDCGBPKCAF": 740601114,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 178,
+                "HJICCFGEJKI": 1171,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 3.0179998874664307,
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 179,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 131,
+                "ACDCGBPKCAF": 740601115,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "AvatarNpc"
+                ],
+                "actionId": 154,
+                "HLOONFICMOJ": [
+                    740601116,
+                    740601118
+                ],
+                "BJBCCFDIICN": [
+                    3799094304,
+                    3799094306
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 676740755
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 134,
+                "ACDCGBPKCAF": 740601117,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MoleMole.Config.ConfigLuaAction",
+                "type": "LUA_ACTION",
+                "delayTime": 1.0,
+                "duration": 0.10000000149011612,
+                "actionId": 133,
+                "invokeAlias": "74060",
+                "invokeParam": 1
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigLuaAction",
+                "type": "LUA_ACTION",
+                "duration": 0.10000000149011612,
+                "actionId": 161,
+                "invoke": true,
+                "invokeAlias": "74060",
+                "invokeParam": 1
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 136,
+                "ACDCGBPKCAF": 740601119,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 138
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 105
+            },
+            {
+                "$type": "MoleMole.Config.ConfigSimpleBlackScreenAction",
+                "type": "SIMPLE_BLACK_SCREEN",
+                "actionId": 139,
+                "durationToBlack": 0.5,
+                "durationKeepBlack": 1.5,
+                "durationFromBlack": 0.5,
+                "textMapID": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.699999988079071,
+                "actionId": 140
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "delayTime": 0.5,
+                "duration": 0.10000000149011612,
+                "actionId": 151,
+                "DOMDCMLMEKG": "EXIT",
+                "MGDCLCOKDOF": {
+                    "z": 1.0
+                },
+                "OADKONNOJHC": 30.0,
+                "KMABIPKEMNG": 5,
+                "CBNIDBJOFOD": "EaseInOutCubic",
+                "BOLFJKBKMAF": {},
+                "JJKLKEOIOCO": false,
+                "MOIAMOAOEHJ": "",
+                "NLMIEJHGNCA": true,
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigVisibleInterAction",
+                "type": "VISIBLE",
+                "delayTime": 0.6000000238418579,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 159,
+                "isVisible": true,
+                "extraParam": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.6000000238418579,
+                "aliasList": [
+                    "AvatarNpc"
+                ],
+                "actionId": 158,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigVisibleInterAction",
+                "type": "VISIBLE",
+                "delayTime": 0.6000000238418579,
+                "aliasList": [
+                    "AvatarNpc"
+                ],
+                "actionId": 183,
+                "extraParam": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.6000000238418579,
+                "aliasList": [
+                    "5262"
+                ],
+                "actionId": 142,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.6000000238418579,
+                "aliasList": [
+                    "21124"
+                ],
+                "actionId": 144,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.6000000238418579,
+                "aliasList": [
+                    "21225"
+                ],
+                "actionId": 146,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.6000000238418579,
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 148,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "PAOLGENKEGO": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 676740756,
+            "nextGrpId": 676740757
+        },
+        {
+            "index": 1,
+            "grpId": 676740757,
+            "nextGrpId": 676740758
+        },
+        {
+            "index": 2,
+            "grpId": 676740758,
+            "nextGrpId": 676740759
+        },
+        {
+            "index": 3,
+            "grpId": 676740759,
+            "nextGrpId": 676740760
+        },
+        {
+            "index": 4,
+            "grpId": 676740760,
+            "nextGrpId": 676740761
+        },
+        {
+            "index": 5,
+            "grpId": 676740761,
+            "nextGrpId": 676740762
+        },
+        {
+            "index": 6,
+            "grpId": 676740762,
+            "nextGrpId": 676740763
+        },
+        {
+            "index": 7,
+            "grpId": 676740763,
+            "nextGrpId": 676740764
+        },
+        {
+            "index": 8,
+            "grpId": 676740764,
+            "nextGrpId": 3799094300
+        },
+        {
+            "index": 9,
+            "grpId": 3799094300,
+            "nextGrpId": 3799094301
+        },
+        {
+            "index": 10,
+            "grpId": 3799094301,
+            "nextGrpId": 3799094302
+        },
+        {
+            "index": 11,
+            "grpId": 3799094302,
+            "nextGrpId": 3799094303
+        },
+        {
+            "index": 12,
+            "grpId": 3799094303,
+            "nextGrpId": 3799094304
+        },
+        {
+            "index": 13,
+            "grpId": 3799094304,
+            "nextGrpId": 3799094305
+        },
+        {
+            "index": 14,
+            "grpId": 3799094305,
+            "nextGrpId": 3799094307
+        },
+        {
+            "index": 15,
+            "grpId": 3799094306,
+            "nextGrpId": 3799094307
+        },
+        {
+            "index": 16,
+            "grpId": 3799094307,
+            "nextGrpId": 3799094308
+        },
+        {
+            "index": 17,
+            "grpId": 3799094308,
+            "nextGrpId": 3799094309
+        }
+    ],
+    "freeStyleDic": {
+        "1025": [],
+        "1026": [],
+        "5262": [
+            1171,
+            1230,
+            1150
+        ],
+        "21124": [
+            1050
+        ],
+        "21225": []
+    },
+    "GCEOGCMIEAN": {
+        "5262": [
+            "SitChat01AS",
+            "SitHoldArm01AS"
+        ],
+        "21124": [
+            "SitChat01AS",
+            "SitHoldArm01AS",
+            "SitPutArm01AS",
+            "SitRaiseHand01AS",
+            "SitRead01AS"
+        ]
+    }
+}

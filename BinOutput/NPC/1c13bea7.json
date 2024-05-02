@@ -1,0 +1,31 @@
+{
+    "common": {
+        "MPHHEGOANPF": {
+            "$type": "CLIJMMPNCCF",
+            "BFOGFKFAACA": "EffectMesh"
+        },
+        "CFJLBCLHEEP": 100000.0,
+        "IKHIEAOIJMN": true
+    },
+    "FDEELEHEJHH": {
+        "$type": "NCNGNGKLNJN",
+        "PAOPLDJGAKA": "BillboardAttach",
+        "offset": {
+            "x": -0.09000000357627869,
+            "y": -0.20000000298023224
+        },
+        "KNBIHIMMLME": "Character",
+        "GFOGDCALKML": 0.12999999523162842,
+        "NPDFLJLNCJL": 40.0,
+        "BIJKHAKIFEI": 45.0,
+        "IJOHAALPEIF": "QuestJudgeBoard",
+        "type": "QuestEvent"
+    },
+    "LAJMIKPDLCD": {
+        "IGMKGKDJPAL": true,
+        "IGFCGIBKCCN": true,
+        "ICDGBPECNJM": 3.5,
+        "EOONJICODPI": 2.5
+    },
+    "PFMECGOKGCG": "PRIVATE_Pendant"
+}

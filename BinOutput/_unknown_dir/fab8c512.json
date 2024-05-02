@@ -1,0 +1,291 @@
+{
+    "id": 402201,
+    "OILHNDJNHIO": "QuestVerify",
+    "LMOJAGFIMPO": "REFUTE_402201_TITLETEXTTEXTMAP_350",
+    "KBKICMOAGLA": "REFUTE_402201_ENEMYNAMETEXTMAP_351",
+    "DPEPJAEDEEL": "",
+    "PMHELJKPICH": "REFUTE_402201_SELFNAMETEXTMAP_352",
+    "NMADDCKGGAH": "",
+    "DDBMAMMPJBF": true,
+    "OIDNOBNNGCB": 40221724,
+    "NCIBDABPFAA": 402217,
+    "DDKPODJANKI": [
+        {
+            "id": 40220101,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_353",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_354",
+            "BFNAECHPEIA": 40221711,
+            "EGIMNFHDLCA": "UI_QuestRefute_402201_01e",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_402201_01e",
+            "icon": "UI_ItemIcon_101832",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_355",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_356"
+        },
+        {
+            "id": 40220102,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_357",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_358",
+            "BFNAECHPEIA": 40221712,
+            "EGIMNFHDLCA": "UI_QuestRefute_402201_02e",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_402201_02e",
+            "icon": "",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_359",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_360"
+        },
+        {
+            "id": 40220103,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_361",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_362",
+            "BFNAECHPEIA": 40221713,
+            "EGIMNFHDLCA": "UI_QuestRefute_402201_03e",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_402201_03e",
+            "icon": "",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_363",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_364"
+        },
+        {
+            "id": 40220104,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_365",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_366",
+            "GGCCCGLAEMP": 40221715,
+            "BFNAECHPEIA": 40221714,
+            "EGIMNFHDLCA": "UI_QuestRefute_402201_04e",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_402201_04e",
+            "icon": "",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_367",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_368",
+            "CKAKJHAGINF": [
+                40220102
+            ]
+        }
+    ],
+    "EOBIBLBKMCM": [
+        {
+            "id": 40220105,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_369",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_370",
+            "GGCCCGLAEMP": 40221701,
+            "NEAGOFIIBDJ": [
+                {
+                    "NIDCEGMNBJG": 40221701,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                },
+                {
+                    "NIDCEGMNBJG": 40221725,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                },
+                {
+                    "NIDCEGMNBJG": 40221726,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40221706,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_Paimon_01",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "CHFILENFNKB": 1,
+            "EGIMNFHDLCA": "UI_QuestRefute_402201_01s",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_402201_01s",
+            "icon": "UI_QuestRefute_402102",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_371",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_372",
+            "CKAKJHAGINF": [
+                40220101
+            ]
+        },
+        {
+            "id": 40220106,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_373",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_374",
+            "GGCCCGLAEMP": 40221705,
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40221706,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_Paimon_01",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "CHFILENFNKB": 1,
+            "EGIMNFHDLCA": "UI_QuestRefute_402201_03s{GENDER}",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_402201_03s{GENDER}",
+            "icon": "UI_QuestRefute_402103",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_375",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_376"
+        },
+        {
+            "id": 40220107,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_381",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_382",
+            "GGCCCGLAEMP": 40221705,
+            "NEAGOFIIBDJ": [
+                {
+                    "NIDCEGMNBJG": 40221705,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                },
+                {
+                    "NIDCEGMNBJG": 40221731,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                },
+                {
+                    "NIDCEGMNBJG": 40221732,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40221706,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_Paimon_01",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "CHFILENFNKB": 1,
+            "EGIMNFHDLCA": "UI_QuestRefute_402201_04s",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_402201_04s",
+            "icon": "UI_QuestRefute_402105",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_383",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_384",
+            "CKAKJHAGINF": [
+                40220104
+            ]
+        },
+        {
+            "id": 40220108,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_385",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_386",
+            "GGCCCGLAEMP": 40221704,
+            "NEAGOFIIBDJ": [
+                {
+                    "NIDCEGMNBJG": 40221704,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                },
+                {
+                    "NIDCEGMNBJG": 40221729,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                },
+                {
+                    "NIDCEGMNBJG": 40221730,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40221706,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_Paimon_01",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "CHFILENFNKB": 1,
+            "EGIMNFHDLCA": "UI_QuestRefute_402201_03s{GENDER}",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_402201_03s{GENDER}",
+            "icon": "UI_QuestRefute_402107",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_387",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_388",
+            "CKAKJHAGINF": [
+                40220103
+            ]
+        },
+        {
+            "id": 40220109,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_389",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_390",
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40221706,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_Paimon_01",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EGIMNFHDLCA": "",
+            "ICBDBFNMDPA": "",
+            "icon": "UI_QuestRefute_402108",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_391",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_392"
+        },
+        {
+            "id": 40220110,
+            "title": "REFUTEBULLET_402201_TITLETEXTMAP_393",
+            "EPPJCCIHOKO": "REFUTEBULLET_402201_TITLECORRECTTEXTMAP_394",
+            "GGCCCGLAEMP": 40221703,
+            "NEAGOFIIBDJ": [
+                {
+                    "NIDCEGMNBJG": 40221703,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                },
+                {
+                    "NIDCEGMNBJG": 40221727,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                },
+                {
+                    "NIDCEGMNBJG": 40221728,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_PlayerBoy",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "EIALKJAGELE": [
+                {
+                    "NIDCEGMNBJG": 40221706,
+                    "PAAEDNIIOGB": "UI_AvatarIcon_Paimon_01",
+                    "EANLDFODOGM": true
+                }
+            ],
+            "CHFILENFNKB": 1,
+            "EGIMNFHDLCA": "UI_QuestRefute_402201_02s",
+            "ICBDBFNMDPA": "UI_QuestRefuteSmall_402201_02s",
+            "icon": "UI_QuestRefute_402109",
+            "MACCOEICHDP": "REFUTEBULLET_402201_DESCRIPTIONTEXTMAP_395",
+            "FIKKPOLJABK": "REFUTEBULLET_402201_DESCRIPTIONCORRECTTEXTMAP_396",
+            "CKAKJHAGINF": [
+                40220102
+            ]
+        }
+    ],
+    "OHAKLEOIKDF": 1668,
+    "PALFEMMABMM": [
+        [
+            40220105,
+            40220110,
+            40220108,
+            40220107
+        ]
+    ],
+    "GJFFPJEHDDE": 4022,
+    "MDDENEIFIGP": true,
+    "BPDDBIDMBGD": [
+        {
+            "NIDCEGMNBJG": 40221733,
+            "EMLGINJGOEF": "UI_QuestRefute_402201_01e",
+            "DONNFKABIBN": "UI_QuestRefute_402201_01s"
+        },
+        {
+            "NIDCEGMNBJG": 40221721,
+            "EMLGINJGOEF": "UI_QuestRefute_402201_02e",
+            "DONNFKABIBN": "UI_QuestRefute_402201_02s"
+        },
+        {
+            "NIDCEGMNBJG": 40221722,
+            "EMLGINJGOEF": "UI_QuestRefute_402201_03e",
+            "DONNFKABIBN": "UI_QuestRefute_402201_03s{GENDER}"
+        },
+        {
+            "NIDCEGMNBJG": 40221723,
+            "EMLGINJGOEF": "UI_QuestRefute_402201_04e",
+            "DONNFKABIBN": "UI_QuestRefute_402201_04s"
+        }
+    ],
+    "GFLPPCKJOHC": true,
+    "NGPFLBFMMFC": "REFUTE_402201_OVERRIDEMAINTITLETEXTMAP_486"
+}

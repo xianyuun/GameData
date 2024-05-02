@@ -1,0 +1,5058 @@
+[
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010181,
+    "KFIBBGDOIFE": 5282436255200934141,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_None_01",
+    "CAIOHADEDOB": 215548291,
+    "BPPECFEIMNK": 366854824,
+    "KFEBCBPMCEG": 229129221,
+    "BKHDCPALBEF": 4068637023,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 1,
+    "id": 1,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 902797065,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010281,
+    "KFIBBGDOIFE": 5282436255200934141,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_None_01",
+    "CAIOHADEDOB": 1541648859,
+    "BPPECFEIMNK": 4046142488,
+    "KFEBCBPMCEG": 1694827037,
+    "BKHDCPALBEF": 3253030655,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 2,
+    "id": 2,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4007378409,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010381,
+    "KFIBBGDOIFE": 5282436255200934141,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_None_01",
+    "CAIOHADEDOB": 4290446651,
+    "BPPECFEIMNK": 1482709600,
+    "KFEBCBPMCEG": 116372341,
+    "BKHDCPALBEF": 3870911935,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 3,
+    "id": 3,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1003729481,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21011281,
+    "KFIBBGDOIFE": 5282436255200934141,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_None_01",
+    "CAIOHADEDOB": 4290264915,
+    "BPPECFEIMNK": 2831340272,
+    "KFEBCBPMCEG": 380037053,
+    "BKHDCPALBEF": 1531107847,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 4,
+    "id": 4,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 524739633,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21011481,
+    "KFIBBGDOIFE": 3500639387097266829,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Ice_Range",
+    "CAIOHADEDOB": 954764075,
+    "BPPECFEIMNK": 2049814272,
+    "KFEBCBPMCEG": 3035611517,
+    "BKHDCPALBEF": 3194224543,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 5,
+    "id": 5,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 210966657,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010781,
+    "KFIBBGDOIFE": 1252389542913438071,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Fire_Range",
+    "CAIOHADEDOB": 820021811,
+    "BPPECFEIMNK": 32375072,
+    "KFEBCBPMCEG": 1203571037,
+    "BKHDCPALBEF": 1054907871,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 6,
+    "id": 6,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 224368785,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010481,
+    "KFIBBGDOIFE": 5282436255200934141,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_None_01",
+    "CAIOHADEDOB": 1395103243,
+    "BPPECFEIMNK": 2824975912,
+    "KFEBCBPMCEG": 2957231405,
+    "BKHDCPALBEF": 586693559,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 7,
+    "id": 7,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2318623081,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010581,
+    "KFIBBGDOIFE": 1252389542913438071,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Fire_Range",
+    "CAIOHADEDOB": 2864410027,
+    "BPPECFEIMNK": 2285945008,
+    "KFEBCBPMCEG": 1601574589,
+    "BKHDCPALBEF": 2713496447,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 8,
+    "id": 8,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1061756377,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010681,
+    "KFIBBGDOIFE": 1252389542913438071,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Fire_Range",
+    "CAIOHADEDOB": 819550955,
+    "BPPECFEIMNK": 1945560264,
+    "KFEBCBPMCEG": 568297101,
+    "BKHDCPALBEF": 2278690863,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 9,
+    "id": 9,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 923914625,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010981,
+    "KFIBBGDOIFE": 3500639387097266829,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Ice_Range",
+    "CAIOHADEDOB": 868046507,
+    "BPPECFEIMNK": 2993628528,
+    "KFEBCBPMCEG": 2463639077,
+    "BKHDCPALBEF": 3654424151,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 10,
+    "id": 10,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4089529969,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21011081,
+    "KFIBBGDOIFE": 2710779454982115960,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Electric_Range",
+    "CAIOHADEDOB": 3818705195,
+    "BPPECFEIMNK": 4252527072,
+    "KFEBCBPMCEG": 2842741621,
+    "BKHDCPALBEF": 2495306015,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 11,
+    "id": 11,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2920702649,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21011381,
+    "KFIBBGDOIFE": 3500639387097266829,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Ice_Range",
+    "CAIOHADEDOB": 3048232963,
+    "BPPECFEIMNK": 2578717224,
+    "KFEBCBPMCEG": 2299552397,
+    "BKHDCPALBEF": 436200031,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 12,
+    "id": 12,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2238805929,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21011681,
+    "KFIBBGDOIFE": 2710779454982115960,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Electric_Range",
+    "CAIOHADEDOB": 1691641739,
+    "BPPECFEIMNK": 3139391680,
+    "KFEBCBPMCEG": 2660039149,
+    "BKHDCPALBEF": 497364551,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 13,
+    "id": 13,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 876744633,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W4H3",
+    "monsterId": 21020181,
+    "KFIBBGDOIFE": 4841569817401254054,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_None_01",
+    "CAIOHADEDOB": 1697066419,
+    "BPPECFEIMNK": 1320326192,
+    "KFEBCBPMCEG": 2871435341,
+    "BKHDCPALBEF": 2262043799,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 77,
+    "id": 14,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1763122585,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL2W4H3",
+    "deployGadgetID": 70390117
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W4H3",
+    "monsterId": 21020281,
+    "KFIBBGDOIFE": 4841569817401254054,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_None_01",
+    "CAIOHADEDOB": 3763791115,
+    "BPPECFEIMNK": 3276888128,
+    "KFEBCBPMCEG": 885201813,
+    "BKHDCPALBEF": 1074340279,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 78,
+    "id": 15,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3766173577,
+    "cost": 95,
+    "JOICBEMFPMG": "MonsterModelL2W4H3",
+    "deployGadgetID": 70390117
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W4H3",
+    "monsterId": 21020381,
+    "KFIBBGDOIFE": 4841569817401254054,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_None_01",
+    "CAIOHADEDOB": 605590611,
+    "BPPECFEIMNK": 2437334568,
+    "KFEBCBPMCEG": 1778128333,
+    "BKHDCPALBEF": 1632977823,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 79,
+    "id": 16,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3686680889,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL2W4H3",
+    "deployGadgetID": 70390117
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W4H3",
+    "monsterId": 21020681,
+    "KFIBBGDOIFE": 4841569817401254054,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_None_01",
+    "CAIOHADEDOB": 2603025923,
+    "BPPECFEIMNK": 3563173544,
+    "KFEBCBPMCEG": 346943069,
+    "BKHDCPALBEF": 870235767,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 80,
+    "id": 17,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2937159369,
+    "cost": 95,
+    "JOICBEMFPMG": "MonsterModelL2W4H3",
+    "deployGadgetID": 70390117
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W4H3",
+    "monsterId": 21020781,
+    "KFIBBGDOIFE": 4841569817401254054,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_None_01",
+    "CAIOHADEDOB": 600848275,
+    "BPPECFEIMNK": 586336008,
+    "KFEBCBPMCEG": 1735942965,
+    "BKHDCPALBEF": 1636082767,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 81,
+    "id": 18,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 819271937,
+    "cost": 95,
+    "JOICBEMFPMG": "MonsterModelL2W4H3",
+    "deployGadgetID": 70390117
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21030181,
+    "KFIBBGDOIFE": 13851686505134461483,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Shaman_Water_01",
+    "CAIOHADEDOB": 3407934547,
+    "BPPECFEIMNK": 1220825152,
+    "KFEBCBPMCEG": 2098211541,
+    "BKHDCPALBEF": 696377335,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 22,
+    "id": 19,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4189098761,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21030281,
+    "KFIBBGDOIFE": 17345693458545485885,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Shaman_Grass_01",
+    "CAIOHADEDOB": 1221835163,
+    "BPPECFEIMNK": 852379832,
+    "KFEBCBPMCEG": 792221309,
+    "BKHDCPALBEF": 2718768567,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 23,
+    "id": 20,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2133049977,
+    "cost": 120,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21030381,
+    "KFIBBGDOIFE": 86397847291692033,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Shaman_Wind_01",
+    "CAIOHADEDOB": 2889156227,
+    "BPPECFEIMNK": 105894672,
+    "KFEBCBPMCEG": 1497243501,
+    "BKHDCPALBEF": 3940236471,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 24,
+    "id": 21,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2894076521,
+    "cost": 180,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21030581,
+    "KFIBBGDOIFE": 9738020503291997466,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Shaman_Ice_01",
+    "CAIOHADEDOB": 1341702051,
+    "BPPECFEIMNK": 4215238752,
+    "KFEBCBPMCEG": 2785957117,
+    "BKHDCPALBEF": 2381608359,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 26,
+    "id": 23,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3366833297,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21030681,
+    "KFIBBGDOIFE": 9666935466654407105,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Shaman_Electric_01",
+    "CAIOHADEDOB": 3953065171,
+    "BPPECFEIMNK": 2438661752,
+    "KFEBCBPMCEG": 2708102989,
+    "BKHDCPALBEF": 1195304887,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 27,
+    "id": 24,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4029422921,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 21020481,
+    "KFIBBGDOIFE": 904226632227649572,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_Ice_01",
+    "CAIOHADEDOB": 555100955,
+    "BPPECFEIMNK": 2831914192,
+    "KFEBCBPMCEG": 77713005,
+    "BKHDCPALBEF": 2512124175,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 116,
+    "id": 25,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1596398425,
+    "cost": 180,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 21020581,
+    "KFIBBGDOIFE": 358715328122269441,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_Rock_None",
+    "CAIOHADEDOB": 803026371,
+    "BPPECFEIMNK": 2863839672,
+    "KFEBCBPMCEG": 1617672877,
+    "BKHDCPALBEF": 4144197351,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 117,
+    "id": 26,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3714814073,
+    "cost": 165,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 21020881,
+    "KFIBBGDOIFE": 15684238034909413026,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_Electric_01",
+    "CAIOHADEDOB": 3155417491,
+    "BPPECFEIMNK": 3164581920,
+    "KFEBCBPMCEG": 1133548797,
+    "BKHDCPALBEF": 1235881663,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 118,
+    "id": 27,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1099793881,
+    "cost": 220,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 20010381,
+    "KFIBBGDOIFE": 17065440082685890286,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Wind_02",
+    "CAIOHADEDOB": 1403689163,
+    "BPPECFEIMNK": 2651604664,
+    "KFEBCBPMCEG": 2134793213,
+    "BKHDCPALBEF": 4197881735,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 28,
+    "id": 28,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3681768729,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 20010581,
+    "KFIBBGDOIFE": 14440482408533028893,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Electric_02",
+    "CAIOHADEDOB": 3979952107,
+    "BPPECFEIMNK": 2381102904,
+    "KFEBCBPMCEG": 2382547381,
+    "BKHDCPALBEF": 1566144327,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 29,
+    "id": 29,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 347764945,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 20010881,
+    "KFIBBGDOIFE": 1923172345126220930,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Ice_02",
+    "CAIOHADEDOB": 2951212131,
+    "BPPECFEIMNK": 1581571448,
+    "KFEBCBPMCEG": 289182245,
+    "BKHDCPALBEF": 1840154759,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 30,
+    "id": 30,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2230693393,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 20011081,
+    "KFIBBGDOIFE": 120954143112138576,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Water_02",
+    "CAIOHADEDOB": 494647979,
+    "BPPECFEIMNK": 4034603280,
+    "KFEBCBPMCEG": 4097292677,
+    "BKHDCPALBEF": 1761048151,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 31,
+    "id": 31,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 819034817,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 20011281,
+    "KFIBBGDOIFE": 12947794029630554006,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Fire_02",
+    "CAIOHADEDOB": 2447573987,
+    "BPPECFEIMNK": 2872473040,
+    "KFEBCBPMCEG": 2494580285,
+    "BKHDCPALBEF": 1627628975,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 32,
+    "id": 32,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2705758313,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 20011481,
+    "KFIBBGDOIFE": 15502111784109083980,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Rock_02",
+    "CAIOHADEDOB": 1358711515,
+    "BPPECFEIMNK": 3694328992,
+    "KFEBCBPMCEG": 2902604325,
+    "BKHDCPALBEF": 3635444231,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 33,
+    "id": 33,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2658223209,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20010481,
+    "KFIBBGDOIFE": 3638466299875118287,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Wind_03",
+    "CAIOHADEDOB": 3837627627,
+    "BPPECFEIMNK": 2459099752,
+    "KFEBCBPMCEG": 819277797,
+    "BKHDCPALBEF": 2033051519,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 82,
+    "id": 34,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 569610129,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20010681,
+    "KFIBBGDOIFE": 12220175967376463813,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Electric_03",
+    "CAIOHADEDOB": 603486107,
+    "BPPECFEIMNK": 1753553928,
+    "KFEBCBPMCEG": 696994981,
+    "BKHDCPALBEF": 3141308927,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 83,
+    "id": 35,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1475469569,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20010981,
+    "KFIBBGDOIFE": 18157171650262120357,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Ice_03",
+    "CAIOHADEDOB": 3846383635,
+    "BPPECFEIMNK": 1351860904,
+    "KFEBCBPMCEG": 1219604869,
+    "BKHDCPALBEF": 1846293423,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 84,
+    "id": 36,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3586419385,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20011181,
+    "KFIBBGDOIFE": 9508590509777445677,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Water_03",
+    "CAIOHADEDOB": 737137563,
+    "BPPECFEIMNK": 2748788288,
+    "KFEBCBPMCEG": 1770047253,
+    "BKHDCPALBEF": 2900725543,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 85,
+    "id": 37,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2783839305,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20011381,
+    "KFIBBGDOIFE": 13835052415326770701,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Fire_03",
+    "CAIOHADEDOB": 4056195971,
+    "BPPECFEIMNK": 745590056,
+    "KFEBCBPMCEG": 4037806253,
+    "BKHDCPALBEF": 522713663,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 86,
+    "id": 38,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 84141817,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20011581,
+    "KFIBBGDOIFE": 4174523186697174585,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Slime_Rock_03",
+    "CAIOHADEDOB": 1304540835,
+    "BPPECFEIMNK": 2593919048,
+    "KFEBCBPMCEG": 2000801613,
+    "BKHDCPALBEF": 1372435231,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 87,
+    "id": 39,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2595984089,
+    "cost": 80,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20050281,
+    "KFIBBGDOIFE": 2364552418037700710,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Oceanid_Underling",
+    "CAIOHADEDOB": 516251067,
+    "BPPECFEIMNK": 3948821144,
+    "KFEBCBPMCEG": 102166077,
+    "BKHDCPALBEF": 2482992255,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 70,
+    "id": 40,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3476334369,
+    "cost": 110,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20050381,
+    "KFIBBGDOIFE": 2364552418037700710,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Oceanid_Underling",
+    "CAIOHADEDOB": 52052835,
+    "BPPECFEIMNK": 3304889168,
+    "KFEBCBPMCEG": 786187613,
+    "BKHDCPALBEF": 592514375,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 71,
+    "id": 41,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2735433417,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20050481,
+    "KFIBBGDOIFE": 2364552418037700710,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Oceanid_Underling",
+    "CAIOHADEDOB": 4097005307,
+    "BPPECFEIMNK": 1661747760,
+    "KFEBCBPMCEG": 2138090373,
+    "BKHDCPALBEF": 2557078255,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 72,
+    "id": 42,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2611471273,
+    "cost": 110,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20050581,
+    "KFIBBGDOIFE": 2364552418037700710,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Oceanid_Underling",
+    "CAIOHADEDOB": 1984834419,
+    "BPPECFEIMNK": 2565769392,
+    "KFEBCBPMCEG": 3655702165,
+    "BKHDCPALBEF": 1534564207,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 73,
+    "id": 43,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 566833761,
+    "cost": 110,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20050681,
+    "KFIBBGDOIFE": 2364552418037700710,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Oceanid_Underling",
+    "CAIOHADEDOB": 1893040715,
+    "BPPECFEIMNK": 4222704568,
+    "KFEBCBPMCEG": 3924467733,
+    "BKHDCPALBEF": 1572670135,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 74,
+    "id": 44,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1675160297,
+    "cost": 115,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20050781,
+    "KFIBBGDOIFE": 2364552418037700710,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Oceanid_Underling",
+    "CAIOHADEDOB": 3265007699,
+    "BPPECFEIMNK": 2409934824,
+    "KFEBCBPMCEG": 393384197,
+    "BKHDCPALBEF": 3783483519,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 75,
+    "id": 45,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3055785569,
+    "cost": 110,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 20050881,
+    "KFIBBGDOIFE": 2364552418037700710,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Oceanid_Underling",
+    "CAIOHADEDOB": 175803107,
+    "BPPECFEIMNK": 615454928,
+    "KFEBCBPMCEG": 3857685549,
+    "BKHDCPALBEF": 299826415,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 76,
+    "id": 46,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 45964649,
+    "cost": 110,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25010281,
+    "KFIBBGDOIFE": 4801376129300885811,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_Male_Rogue_01",
+    "CAIOHADEDOB": 3280090739,
+    "BPPECFEIMNK": 199828480,
+    "KFEBCBPMCEG": 1548492901,
+    "BKHDCPALBEF": 330621927,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 34,
+    "id": 47,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2730456313,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25010381,
+    "KFIBBGDOIFE": 15384566818717640869,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_Male_Chemist_Fire_01",
+    "CAIOHADEDOB": 398270939,
+    "BPPECFEIMNK": 4016193120,
+    "KFEBCBPMCEG": 3712549093,
+    "BKHDCPALBEF": 2487525895,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 35,
+    "id": 48,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3561286889,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25010481,
+    "KFIBBGDOIFE": 14212858318666874606,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_Male_Chemist_Water_01",
+    "CAIOHADEDOB": 594847275,
+    "BPPECFEIMNK": 532014904,
+    "KFEBCBPMCEG": 1769859501,
+    "BKHDCPALBEF": 2275623775,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 36,
+    "id": 49,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3181931041,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25010581,
+    "KFIBBGDOIFE": 18231455140233906649,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_Male_Chemist_Electric_01",
+    "CAIOHADEDOB": 1866237699,
+    "BPPECFEIMNK": 3815425352,
+    "KFEBCBPMCEG": 3776882165,
+    "BKHDCPALBEF": 3642313719,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 37,
+    "id": 50,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1503557985,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25010681,
+    "KFIBBGDOIFE": 14956902436642626737,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_Male_Chemist_Ice_01",
+    "CAIOHADEDOB": 1734368347,
+    "BPPECFEIMNK": 3407213280,
+    "KFEBCBPMCEG": 880283141,
+    "BKHDCPALBEF": 1316562423,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 38,
+    "id": 51,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2695356857,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25010781,
+    "KFIBBGDOIFE": 12704547809358844263,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_Male_Rogue_Fat_01",
+    "CAIOHADEDOB": 1573783939,
+    "BPPECFEIMNK": 3560941040,
+    "KFEBCBPMCEG": 3261613509,
+    "BKHDCPALBEF": 565945231,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 39,
+    "id": 52,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4107357761,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25020281,
+    "KFIBBGDOIFE": 13998163410651851566,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_Male_Crossbow_01",
+    "CAIOHADEDOB": 1460246643,
+    "BPPECFEIMNK": 2052715496,
+    "KFEBCBPMCEG": 1516365741,
+    "BKHDCPALBEF": 853307343,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 40,
+    "id": 53,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2321085537,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25030281,
+    "KFIBBGDOIFE": 15567998980479988550,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_Male_Fat_Shovel_02",
+    "CAIOHADEDOB": 2489735995,
+    "BPPECFEIMNK": 733122384,
+    "KFEBCBPMCEG": 2911624469,
+    "BKHDCPALBEF": 2444486615,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 41,
+    "id": 54,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 258068105,
+    "cost": 120,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25030381,
+    "KFIBBGDOIFE": 7385368824203263016,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_Male_Shovel_01",
+    "CAIOHADEDOB": 544681203,
+    "BPPECFEIMNK": 2807784360,
+    "KFEBCBPMCEG": 4021455189,
+    "BKHDCPALBEF": 286355071,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 42,
+    "id": 55,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4039864937,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25060181,
+    "KFIBBGDOIFE": 907014511726939667,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_MuscleMan_NoWeapon_01",
+    "CAIOHADEDOB": 111095819,
+    "BPPECFEIMNK": 3301862440,
+    "KFEBCBPMCEG": 1481405117,
+    "BKHDCPALBEF": 4189669271,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 43,
+    "id": 56,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4253361217,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25070181,
+    "KFIBBGDOIFE": 236320205100024511,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Thoarder_MuscleMan_Hammer_01",
+    "CAIOHADEDOB": 1150793283,
+    "BPPECFEIMNK": 625431424,
+    "KFEBCBPMCEG": 2953438037,
+    "BKHDCPALBEF": 1856704935,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 44,
+    "id": 57,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3782632217,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25210181,
+    "KFIBBGDOIFE": 15050973809423700593,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Female_Hatchet",
+    "CAIOHADEDOB": 1374468651,
+    "BPPECFEIMNK": 3908991392,
+    "KFEBCBPMCEG": 2636730397,
+    "BKHDCPALBEF": 3472027303,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 65,
+    "id": 58,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1119231857,
+    "cost": 110,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25210281,
+    "KFIBBGDOIFE": 3279971871623036838,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Male_Standard_Crossbow",
+    "CAIOHADEDOB": 353878755,
+    "BPPECFEIMNK": 3628603056,
+    "KFEBCBPMCEG": 3773104125,
+    "BKHDCPALBEF": 458542175,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 66,
+    "id": 59,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3497240881,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25210381,
+    "KFIBBGDOIFE": 10545653019031150044,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Male_Standard_Pole",
+    "CAIOHADEDOB": 2531248427,
+    "BPPECFEIMNK": 1345747816,
+    "KFEBCBPMCEG": 678750781,
+    "BKHDCPALBEF": 1495296103,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 67,
+    "id": 60,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3918313041,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25210481,
+    "KFIBBGDOIFE": 14032036894480913740,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_MuscleMan_Gloves",
+    "CAIOHADEDOB": 3564643779,
+    "BPPECFEIMNK": 2849346176,
+    "KFEBCBPMCEG": 2637115213,
+    "BKHDCPALBEF": 891970335,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 68,
+    "id": 61,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 448231017,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL2W2H3",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H3",
+    "monsterId": 25210581,
+    "KFIBBGDOIFE": 2011406415604608321,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_MuscleMan_Simitar",
+    "CAIOHADEDOB": 3658997995,
+    "BPPECFEIMNK": 3020959352,
+    "KFEBCBPMCEG": 3682590509,
+    "BKHDCPALBEF": 3283148823,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 69,
+    "id": 62,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2893225249,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL2W2H2",
+    "deployGadgetID": 70390120
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25310181,
+    "KFIBBGDOIFE": 1293124663935594733,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Female_Slim_PushDagger",
+    "CAIOHADEDOB": 3947718451,
+    "BPPECFEIMNK": 4008365616,
+    "KFEBCBPMCEG": 1576853549,
+    "BKHDCPALBEF": 130901207,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 101,
+    "id": 63,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 421083649,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25310281,
+    "KFIBBGDOIFE": 14658197741333349799,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Male_Standard_Glaive",
+    "CAIOHADEDOB": 2011404035,
+    "BPPECFEIMNK": 1876000680,
+    "KFEBCBPMCEG": 2355960965,
+    "BKHDCPALBEF": 2623706143,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 102,
+    "id": 64,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2692699209,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25310381,
+    "KFIBBGDOIFE": 2356393229973087876,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Male_Standard_Polearm",
+    "CAIOHADEDOB": 3383085627,
+    "BPPECFEIMNK": 168193152,
+    "KFEBCBPMCEG": 3922816109,
+    "BKHDCPALBEF": 488210695,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 103,
+    "id": 65,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4232010433,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25410181,
+    "KFIBBGDOIFE": 14460249687550725495,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Male_Strong_Katar",
+    "CAIOHADEDOB": 3111586835,
+    "BPPECFEIMNK": 3201285336,
+    "KFEBCBPMCEG": 4198699949,
+    "BKHDCPALBEF": 2543387047,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 104,
+    "id": 66,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3015477593,
+    "cost": 180,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25410281,
+    "KFIBBGDOIFE": 13283320526438196685,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Female_Standard_Longbow",
+    "CAIOHADEDOB": 1888946739,
+    "BPPECFEIMNK": 2635675272,
+    "KFEBCBPMCEG": 630253501,
+    "BKHDCPALBEF": 2396073887,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 105,
+    "id": 67,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1050017673,
+    "cost": 175,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25410381,
+    "KFIBBGDOIFE": 2466651936466262936,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Female_Standard_Oracle",
+    "CAIOHADEDOB": 3147902363,
+    "BPPECFEIMNK": 864931896,
+    "KFEBCBPMCEG": 4003366005,
+    "BKHDCPALBEF": 1569635487,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 106,
+    "id": 68,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3594163985,
+    "cost": 185,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25410481,
+    "KFIBBGDOIFE": 6571850642293572942,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Female_Standard_Dancer",
+    "CAIOHADEDOB": 2026122995,
+    "BPPECFEIMNK": 2280285928,
+    "KFEBCBPMCEG": 3434384645,
+    "BKHDCPALBEF": 3945521903,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 107,
+    "id": 69,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1739632249,
+    "cost": 185,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25080181,
+    "KFIBBGDOIFE": 11430889574528138619,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Samurai_Ronin_01",
+    "CAIOHADEDOB": 3669369971,
+    "BPPECFEIMNK": 3193227856,
+    "KFEBCBPMCEG": 1044018213,
+    "BKHDCPALBEF": 1259036735,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 45,
+    "id": 70,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4234868217,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25080281,
+    "KFIBBGDOIFE": 15948531901065023553,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Samurai_Ronin_02",
+    "CAIOHADEDOB": 848610203,
+    "BPPECFEIMNK": 2392045488,
+    "KFEBCBPMCEG": 2774851245,
+    "BKHDCPALBEF": 3943219375,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 46,
+    "id": 71,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2736626289,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25080381,
+    "KFIBBGDOIFE": 11430889574528138619,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Samurai_Ronin_01",
+    "CAIOHADEDOB": 908226131,
+    "BPPECFEIMNK": 3837950584,
+    "KFEBCBPMCEG": 117764253,
+    "BKHDCPALBEF": 3457755983,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 47,
+    "id": 72,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1180108417,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25100181,
+    "KFIBBGDOIFE": 9517959067198819332,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Samurai_Kairagi_01",
+    "CAIOHADEDOB": 3582556411,
+    "BPPECFEIMNK": 2334790208,
+    "KFEBCBPMCEG": 213419493,
+    "BKHDCPALBEF": 3883170663,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 119,
+    "id": 73,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1243063937,
+    "cost": 120,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25100281,
+    "KFIBBGDOIFE": 13053903818135185709,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Samurai_Kairagi_02",
+    "CAIOHADEDOB": 1835515755,
+    "BPPECFEIMNK": 2844242880,
+    "KFEBCBPMCEG": 498396213,
+    "BKHDCPALBEF": 1014509327,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 120,
+    "id": 74,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3108834945,
+    "cost": 120,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 20060181,
+    "KFIBBGDOIFE": 9470504767175607532,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Sylph_Water_01",
+    "CAIOHADEDOB": 1781068115,
+    "BPPECFEIMNK": 1467908536,
+    "KFEBCBPMCEG": 127834869,
+    "BKHDCPALBEF": 1915838407,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 58,
+    "id": 75,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1494500833,
+    "cost": 65,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 20060281,
+    "KFIBBGDOIFE": 12628933079389394174,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Sylph_Rock_01",
+    "CAIOHADEDOB": 2224818979,
+    "BPPECFEIMNK": 941143672,
+    "KFEBCBPMCEG": 192127717,
+    "BKHDCPALBEF": 3929681255,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 59,
+    "id": 76,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 325088961,
+    "cost": 65,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 20060381,
+    "KFIBBGDOIFE": 16921735305858156826,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Sylph_Wind_01",
+    "CAIOHADEDOB": 3338190083,
+    "BPPECFEIMNK": 3264346248,
+    "KFEBCBPMCEG": 1284080501,
+    "BKHDCPALBEF": 453652951,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 60,
+    "id": 77,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 651164361,
+    "cost": 60,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 20060481,
+    "KFIBBGDOIFE": 10452294768666474132,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Sylph_Ice_01",
+    "CAIOHADEDOB": 3035369843,
+    "BPPECFEIMNK": 1032682936,
+    "KFEBCBPMCEG": 2741962989,
+    "BKHDCPALBEF": 2787726047,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 61,
+    "id": 78,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3926309481,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 20060581,
+    "KFIBBGDOIFE": 2562970796199596201,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Sylph_Electric_01",
+    "CAIOHADEDOB": 4195071139,
+    "BPPECFEIMNK": 1934013576,
+    "KFEBCBPMCEG": 4202067965,
+    "BKHDCPALBEF": 3030956199,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 62,
+    "id": 79,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3306311057,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 20060681,
+    "KFIBBGDOIFE": 7271600925458254205,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Sylph_Fire_01",
+    "CAIOHADEDOB": 4262555083,
+    "BPPECFEIMNK": 4125198504,
+    "KFEBCBPMCEG": 3176170965,
+    "BKHDCPALBEF": 1543052575,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 63,
+    "id": 80,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2216948801,
+    "cost": 85,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 20060781,
+    "KFIBBGDOIFE": 10766608186935256413,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Sylph_Grass_01",
+    "CAIOHADEDOB": 1315232155,
+    "BPPECFEIMNK": 389390328,
+    "KFEBCBPMCEG": 4082420325,
+    "BKHDCPALBEF": 3787011439,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 64,
+    "id": 81,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2691718073,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26090181,
+    "KFIBBGDOIFE": 11088734519814103920,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Un_Gamma_Water",
+    "CAIOHADEDOB": 1776193043,
+    "BPPECFEIMNK": 3924934896,
+    "KFEBCBPMCEG": 1204673093,
+    "BKHDCPALBEF": 3263263527,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 48,
+    "id": 82,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2717089729,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26090281,
+    "KFIBBGDOIFE": 11208182925226312075,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Un_Delta_Grass",
+    "CAIOHADEDOB": 2489079803,
+    "BPPECFEIMNK": 2843855104,
+    "KFEBCBPMCEG": 2741138909,
+    "BKHDCPALBEF": 591241655,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 49,
+    "id": 83,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2476025577,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26090381,
+    "KFIBBGDOIFE": 18234305613483696437,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Un_Delta_Wind",
+    "CAIOHADEDOB": 1048544339,
+    "BPPECFEIMNK": 23200912,
+    "KFEBCBPMCEG": 1129876813,
+    "BKHDCPALBEF": 3743792191,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 50,
+    "id": 84,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 665604913,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26090481,
+    "KFIBBGDOIFE": 18214955580330216208,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Trois_Epsilon_Electric",
+    "CAIOHADEDOB": 1665272507,
+    "BPPECFEIMNK": 3386458152,
+    "KFEBCBPMCEG": 1952551485,
+    "BKHDCPALBEF": 2995807975,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 51,
+    "id": 85,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1105235297,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26090581,
+    "KFIBBGDOIFE": 14698117894144667653,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Trois_Alpha_Ice",
+    "CAIOHADEDOB": 3531250067,
+    "BPPECFEIMNK": 1941339080,
+    "KFEBCBPMCEG": 1478044389,
+    "BKHDCPALBEF": 147752239,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 52,
+    "id": 86,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3095866329,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26090681,
+    "KFIBBGDOIFE": 834918250693940479,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Trois_Gamma_Fire",
+    "CAIOHADEDOB": 1225842747,
+    "BPPECFEIMNK": 2494842488,
+    "KFEBCBPMCEG": 745769141,
+    "BKHDCPALBEF": 1150428455,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 53,
+    "id": 87,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1257058657,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26090781,
+    "KFIBBGDOIFE": 15759261657187607682,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Deux_Alpha_Fire",
+    "CAIOHADEDOB": 2697986051,
+    "BPPECFEIMNK": 2455127424,
+    "KFEBCBPMCEG": 3631228085,
+    "BKHDCPALBEF": 3754929991,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 54,
+    "id": 88,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1307285593,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26090881,
+    "KFIBBGDOIFE": 677308801237376086,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Deux_Epsilon_Wind",
+    "CAIOHADEDOB": 4155937291,
+    "BPPECFEIMNK": 1610804472,
+    "KFEBCBPMCEG": 1326005469,
+    "BKHDCPALBEF": 815434431,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 55,
+    "id": 89,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 886416185,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26090981,
+    "KFIBBGDOIFE": 6079968542191179343,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Deux_Beta_Rock",
+    "CAIOHADEDOB": 3329840995,
+    "BPPECFEIMNK": 915738320,
+    "KFEBCBPMCEG": 2119908717,
+    "BKHDCPALBEF": 2963764943,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 56,
+    "id": 90,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1075288425,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W2H2",
+    "monsterId": 26091081,
+    "KFIBBGDOIFE": 15432684569743471847,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Deux_Delta_Electric",
+    "CAIOHADEDOB": 3974866563,
+    "BPPECFEIMNK": 2067076968,
+    "KFEBCBPMCEG": 1243655693,
+    "BKHDCPALBEF": 2841977151,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 57,
+    "id": 91,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3765350865,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390114
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 26120181,
+    "KFIBBGDOIFE": 3933999651760457411,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Amanita_Unu_Anudatta_Grass",
+    "CAIOHADEDOB": 3962220755,
+    "BPPECFEIMNK": 3987832360,
+    "KFEBCBPMCEG": 1187070429,
+    "BKHDCPALBEF": 3683000319,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 88,
+    "id": 92,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2682556937,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 26120281,
+    "KFIBBGDOIFE": 14889119093701837518,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Amanita_Unu_Svarita_Ice",
+    "CAIOHADEDOB": 3095856179,
+    "BPPECFEIMNK": 900794392,
+    "KFEBCBPMCEG": 1295569029,
+    "BKHDCPALBEF": 3388482279,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 89,
+    "id": 93,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3278826201,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 26120381,
+    "KFIBBGDOIFE": 4205769530437902015,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
+    "CAIOHADEDOB": 2894450971,
+    "BPPECFEIMNK": 3384391296,
+    "KFEBCBPMCEG": 1838780109,
+    "BKHDCPALBEF": 3547789551,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 90,
+    "id": 94,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4152211465,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 26120481,
+    "KFIBBGDOIFE": 7114665366813889236,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Amanita_Du_Udatta_Rock",
+    "CAIOHADEDOB": 3725072443,
+    "BPPECFEIMNK": 2413689944,
+    "KFEBCBPMCEG": 2336466997,
+    "BKHDCPALBEF": 4223604951,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 91,
+    "id": 95,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1356173185,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 24010181,
+    "KFIBBGDOIFE": 18108226935608034223,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Defender_Noner_01",
+    "CAIOHADEDOB": 1672862371,
+    "BPPECFEIMNK": 2966858376,
+    "KFEBCBPMCEG": 2072872781,
+    "BKHDCPALBEF": 876407847,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 121,
+    "id": 96,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1983599617,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkill10W10H10",
+    "monsterId": 24010381,
+    "KFIBBGDOIFE": 15356442305747516721,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Konungmathr",
+    "CAIOHADEDOB": 2378097619,
+    "BPPECFEIMNK": 778167944,
+    "KFEBCBPMCEG": 534764637,
+    "BKHDCPALBEF": 1099062871,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 122,
+    "id": 97,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2801615825,
+    "cost": 180,
+    "JOICBEMFPMG": "MonsterModelL7W7H8",
+    "deployGadgetID": 70390007
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 24020181,
+    "KFIBBGDOIFE": 12381762887365849463,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Apparatus_Enigma_BionicDrone",
+    "CAIOHADEDOB": 3633538851,
+    "BPPECFEIMNK": 3579721840,
+    "KFEBCBPMCEG": 1765408077,
+    "BKHDCPALBEF": 1303592639,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 92,
+    "id": 99,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3293692033,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 24020281,
+    "KFIBBGDOIFE": 11901733448189037487,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Apparatus_Enigma_BionicFlora",
+    "CAIOHADEDOB": 2314239563,
+    "BPPECFEIMNK": 802717296,
+    "KFEBCBPMCEG": 644683637,
+    "BKHDCPALBEF": 4089485247,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 93,
+    "id": 100,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 856568961,
+    "cost": 110,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 24020381,
+    "KFIBBGDOIFE": 14202222367124057781,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Apparatus_Enigma_BionicInsecta",
+    "CAIOHADEDOB": 2420389499,
+    "BPPECFEIMNK": 369782280,
+    "KFEBCBPMCEG": 3192803437,
+    "BKHDCPALBEF": 2011838367,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 94,
+    "id": 101,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1698420729,
+    "cost": 115,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 24020481,
+    "KFIBBGDOIFE": 17113724334473029817,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Apparatus_Enigma_BionicNettler",
+    "CAIOHADEDOB": 4203511683,
+    "BPPECFEIMNK": 263627704,
+    "KFEBCBPMCEG": 1294537013,
+    "BKHDCPALBEF": 1337661655,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 95,
+    "id": 102,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3120914409,
+    "cost": 110,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkill10W10H10",
+    "monsterId": 24030181,
+    "KFIBBGDOIFE": 4402599653072021701,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Gargoyle",
+    "CAIOHADEDOB": 3993808771,
+    "BPPECFEIMNK": 1820195200,
+    "KFEBCBPMCEG": 700474317,
+    "BKHDCPALBEF": 4043555215,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 123,
+    "id": 103,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4006215737,
+    "cost": 170,
+    "JOICBEMFPMG": "MonsterModelL7W7H8",
+    "deployGadgetID": 70390007
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkill10W10H10",
+    "monsterId": 24030281,
+    "KFIBBGDOIFE": 4402599653072021701,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Gargoyle",
+    "CAIOHADEDOB": 2397715467,
+    "BPPECFEIMNK": 1687304352,
+    "KFEBCBPMCEG": 3216139941,
+    "BKHDCPALBEF": 1811341983,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 124,
+    "id": 104,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 475432953,
+    "cost": 125,
+    "JOICBEMFPMG": "MonsterModelL7W7H8",
+    "deployGadgetID": 70390007
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 24040181,
+    "KFIBBGDOIFE": 7015420246966299100,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Monolith_Ordinator",
+    "CAIOHADEDOB": 68713963,
+    "BPPECFEIMNK": 1145109888,
+    "KFEBCBPMCEG": 3367963021,
+    "BKHDCPALBEF": 3586363583,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 96,
+    "id": 105,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 18475209,
+    "cost": 115,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 24040281,
+    "KFIBBGDOIFE": 7015420246966299100,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Monolith_Ordinator",
+    "CAIOHADEDOB": 1881738595,
+    "BPPECFEIMNK": 3044840392,
+    "KFEBCBPMCEG": 1092225765,
+    "BKHDCPALBEF": 3682674471,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 97,
+    "id": 106,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3055599609,
+    "cost": 130,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 24040381,
+    "KFIBBGDOIFE": 7015420246966299100,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Monolith_Ordinator",
+    "CAIOHADEDOB": 555107131,
+    "BPPECFEIMNK": 107599816,
+    "KFEBCBPMCEG": 2862937421,
+    "BKHDCPALBEF": 2752583511,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 98,
+    "id": 107,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3578051241,
+    "cost": 130,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26030181,
+    "KFIBBGDOIFE": 4273887253818100121,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Wyrm_Rock",
+    "CAIOHADEDOB": 77364619,
+    "BPPECFEIMNK": 134217240,
+    "KFEBCBPMCEG": 2100810589,
+    "BKHDCPALBEF": 508866879,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 108,
+    "id": 108,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2452783849,
+    "cost": 125,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26040181,
+    "KFIBBGDOIFE": 1147133571493953102,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Rock",
+    "CAIOHADEDOB": 1426990323,
+    "BPPECFEIMNK": 3331198352,
+    "KFEBCBPMCEG": 2357578477,
+    "BKHDCPALBEF": 2551944215,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 109,
+    "id": 109,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2545571209,
+    "cost": 165,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26040182,
+    "KFIBBGDOIFE": 1147133571493953102,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Rock",
+    "CAIOHADEDOB": 3064569067,
+    "BPPECFEIMNK": 2563445280,
+    "KFEBCBPMCEG": 1241377261,
+    "BKHDCPALBEF": 670600503,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 110,
+    "id": 110,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2835714785,
+    "cost": 165,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26040183,
+    "KFIBBGDOIFE": 1147133571493953102,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Rock",
+    "CAIOHADEDOB": 589125699,
+    "BPPECFEIMNK": 424143304,
+    "KFEBCBPMCEG": 1699975829,
+    "BKHDCPALBEF": 1337686799,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 111,
+    "id": 111,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2166713057,
+    "cost": 175,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26040184,
+    "KFIBBGDOIFE": 1147133571493953102,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Rock",
+    "CAIOHADEDOB": 2361756699,
+    "BPPECFEIMNK": 3851887008,
+    "KFEBCBPMCEG": 753907445,
+    "BKHDCPALBEF": 2438640175,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 112,
+    "id": 112,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3792909329,
+    "cost": 175,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26050681,
+    "KFIBBGDOIFE": 16288767109749560376,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Deepsea_Water",
+    "CAIOHADEDOB": 502784155,
+    "BPPECFEIMNK": 2476913840,
+    "KFEBCBPMCEG": 3464591141,
+    "BKHDCPALBEF": 771009527,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 125,
+    "id": 113,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2643818369,
+    "cost": 155,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26051081,
+    "KFIBBGDOIFE": 11758734786294120402,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Deepsea_Ice",
+    "CAIOHADEDOB": 3098358411,
+    "BPPECFEIMNK": 3981628136,
+    "KFEBCBPMCEG": 1304800853,
+    "BKHDCPALBEF": 3916913335,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 126,
+    "id": 114,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 4007099529,
+    "cost": 155,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26051181,
+    "KFIBBGDOIFE": 334980275748738612,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Deepsea_Electric",
+    "CAIOHADEDOB": 2749879603,
+    "BPPECFEIMNK": 4203385968,
+    "KFEBCBPMCEG": 4268766269,
+    "BKHDCPALBEF": 2390526863,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 127,
+    "id": 115,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1640073593,
+    "cost": 140,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL50W50H15",
+    "monsterId": 26020181,
+    "KFIBBGDOIFE": 13587622431899344888,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Regisvine_Ice",
+    "CAIOHADEDOB": 3943837803,
+    "BPPECFEIMNK": 2461888936,
+    "KFEBCBPMCEG": 968184437,
+    "BKHDCPALBEF": 608715687,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 16
+      },
+      {
+        "MAHINPDLBHA": 17
+      },
+      {
+        "MAHINPDLBHA": 18
+      },
+      {
+        "MAHINPDLBHA": 19
+      },
+      {
+        "MAHINPDLBHA": 20
+      }
+    ],
+    "EMPGAGFOLJF": 145,
+    "id": 116,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3131493913,
+    "cost": 550,
+    "JOICBEMFPMG": "MonsterModelL50W50H15",
+    "deployGadgetID": 70390128
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL50W50H15",
+    "monsterId": 26020281,
+    "KFIBBGDOIFE": 12814121281824118047,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Regisvine_Fire",
+    "CAIOHADEDOB": 32508931,
+    "BPPECFEIMNK": 3110505128,
+    "KFEBCBPMCEG": 517511757,
+    "BKHDCPALBEF": 1681485231,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 16
+      },
+      {
+        "MAHINPDLBHA": 17
+      },
+      {
+        "MAHINPDLBHA": 18
+      },
+      {
+        "MAHINPDLBHA": 19
+      },
+      {
+        "MAHINPDLBHA": 20
+      }
+    ],
+    "EMPGAGFOLJF": 146,
+    "id": 117,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3422460017,
+    "cost": 550,
+    "JOICBEMFPMG": "MonsterModelL50W50H15",
+    "deployGadgetID": 70390128
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL50W50H15",
+    "monsterId": 26020381,
+    "KFIBBGDOIFE": 11933610108671878637,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Regisvine_Electric",
+    "CAIOHADEDOB": 3116827763,
+    "BPPECFEIMNK": 2547292696,
+    "KFEBCBPMCEG": 2198579389,
+    "BKHDCPALBEF": 691993295,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 16
+      },
+      {
+        "MAHINPDLBHA": 17
+      },
+      {
+        "MAHINPDLBHA": 18
+      },
+      {
+        "MAHINPDLBHA": 19
+      },
+      {
+        "MAHINPDLBHA": 20
+      }
+    ],
+    "EMPGAGFOLJF": 147,
+    "id": 118,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2154709425,
+    "cost": 550,
+    "JOICBEMFPMG": "MonsterModelL50W50H15",
+    "deployGadgetID": 70390128
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL50W50H15",
+    "monsterId": 26110181,
+    "KFIBBGDOIFE": 9797592762177385883,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Raptor",
+    "CAIOHADEDOB": 3143706963,
+    "BPPECFEIMNK": 1132600792,
+    "KFEBCBPMCEG": 2692607845,
+    "BKHDCPALBEF": 4062345839,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 16
+      },
+      {
+        "MAHINPDLBHA": 17
+      },
+      {
+        "MAHINPDLBHA": 18
+      },
+      {
+        "MAHINPDLBHA": 19
+      },
+      {
+        "MAHINPDLBHA": 20
+      }
+    ],
+    "EMPGAGFOLJF": 149,
+    "id": 121,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3985553433,
+    "cost": 550,
+    "JOICBEMFPMG": "MonsterModelL50W50H15",
+    "deployGadgetID": 70390128
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL50W50H15",
+    "monsterId": 20040181,
+    "KFIBBGDOIFE": 10685065680451071571,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Effigy_Electric",
+    "CAIOHADEDOB": 2534067803,
+    "BPPECFEIMNK": 3515465616,
+    "KFEBCBPMCEG": 1158313029,
+    "BKHDCPALBEF": 1442392519,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 16
+      },
+      {
+        "MAHINPDLBHA": 17
+      },
+      {
+        "MAHINPDLBHA": 18
+      },
+      {
+        "MAHINPDLBHA": 19
+      },
+      {
+        "MAHINPDLBHA": 20
+      }
+    ],
+    "EMPGAGFOLJF": 150,
+    "id": 122,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 593486865,
+    "cost": 550,
+    "JOICBEMFPMG": "MonsterModelL50W50H15",
+    "deployGadgetID": 70390128
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010482,
+    "KFIBBGDOIFE": 5282436255200934141,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_None_01",
+    "CAIOHADEDOB": 2465337387,
+    "BPPECFEIMNK": 3965088512,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 11778383415339290875,
+    "KFEBCBPMCEG": 3908681405,
+    "BKHDCPALBEF": 2838778879,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 14,
+    "id": 500,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 147385377,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010582,
+    "KFIBBGDOIFE": 1252389542913438071,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Fire_Range",
+    "CAIOHADEDOB": 2736584163,
+    "BPPECFEIMNK": 1388320568,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 11778383415339290875,
+    "KFEBCBPMCEG": 804632669,
+    "BKHDCPALBEF": 3496008687,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 15,
+    "id": 501,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1917927665,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21010982,
+    "KFIBBGDOIFE": 3500639387097266829,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Ice_Range",
+    "CAIOHADEDOB": 2176196395,
+    "BPPECFEIMNK": 693211248,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 11778383415339290875,
+    "KFEBCBPMCEG": 333389349,
+    "BKHDCPALBEF": 1876530375,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 16,
+    "id": 502,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1675139297,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21011082,
+    "KFIBBGDOIFE": 2710779454982115960,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Hili_Electric_Range",
+    "CAIOHADEDOB": 995490555,
+    "BPPECFEIMNK": 4116055080,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 11778383415339290875,
+    "KFEBCBPMCEG": 2834307709,
+    "BKHDCPALBEF": 272580871,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 17,
+    "id": 503,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3906731281,
+    "cost": 50,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21030282,
+    "KFIBBGDOIFE": 17345693458545485885,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Shaman_Grass_01",
+    "CAIOHADEDOB": 2153020635,
+    "BPPECFEIMNK": 2282994920,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 11778383415339290875,
+    "KFEBCBPMCEG": 1678178197,
+    "BKHDCPALBEF": 2320729775,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 18,
+    "id": 510,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 776752017,
+    "cost": 125,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21030382,
+    "KFIBBGDOIFE": 86397847291692033,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Shaman_Wind_01",
+    "CAIOHADEDOB": 2916100611,
+    "BPPECFEIMNK": 825608280,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 11778383415339290875,
+    "KFEBCBPMCEG": 2503521037,
+    "BKHDCPALBEF": 1580143439,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 19,
+    "id": 511,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1583412377,
+    "cost": 180,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21030383,
+    "KFIBBGDOIFE": 86397847291692033,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Shaman_Wind_01",
+    "CAIOHADEDOB": 3854221099,
+    "BPPECFEIMNK": 2289655672,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 4218492662766314394,
+    "KFEBCBPMCEG": 2382508621,
+    "BKHDCPALBEF": 2758750391,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 20,
+    "id": 512,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1602561569,
+    "cost": 180,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL1W1H2",
+    "monsterId": 21030582,
+    "KFIBBGDOIFE": 9738020503291997466,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Shaman_Ice_01",
+    "CAIOHADEDOB": 820012411,
+    "BPPECFEIMNK": 269210040,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 15367638590982302735,
+    "KFEBCBPMCEG": 965139533,
+    "BKHDCPALBEF": 2633913087,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 1
+      },
+      {
+        "MAHINPDLBHA": 2
+      },
+      {
+        "MAHINPDLBHA": 3
+      },
+      {
+        "MAHINPDLBHA": 4
+      },
+      {
+        "MAHINPDLBHA": 5
+      }
+    ],
+    "EMPGAGFOLJF": 21,
+    "id": 513,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1396883705,
+    "cost": 105,
+    "JOICBEMFPMG": "MonsterModelL1W1H2",
+    "deployGadgetID": 70390115
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W4H3",
+    "monsterId": 21020282,
+    "KFIBBGDOIFE": 4841569817401254054,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_None_01",
+    "CAIOHADEDOB": 4053193899,
+    "BPPECFEIMNK": 1134969400,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 10420341042216787991,
+    "KFEBCBPMCEG": 1516339677,
+    "BKHDCPALBEF": 1504616215,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 99,
+    "id": 520,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3719229225,
+    "cost": 95,
+    "JOICBEMFPMG": "MonsterModelL2W4H3",
+    "deployGadgetID": 70390117
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL2W4H3",
+    "monsterId": 21020782,
+    "KFIBBGDOIFE": 4841569817401254054,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_None_01",
+    "CAIOHADEDOB": 310433563,
+    "BPPECFEIMNK": 1956695024,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 4479841102953302067,
+    "KFEBCBPMCEG": 3672457013,
+    "BKHDCPALBEF": 2700882439,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 100,
+    "id": 521,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1173538161,
+    "cost": 95,
+    "JOICBEMFPMG": "MonsterModelL2W4H3",
+    "deployGadgetID": 70390117
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 21020482,
+    "KFIBBGDOIFE": 904226632227649572,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_Ice_01",
+    "CAIOHADEDOB": 572088315,
+    "BPPECFEIMNK": 480101688,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 15367638590982302735,
+    "KFEBCBPMCEG": 1453942373,
+    "BKHDCPALBEF": 668092631,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 128,
+    "id": 530,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3486737481,
+    "cost": 180,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 21020882,
+    "KFIBBGDOIFE": 15684238034909413026,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Brute_Electric_01",
+    "CAIOHADEDOB": 2517741331,
+    "BPPECFEIMNK": 26514584,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 4479841102953302067,
+    "KFEBCBPMCEG": 2210161589,
+    "BKHDCPALBEF": 1130039455,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 129,
+    "id": 531,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2353238273,
+    "cost": 180,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25310182,
+    "KFIBBGDOIFE": 1293124663935594733,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Female_Slim_PushDagger",
+    "CAIOHADEDOB": 3468915275,
+    "BPPECFEIMNK": 2055432232,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 14913609160219953943,
+    "KFEBCBPMCEG": 1873870141,
+    "BKHDCPALBEF": 2648980159,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 113,
+    "id": 540,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3092940377,
+    "cost": 105,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25310382,
+    "KFIBBGDOIFE": 2356393229973087876,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Male_Standard_Polearm",
+    "CAIOHADEDOB": 2143571171,
+    "BPPECFEIMNK": 3306226576,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 4479841102953302067,
+    "KFEBCBPMCEG": 2302642565,
+    "BKHDCPALBEF": 3587353111,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 114,
+    "id": 541,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 872145185,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25410282,
+    "KFIBBGDOIFE": 13283320526438196685,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Eremite_Female_Standard_Longbow",
+    "CAIOHADEDOB": 4040642907,
+    "BPPECFEIMNK": 804181448,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 4218492662766314394,
+    "KFEBCBPMCEG": 570010685,
+    "BKHDCPALBEF": 3760857303,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 130,
+    "id": 542,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3845327561,
+    "cost": 185,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25100182,
+    "KFIBBGDOIFE": 9517959067198819332,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Samurai_Kairagi_01",
+    "CAIOHADEDOB": 2461798971,
+    "BPPECFEIMNK": 3837146304,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 4479841102953302067,
+    "KFEBCBPMCEG": 3468010653,
+    "BKHDCPALBEF": 1739373575,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 131,
+    "id": 550,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 156593145,
+    "cost": 120,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25100282,
+    "KFIBBGDOIFE": 13053903818135185709,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Samurai_Kairagi_02",
+    "CAIOHADEDOB": 3616512451,
+    "BPPECFEIMNK": 2982215264,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 10420341042216787991,
+    "KFEBCBPMCEG": 580111901,
+    "BKHDCPALBEF": 1625891839,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 132,
+    "id": 551,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 46703625,
+    "cost": 125,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25100183,
+    "KFIBBGDOIFE": 9517959067198819332,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Samurai_Kairagi_01",
+    "CAIOHADEDOB": 3919075707,
+    "BPPECFEIMNK": 2081377472,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 16553314552291903312,
+    "KFEBCBPMCEG": 478951749,
+    "BKHDCPALBEF": 248925703,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 133,
+    "id": 552,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1852190409,
+    "cost": 120,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 25100283,
+    "KFIBBGDOIFE": 13053903818135185709,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Samurai_Kairagi_02",
+    "CAIOHADEDOB": 2849712883,
+    "BPPECFEIMNK": 1994268848,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 16553314552291903312,
+    "KFEBCBPMCEG": 3555205061,
+    "BKHDCPALBEF": 1819815951,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 134,
+    "id": 553,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3935598065,
+    "cost": 125,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL3W3H3",
+    "monsterId": 26120382,
+    "KFIBBGDOIFE": 4205769530437902015,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Fungus_Amanita_Du_Anudatta_Water",
+    "CAIOHADEDOB": 3472417731,
+    "BPPECFEIMNK": 1476079504,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 14913609160219953943,
+    "KFEBCBPMCEG": 1838475989,
+    "BKHDCPALBEF": 3667519199,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 6
+      },
+      {
+        "MAHINPDLBHA": 7
+      },
+      {
+        "MAHINPDLBHA": 8
+      },
+      {
+        "MAHINPDLBHA": 9
+      },
+      {
+        "MAHINPDLBHA": 10
+      }
+    ],
+    "EMPGAGFOLJF": 135,
+    "id": 560,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1793407409,
+    "cost": 90,
+    "JOICBEMFPMG": "MonsterModelL3W3H3",
+    "deployGadgetID": 70390119
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W5H5",
+    "monsterId": 24010182,
+    "KFIBBGDOIFE": 18108226935608034223,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Defender_Noner_01",
+    "CAIOHADEDOB": 2672617651,
+    "BPPECFEIMNK": 3715352232,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 16553314552291903312,
+    "KFEBCBPMCEG": 164201917,
+    "BKHDCPALBEF": 2160312639,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 136,
+    "id": 570,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 173743297,
+    "cost": 100,
+    "JOICBEMFPMG": "MonsterModelL5W5H5",
+    "deployGadgetID": 70390118
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkill10W10H10",
+    "monsterId": 24010382,
+    "KFIBBGDOIFE": 15356442305747516721,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Konungmathr",
+    "CAIOHADEDOB": 3149868859,
+    "BPPECFEIMNK": 4001479496,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 16553314552291903312,
+    "KFEBCBPMCEG": 107473805,
+    "BKHDCPALBEF": 525783215,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 137,
+    "id": 571,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 2423379857,
+    "cost": 180,
+    "JOICBEMFPMG": "MonsterModelL7W7H8",
+    "deployGadgetID": 70390007
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26050682,
+    "KFIBBGDOIFE": 16288767109749560376,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Deepsea_Water",
+    "CAIOHADEDOB": 2948887307,
+    "BPPECFEIMNK": 2380493280,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 14913609160219953943,
+    "KFEBCBPMCEG": 365344597,
+    "BKHDCPALBEF": 4068109143,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 138,
+    "id": 580,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 848753929,
+    "cost": 155,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26051082,
+    "KFIBBGDOIFE": 11758734786294120402,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Deepsea_Ice",
+    "CAIOHADEDOB": 3875148699,
+    "BPPECFEIMNK": 1175844576,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 15367638590982302735,
+    "KFEBCBPMCEG": 1302927757,
+    "BKHDCPALBEF": 2982784831,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 139,
+    "id": 581,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 686163001,
+    "cost": 155,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26051182,
+    "KFIBBGDOIFE": 334980275748738612,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Deepsea_Electric",
+    "CAIOHADEDOB": 639624619,
+    "BPPECFEIMNK": 3225729448,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 4479841102953302067,
+    "KFEBCBPMCEG": 2473204389,
+    "BKHDCPALBEF": 3284435879,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 140,
+    "id": 582,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 255585577,
+    "cost": 140,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26040185,
+    "KFIBBGDOIFE": 1147133571493953102,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Rock",
+    "CAIOHADEDOB": 2840695811,
+    "BPPECFEIMNK": 1963866536,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 16553314552291903312,
+    "KFEBCBPMCEG": 1894045701,
+    "BKHDCPALBEF": 3727998999,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 141,
+    "id": 590,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 856660793,
+    "cost": 165,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26040186,
+    "KFIBBGDOIFE": 1147133571493953102,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Rock",
+    "CAIOHADEDOB": 3779397723,
+    "BPPECFEIMNK": 3857106328,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 16553314552291903312,
+    "KFEBCBPMCEG": 1996417861,
+    "BKHDCPALBEF": 3742724503,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 142,
+    "id": 591,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 3908428929,
+    "cost": 165,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26040187,
+    "KFIBBGDOIFE": 1147133571493953102,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Rock",
+    "CAIOHADEDOB": 1912489147,
+    "BPPECFEIMNK": 1235165560,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 16553314552291903312,
+    "KFEBCBPMCEG": 65315661,
+    "BKHDCPALBEF": 2953331015,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 143,
+    "id": 592,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1062468193,
+    "cost": 175,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  },
+  {
+    "AGFKHHDPDMK": "MonsterSkillL5W10H10",
+    "monsterId": 26040188,
+    "KFIBBGDOIFE": 1147133571493953102,
+    "BDLFMBCOCFI": "UI_MonsterIcon_Drake_Rock",
+    "CAIOHADEDOB": 1172397371,
+    "BPPECFEIMNK": 2950724888,
+    "PLBGFBJNGIJ": true,
+    "GCDFIDKAKLH": 16553314552291903312,
+    "KFEBCBPMCEG": 4070620357,
+    "BKHDCPALBEF": 1301802751,
+    "JJACHHLDNGB": [
+      {
+        "MAHINPDLBHA": 11
+      },
+      {
+        "MAHINPDLBHA": 12
+      },
+      {
+        "MAHINPDLBHA": 13
+      },
+      {
+        "MAHINPDLBHA": 14
+      },
+      {
+        "MAHINPDLBHA": 15
+      }
+    ],
+    "EMPGAGFOLJF": 144,
+    "id": 593,
+    "PCNHFKANCOG": [],
+    "nameTextMapHash": 1461163041,
+    "cost": 175,
+    "JOICBEMFPMG": "MonsterModelL5W10H10",
+    "deployGadgetID": 70390121
+  }
+]

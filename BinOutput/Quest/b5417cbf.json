@@ -1,0 +1,171 @@
+{
+  "id": 71529,
+  "type": "WQ",
+  "DPKJDKDKDFH": "MAINQUEST_TAG_ACTIVITY",
+  "titleTextMapHash": 3993216023,
+  "descTextMapHash": 2866723702,
+  "luaPath": "Actor/Quest/WQ71529",
+  "showType": "QUEST_HIDDEN",
+  "PMKEAKECDPO": 5173,
+  "subQuests": [
+    {
+      "subId": 7152901,
+      "mainId": 71529,
+      "order": 1,
+      "descTextMapHash": 2310393524,
+      "showType": "QUEST_HIDDEN",
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            7166650,
+            0
+          ]
+        }
+      ],
+      "guide": {},
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 7152902,
+      "mainId": 71529,
+      "order": 2,
+      "descTextMapHash": 2620965348,
+      "showType": "QUEST_HIDDEN",
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
+          "param": [
+            7152903,
+            2
+          ]
+        }
+      ],
+      "guide": {},
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 7152903,
+      "mainId": 71529,
+      "order": 3,
+      "descTextMapHash": 85780084,
+      "showType": "QUEST_HIDDEN",
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            7166651,
+            0
+          ]
+        }
+      ],
+      "guide": {},
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "DBJJALMJAGP": true,
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    }
+  ],
+  "PCNNNPLAEAI": [
+    {
+      "id": 7166650,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "KHBAFFEPLFB": "LOGIC_AND",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_ACTIVITY_CLIENT_COND",
+          "_param": [
+            "5173",
+            "5173006",
+            "1"
+          ]
+        },
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "7152901",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "FMFFELFBBJN": 716665001,
+      "JDOFKFPHIDC": [
+        30473
+      ],
+      "GHHGNCCJOEJ": "QuestDialogue/WQ/ElectroherculesBattleV2_71666/Q7166650",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 71529,
+      "NKIDPMJGEKA": 16334178235210320411,
+      "BBMLHKKNIOJ": "",
+      "FGABNCHLIPE": true,
+      "EIPOLMFCODP": [
+        "[3_7030:-352.046,200.421,-699.884,0.000,97.814,0.000]"
+      ]
+    },
+    {
+      "id": 7166651,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "KHBAFFEPLFB": "LOGIC_AND",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "7152903",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 8,
+      "FMFFELFBBJN": 716665101,
+      "JDOFKFPHIDC": [
+        30473
+      ],
+      "GHHGNCCJOEJ": "QuestDialogue/WQ/ElectroherculesBattleV2_71666/Q7166651",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 71529,
+      "NKIDPMJGEKA": 17912669301301907554,
+      "BBMLHKKNIOJ": "",
+      "EIPOLMFCODP": [
+        "[3_7030:-352.046,200.421,-699.884,0.000,97.814,0.000]"
+      ]
+    },
+    {
+      "id": 7166653,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "7152902",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "FMFFELFBBJN": 716665301,
+      "JDOFKFPHIDC": [
+        13954
+      ],
+      "GHHGNCCJOEJ": "UI/open_actvity_ElectroherculesBattleV2_level4_page",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 71529,
+      "NKIDPMJGEKA": 124449342626346895,
+      "BBMLHKKNIOJ": ""
+    }
+  ],
+  "NKMGAAOIGIL": true
+}

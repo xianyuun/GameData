@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "KHBIOPLBNJM": 0.0010000000474974513,
+    "COMOFICDFNK": 3.0,
+    "FOMECCHJMLB": 1.0,
+    "EBEINEABODG": 300.0
+  },
+  {
+    "id": 2,
+    "KHBIOPLBNJM": 3.0,
+    "COMOFICDFNK": 5.0,
+    "FOMECCHJMLB": 1.0,
+    "EBEINEABODG": 245.0
+  },
+  {
+    "id": 3,
+    "KHBIOPLBNJM": 5.0,
+    "COMOFICDFNK": 7.0,
+    "FOMECCHJMLB": 1.2000000476837158,
+    "EBEINEABODG": 215.0
+  },
+  {
+    "id": 4,
+    "KHBIOPLBNJM": 7.0,
+    "COMOFICDFNK": -1.0,
+    "FOMECCHJMLB": 1.600000023841858,
+    "EBEINEABODG": 300.0
+  }
+]

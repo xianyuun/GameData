@@ -1,0 +1,101 @@
+[
+  {
+    "FEEHIBHDHDA": 3249455190,
+    "KGAOJGOCGID": 685004169,
+    "NIEIGDDDBGF": 2994141152,
+    "EJIGKEECECD": 15132101,
+    "CPKFBDNPEEG": 15132101,
+    "MLKODACGBOC": 15132102,
+    "NLNJIDBOMKC": [
+      1,
+      2,
+      3,
+      101,
+      104,
+      107,
+      109,
+      103,
+      102
+    ],
+    "IGAONIGCBCA": 20,
+    "id": 1,
+    "galleryId": 44401,
+    "JMEBMABAHKM": 76001,
+    "DPBAOOIBFAE": 76082,
+    "levelTitleTextMapHash": 3761427615,
+    "levelDescTextMapHash": 322226105,
+    "groupLinkID": 51320101,
+    "groupID": 133316076,
+    "watcherList": [
+      15132101,
+      15132102
+    ]
+  },
+  {
+    "FEEHIBHDHDA": 890971526,
+    "KGAOJGOCGID": 2668645905,
+    "NIEIGDDDBGF": 3901175952,
+    "EJIGKEECECD": 15132103,
+    "CPKFBDNPEEG": 15132103,
+    "MLKODACGBOC": 15132104,
+    "NLNJIDBOMKC": [
+      1,
+      2,
+      3,
+      101,
+      106,
+      111,
+      107,
+      109,
+      103,
+      102
+    ],
+    "IGAONIGCBCA": 20,
+    "id": 2,
+    "galleryId": 44402,
+    "JMEBMABAHKM": 29001,
+    "DPBAOOIBFAE": 29072,
+    "levelTitleTextMapHash": 3072325423,
+    "levelDescTextMapHash": 2684207817,
+    "groupLinkID": 51320102,
+    "groupID": 133316029,
+    "watcherList": [
+      15132103,
+      15132104
+    ]
+  },
+  {
+    "FEEHIBHDHDA": 3404721742,
+    "KGAOJGOCGID": 3900641521,
+    "NIEIGDDDBGF": 3179351008,
+    "EJIGKEECECD": 15132105,
+    "CPKFBDNPEEG": 15132105,
+    "MLKODACGBOC": 15132106,
+    "NLNJIDBOMKC": [
+      1,
+      2,
+      3,
+      101,
+      105,
+      106,
+      111,
+      107,
+      109,
+      103,
+      102
+    ],
+    "IGAONIGCBCA": 25,
+    "id": 3,
+    "galleryId": 44403,
+    "JMEBMABAHKM": 133002,
+    "DPBAOOIBFAE": 133108,
+    "levelTitleTextMapHash": 2567967615,
+    "levelDescTextMapHash": 955680969,
+    "groupLinkID": 51320103,
+    "groupID": 133316133,
+    "watcherList": [
+      15132105,
+      15132106
+    ]
+  }
+]

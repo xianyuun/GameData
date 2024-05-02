@@ -1,0 +1,33 @@
+[
+  {
+    "JNBBGHANOKG": 2.0,
+    "JNILINDKDAC": 0.25,
+    "NBAMPOJJFBM": 20.0,
+    "PACHPBNLGHE": 150.0,
+    "COFMIMJNMOE": 10.0
+  },
+  {
+    "type": "Mid",
+    "JNBBGHANOKG": 3.0,
+    "JNILINDKDAC": 0.30000001192092896,
+    "NBAMPOJJFBM": 20.0,
+    "PACHPBNLGHE": 150.0,
+    "COFMIMJNMOE": 10.0
+  },
+  {
+    "type": "Hi",
+    "JNBBGHANOKG": 4.0,
+    "JNILINDKDAC": 0.4000000059604645,
+    "NBAMPOJJFBM": 20.0,
+    "PACHPBNLGHE": 150.0,
+    "COFMIMJNMOE": 10.0
+  },
+  {
+    "type": "Top",
+    "JNBBGHANOKG": 5.0,
+    "JNILINDKDAC": 0.5,
+    "NBAMPOJJFBM": 20.0,
+    "PACHPBNLGHE": 180.0,
+    "COFMIMJNMOE": 10.0
+  }
+]

@@ -1,0 +1,507 @@
+[
+  {
+    "HBNELNGAOHC": 1,
+    "KEBKMCLKNED": 1,
+    "HPLGFDAODPP": 4008120,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 1,
+    "EMJEIHGDIEO": [
+      1,
+      2,
+      1,
+      3,
+      3,
+      2,
+      1,
+      2,
+      3
+    ],
+    "JCEDOFJMINO": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "HIFBEFJOPEF": [
+      1,
+      2
+    ],
+    "AHAJECJAEDD": [
+      [],
+      []
+    ],
+    "watcherIds": [
+      1201711,
+      1201721
+    ]
+  },
+  {
+    "HBNELNGAOHC": 2,
+    "KEBKMCLKNED": 10,
+    "HPLGFDAODPP": 4008121,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 1,
+    "EMJEIHGDIEO": [
+      3,
+      3,
+      4,
+      4,
+      4,
+      5,
+      4,
+      5,
+      5
+    ],
+    "JCEDOFJMINO": [
+      3,
+      3,
+      3,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "HIFBEFJOPEF": [
+      1,
+      3
+    ],
+    "DCIHHBFBGAI": 1,
+    "AHAJECJAEDD": [
+      [],
+      []
+    ],
+    "watcherIds": [
+      1201712,
+      1201722
+    ],
+    "tutorialId": 12043
+  },
+  {
+    "HBNELNGAOHC": 3,
+    "KEBKMCLKNED": 9,
+    "HPLGFDAODPP": 4008102,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 1,
+    "EMJEIHGDIEO": [
+      5,
+      1,
+      1,
+      4,
+      5,
+      5,
+      1,
+      5,
+      1
+    ],
+    "JCEDOFJMINO": [
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      1,
+      1,
+      1
+    ],
+    "HIFBEFJOPEF": [
+      1,
+      2,
+      3
+    ],
+    "DCIHHBFBGAI": 2,
+    "AHAJECJAEDD": [
+      [],
+      []
+    ],
+    "watcherIds": [
+      1201713,
+      1201723
+    ]
+  },
+  {
+    "HBNELNGAOHC": 4,
+    "KEBKMCLKNED": 5,
+    "HPLGFDAODPP": 4008104,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 1,
+    "EMJEIHGDIEO": [
+      3,
+      3,
+      6,
+      2,
+      6,
+      2,
+      2,
+      3,
+      3
+    ],
+    "JCEDOFJMINO": [
+      6,
+      6,
+      6,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "HIFBEFJOPEF": [
+      2,
+      4
+    ],
+    "AHAJECJAEDD": [
+      [
+        6,
+        2,
+        0,
+        3,
+        6,
+        0,
+        0,
+        0,
+        0
+      ],
+      []
+    ],
+    "watcherIds": [
+      1201714,
+      1201724
+    ],
+    "tutorialId": 12044
+  },
+  {
+    "HBNELNGAOHC": 5,
+    "KEBKMCLKNED": 2,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 2,
+    "EMJEIHGDIEO": [
+      1,
+      1,
+      1,
+      4,
+      1,
+      4,
+      5,
+      4,
+      5
+    ],
+    "JCEDOFJMINO": [
+      1,
+      1,
+      1,
+      4,
+      4,
+      4,
+      5,
+      5,
+      5
+    ],
+    "HIFBEFJOPEF": [
+      1,
+      2,
+      4
+    ],
+    "AHAJECJAEDD": [
+      [
+        0,
+        5,
+        0,
+        0,
+        4,
+        0,
+        0,
+        5,
+        0
+      ],
+      []
+    ],
+    "watcherIds": [
+      1201715,
+      1201725
+    ]
+  },
+  {
+    "HBNELNGAOHC": 6,
+    "KEBKMCLKNED": 7,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 2,
+    "EMJEIHGDIEO": [
+      2,
+      1,
+      1,
+      2,
+      3,
+      3,
+      3,
+      2,
+      3
+    ],
+    "JCEDOFJMINO": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "HIFBEFJOPEF": [
+      2,
+      4
+    ],
+    "AHAJECJAEDD": [
+      [
+        0,
+        0,
+        0,
+        1,
+        3,
+        2,
+        0,
+        0,
+        0
+      ],
+      []
+    ],
+    "watcherIds": [
+      1201716,
+      1201726
+    ]
+  },
+  {
+    "HBNELNGAOHC": 7,
+    "KEBKMCLKNED": 3,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 3,
+    "EMJEIHGDIEO": [
+      3,
+      3,
+      4,
+      5,
+      4,
+      5,
+      5,
+      3,
+      3
+    ],
+    "JCEDOFJMINO": [
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      3,
+      3,
+      3
+    ],
+    "HIFBEFJOPEF": [
+      2,
+      3,
+      4
+    ],
+    "DCIHHBFBGAI": 1,
+    "AHAJECJAEDD": [
+      [
+        0,
+        0,
+        0,
+        3,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        4,
+        0,
+        0,
+        5,
+        0,
+        0,
+        3,
+        0
+      ]
+    ],
+    "watcherIds": [
+      1201717,
+      1201727
+    ]
+  },
+  {
+    "HBNELNGAOHC": 8,
+    "KEBKMCLKNED": 6,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 3,
+    "EMJEIHGDIEO": [
+      6,
+      2,
+      6,
+      2,
+      6,
+      2,
+      3,
+      2,
+      6
+    ],
+    "JCEDOFJMINO": [
+      6,
+      6,
+      6,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "HIFBEFJOPEF": [
+      1,
+      2,
+      4
+    ],
+    "AHAJECJAEDD": [
+      [
+        0,
+        0,
+        0,
+        6,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        2,
+        3,
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "watcherIds": [
+      1201718,
+      1201728
+    ]
+  },
+  {
+    "HBNELNGAOHC": 9,
+    "KEBKMCLKNED": 4,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 4,
+    "EMJEIHGDIEO": [
+      1,
+      1,
+      3,
+      2,
+      2,
+      2,
+      3,
+      1,
+      2
+    ],
+    "JCEDOFJMINO": [
+      1,
+      1,
+      1,
+      2,
+      2,
+      2,
+      3,
+      3,
+      3
+    ],
+    "HIFBEFJOPEF": [
+      1,
+      2,
+      4
+    ],
+    "AHAJECJAEDD": [
+      [
+        0,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        3,
+        0
+      ],
+      []
+    ],
+    "watcherIds": [
+      1201719,
+      1201729
+    ]
+  },
+  {
+    "HBNELNGAOHC": 10,
+    "KEBKMCLKNED": 8,
+    "BGGDCBCMONM": 1,
+    "unlockDay": 4,
+    "EMJEIHGDIEO": [
+      4,
+      4,
+      5,
+      4,
+      4,
+      3,
+      3,
+      5,
+      5
+    ],
+    "JCEDOFJMINO": [
+      4,
+      4,
+      4,
+      5,
+      5,
+      5,
+      3,
+      3,
+      3
+    ],
+    "HIFBEFJOPEF": [
+      1,
+      2,
+      4
+    ],
+    "AHAJECJAEDD": [
+      [
+        0,
+        5,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      []
+    ],
+    "watcherIds": [
+      1201720,
+      1201730
+    ]
+  }
+]

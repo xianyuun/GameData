@@ -1,0 +1,61 @@
+{
+    "sceneId": 1009,
+    "LPNOMMNAKGO": [
+        {
+            "name": "room_angelshare_right",
+            "KCKHGBFOIIJ": {
+                "text": "aux_scene_angelshare_right"
+            },
+            "GMMHOONPAKP": true,
+            "HCMLDBJKLHG": [
+                {
+                    "position": {
+                        "y": 5.0,
+                        "z": 5.0
+                    },
+                    "DMIKDAOCFDG": {
+                        "x": 10.0,
+                        "y": 15.0,
+                        "z": 10.0
+                    }
+                }
+            ]
+        },
+        {
+            "name": "room_angelshare_left",
+            "KCKHGBFOIIJ": {
+                "text": "aux_scene_angelshare_left"
+            },
+            "GMMHOONPAKP": true,
+            "HCMLDBJKLHG": [
+                {
+                    "position": {
+                        "y": 5.0,
+                        "z": -5.0
+                    },
+                    "DMIKDAOCFDG": {
+                        "x": 20.0,
+                        "y": 15.0,
+                        "z": 10.0
+                    }
+                }
+            ]
+        }
+    ],
+    "MIKBKONPAFA": [
+        {
+            "name": "portal_angelshare_right_to_left",
+            "position": {
+                "y": 5.0
+            },
+            "DMIKDAOCFDG": {
+                "x": 10.0,
+                "y": 15.0,
+                "z": 2.0
+            },
+            "GLGONFEOONE": "room_angelshare_right",
+            "HIKAHFCHIIJ": "room_angelshare_left"
+        }
+    ],
+    "HMOJKMGEDMK": ""
+}

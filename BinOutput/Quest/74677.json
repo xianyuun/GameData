@@ -1,0 +1,71 @@
+{
+    "id": 74677,
+    "type": "WQ",
+    "DPKJDKDKDFH": "mainQuestTag",
+    "titleTextMapHash": 2535885047,
+    "descTextMapHash": 2816982646,
+    "luaPath": "Actor/Quest/WQ74677",
+    "rewardIdList": [
+        174677
+    ],
+    "CFHCHGOOLBN": true,
+    "PMKEAKECDPO": 5172,
+    "subQuests": [
+        {
+            "subId": 7467701,
+            "mainId": 74677,
+            "order": 1,
+            "descTextMapHash": 981363300,
+            "finishCond": [
+                {
+                    "type": "QUEST_CONTENT_COMPLETE_TALK",
+                    "param": [
+                        7467701,
+                        0
+                    ]
+                }
+            ],
+            "guide": {
+                "type": "QUEST_GUIDE_NPC",
+                "param": [
+                    "30483"
+                ],
+                "guideScene": 3,
+                "guideStyle": "QUEST_GUIDE_STYLE_TARGET"
+            },
+            "CDDKJNJPILI": {
+                "KPOGPNLFAAE": ""
+            },
+            "DBJJALMJAGP": true,
+            "isRewind": true,
+            "versionBegin": "",
+            "versionEnd": ""
+        }
+    ],
+    "PCNNNPLAEAI": [
+        {
+            "id": 7467701,
+            "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+            "AFNAENENCBB": [
+                {
+                    "type": "QUEST_COND_STATE_EQUAL",
+                    "param": [
+                        "7467701",
+                        "2"
+                    ]
+                }
+            ],
+            "KPMDGJNJNJC": 5,
+            "FMFFELFBBJN": 746770101,
+            "JDOFKFPHIDC": [
+                30483
+            ],
+            "GHHGNCCJOEJ": "QuestDialogue/WQ/GoalChallenge_74677/Q7467701",
+            "GKACCNJHFHH": "TALK_HERO_MAIN",
+            "OLLANCCFJKD": 74677,
+            "NKIDPMJGEKA": 1380444555221780470,
+            "BBMLHKKNIOJ": ""
+        }
+    ],
+    "NKMGAAOIGIL": true
+}

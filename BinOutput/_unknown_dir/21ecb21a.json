@@ -1,0 +1,66 @@
+{
+    "1": {
+        "JBFLOAMNPBC": 1,
+        "name": ""
+    },
+    "2": {
+        "JBFLOAMNPBC": 2,
+        "name": "LEVEL_BWBS_FontaineTopHill"
+    },
+    "3": {
+        "JBFLOAMNPBC": 3,
+        "name": "LEVEL_Waterwayship_refresh"
+    },
+    "4": {
+        "JBFLOAMNPBC": 4,
+        "name": "LEVEL_Airship_refresh"
+    },
+    "5": {
+        "JBFLOAMNPBC": 5,
+        "name": "QUEST_Message_Q7405802"
+    },
+    "6": {
+        "JBFLOAMNPBC": 6,
+        "name": "LEVEL_BWBS_BoilLake"
+    },
+    "7": {
+        "JBFLOAMNPBC": 7,
+        "name": "LEVEL_Seal_Comehome"
+    },
+    "8": {
+        "JBFLOAMNPBC": 8,
+        "name": "LEVEL_YDG_Followme"
+    },
+    "9": {
+        "JBFLOAMNPBC": 9,
+        "name": "LEVEL_CYG_XIANBEISHAN"
+    },
+    "10": {
+        "JBFLOAMNPBC": 10,
+        "name": "LEVEL_CYG_DAOBAODONG"
+    },
+    "11": {
+        "JBFLOAMNPBC": 11,
+        "name": "LEVEL_Zhufa_refresh"
+    },
+    "12": {
+        "JBFLOAMNPBC": 12,
+        "name": "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT1COME"
+    },
+    "13": {
+        "JBFLOAMNPBC": 13,
+        "name": "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT2COME"
+    },
+    "14": {
+        "JBFLOAMNPBC": 14,
+        "name": "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT3COME"
+    },
+    "15": {
+        "JBFLOAMNPBC": 15,
+        "name": "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT4COME"
+    },
+    "16": {
+        "JBFLOAMNPBC": 16,
+        "name": "UI_ACTIVITY_CATCAFE_BLACKSCREEN_CAT5COME"
+    }
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "ID": 1,
+    "BKIMCGAHDHF": 15,
+    "GJIHAFPAGEK": "event_15min"
+  },
+  {
+    "ID": 2,
+    "BKIMCGAHDHF": 30,
+    "GJIHAFPAGEK": "event_30min"
+  },
+  {
+    "ID": 3,
+    "BKIMCGAHDHF": 45,
+    "GJIHAFPAGEK": "event_45min"
+  },
+  {
+    "ID": 4,
+    "BKIMCGAHDHF": 60,
+    "GJIHAFPAGEK": "event_1h"
+  },
+  {
+    "ID": 5,
+    "BKIMCGAHDHF": 120,
+    "GJIHAFPAGEK": "event_2h"
+  }
+]

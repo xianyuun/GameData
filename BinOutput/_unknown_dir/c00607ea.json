@@ -1,0 +1,173 @@
+{
+    "EKGKKALEFLB": 4021,
+    "CLPJJEOEHLI": {
+        "402101": {
+            "$type": "FKPAMOCDCGJ",
+            "MOFFHIJOLEO": 402101,
+            "JHKDHINBBHP": 4022,
+            "AFBJDGMLAMK": true,
+            "itemType": "Clues",
+            "PKKPCJJDDGG": 402101,
+            "JKGGJGBGOCH": 1,
+            "HHBHFKJEFFM": "UI_NPC_Quest_Liney",
+            "title": "EVENTSITEM_4021_TITLETEXTMAP_448",
+            "desc": "EVENTSITEM_4021_DESCTEXTMAP_449",
+            "ENCKAJNLDAB": "EVENTSITEM_4021_LOCKDESCTEXTMAP_450",
+            "NIDCEGMNBJG": 40211083,
+            "APNCGJLGLHK": "UI_AvatarIcon_Charlotte",
+            "BJNDHEFNIFB": "UI_BtnIcon_QuestEvents_Book_Event",
+            "PMDPGJAOJBL": "",
+            "KOLODOFJHDG": ""
+        },
+        "402102": {
+            "$type": "FKPAMOCDCGJ",
+            "MOFFHIJOLEO": 402102,
+            "JHKDHINBBHP": 4022,
+            "AFBJDGMLAMK": true,
+            "itemType": "Clues",
+            "PKKPCJJDDGG": 402101,
+            "JKGGJGBGOCH": 2,
+            "HHBHFKJEFFM": "UI_NPC_Quest_Marcelle",
+            "title": "EVENTSITEM_4021_TITLETEXTMAP_451",
+            "desc": "EVENTSITEM_4021_DESCTEXTMAP_452",
+            "ENCKAJNLDAB": "EVENTSITEM_4021_LOCKDESCTEXTMAP_453",
+            "NIDCEGMNBJG": 40211084,
+            "APNCGJLGLHK": "UI_AvatarIcon_Charlotte",
+            "BJNDHEFNIFB": "UI_BtnIcon_QuestEvents_Book_Event",
+            "PMDPGJAOJBL": "",
+            "KOLODOFJHDG": ""
+        },
+        "402103": {
+            "$type": "FKPAMOCDCGJ",
+            "MOFFHIJOLEO": 402103,
+            "JHKDHINBBHP": 4022,
+            "AFBJDGMLAMK": true,
+            "itemType": "Clues",
+            "PKKPCJJDDGG": 402101,
+            "JKGGJGBGOCH": 3,
+            "HHBHFKJEFFM": "UI_QuestIcon_402103",
+            "title": "EVENTSITEM_4021_TITLETEXTMAP_454",
+            "desc": "EVENTSITEM_4021_DESCTEXTMAP_455",
+            "ENCKAJNLDAB": "EVENTSITEM_4021_LOCKDESCTEXTMAP_456",
+            "NIDCEGMNBJG": 40211085,
+            "APNCGJLGLHK": "UI_AvatarIcon_Charlotte",
+            "BJNDHEFNIFB": "UI_BtnIcon_QuestEvents_Book_Event",
+            "PMDPGJAOJBL": "",
+            "KOLODOFJHDG": ""
+        },
+        "402104": {
+            "$type": "FKPAMOCDCGJ",
+            "MOFFHIJOLEO": 402104,
+            "JHKDHINBBHP": 4022,
+            "AFBJDGMLAMK": true,
+            "itemType": "Clues",
+            "PKKPCJJDDGG": 402104,
+            "JKGGJGBGOCH": 4,
+            "HHBHFKJEFFM": "UI_QuestIcon_402104",
+            "title": "EVENTSITEM_4021_TITLETEXTMAP_457",
+            "desc": "EVENTSITEM_4021_DESCTEXTMAP_458",
+            "ENCKAJNLDAB": "EVENTSITEM_4021_LOCKDESCTEXTMAP_459",
+            "NIDCEGMNBJG": 40211086,
+            "APNCGJLGLHK": "UI_AvatarIcon_Charlotte",
+            "BJNDHEFNIFB": "UI_BtnIcon_QuestEvents_Book_Event",
+            "PMDPGJAOJBL": "",
+            "KOLODOFJHDG": ""
+        },
+        "402105": {
+            "$type": "FKPAMOCDCGJ",
+            "MOFFHIJOLEO": 402105,
+            "JHKDHINBBHP": 4022,
+            "AFBJDGMLAMK": true,
+            "itemType": "Clues",
+            "PKKPCJJDDGG": 402105,
+            "JKGGJGBGOCH": 5,
+            "HHBHFKJEFFM": "UI_NPC_Quest_Neuvillette",
+            "title": "EVENTSITEM_4021_TITLETEXTMAP_460",
+            "desc": "EVENTSITEM_4021_DESCTEXTMAP_461",
+            "ENCKAJNLDAB": "EVENTSITEM_4021_LOCKDESCTEXTMAP_462",
+            "NIDCEGMNBJG": 40211087,
+            "APNCGJLGLHK": "UI_AvatarIcon_Charlotte",
+            "BJNDHEFNIFB": "UI_BtnIcon_QuestEvents_Book_Event",
+            "PMDPGJAOJBL": "",
+            "KOLODOFJHDG": ""
+        },
+        "402106": {
+            "$type": "FKPAMOCDCGJ",
+            "MOFFHIJOLEO": 402106,
+            "JHKDHINBBHP": 4021,
+            "AFBJDGMLAMK": true,
+            "itemType": "Clues",
+            "PKKPCJJDDGG": 402105,
+            "JKGGJGBGOCH": 6,
+            "HHBHFKJEFFM": "UI_QuestIcon_402106",
+            "title": "EVENTSITEM_4021_TITLETEXTMAP_463",
+            "desc": "EVENTSITEM_4021_DESCTEXTMAP_464",
+            "ENCKAJNLDAB": "EVENTSITEM_4021_LOCKDESCTEXTMAP_465",
+            "NIDCEGMNBJG": 40211088,
+            "APNCGJLGLHK": "UI_AvatarIcon_Charlotte",
+            "BJNDHEFNIFB": "UI_BtnIcon_QuestEvents_Book_Event",
+            "PMDPGJAOJBL": "",
+            "KOLODOFJHDG": ""
+        },
+        "402107": {
+            "$type": "FKPAMOCDCGJ",
+            "MOFFHIJOLEO": 402107,
+            "JHKDHINBBHP": 4022,
+            "AFBJDGMLAMK": true,
+            "itemType": "Clues",
+            "PKKPCJJDDGG": 402107,
+            "JKGGJGBGOCH": 7,
+            "HHBHFKJEFFM": "UI_NPC_Quest_Navia",
+            "title": "EVENTSITEM_4021_TITLETEXTMAP_466",
+            "desc": "EVENTSITEM_4021_DESCTEXTMAP_467",
+            "ENCKAJNLDAB": "EVENTSITEM_4021_LOCKDESCTEXTMAP_468",
+            "NIDCEGMNBJG": 40211089,
+            "APNCGJLGLHK": "UI_AvatarIcon_Charlotte",
+            "BJNDHEFNIFB": "UI_BtnIcon_QuestEvents_Book_Event",
+            "PMDPGJAOJBL": "",
+            "KOLODOFJHDG": ""
+        },
+        "402108": {
+            "$type": "FKPAMOCDCGJ",
+            "MOFFHIJOLEO": 402108,
+            "JHKDHINBBHP": 4022,
+            "AFBJDGMLAMK": true,
+            "itemType": "Clues",
+            "PKKPCJJDDGG": 402108,
+            "JKGGJGBGOCH": 8,
+            "HHBHFKJEFFM": "UI_QuestIcon_402108",
+            "title": "EVENTSITEM_4021_TITLETEXTMAP_469",
+            "desc": "EVENTSITEM_4021_DESCTEXTMAP_470",
+            "ENCKAJNLDAB": "EVENTSITEM_4021_LOCKDESCTEXTMAP_471",
+            "NIDCEGMNBJG": 40211090,
+            "APNCGJLGLHK": "UI_AvatarIcon_Charlotte",
+            "BJNDHEFNIFB": "UI_BtnIcon_QuestEvents_Book_Event",
+            "PMDPGJAOJBL": "",
+            "KOLODOFJHDG": ""
+        }
+    },
+    "EJJFFHOEEON": [
+        {
+            "DNANHEGKIJO": 402101,
+            "name": "EVENTSLOCATION_4021_NAMETEXTMAP_475"
+        },
+        {
+            "DNANHEGKIJO": 402104,
+            "name": "EVENTSLOCATION_4021_NAMETEXTMAP_476"
+        },
+        {
+            "DNANHEGKIJO": 402105,
+            "name": "EVENTSLOCATION_4021_NAMETEXTMAP_477"
+        },
+        {
+            "DNANHEGKIJO": 402107,
+            "name": "EVENTSLOCATION_4021_NAMETEXTMAP_478"
+        },
+        {
+            "DNANHEGKIJO": 402108,
+            "name": "EVENTSLOCATION_4021_NAMETEXTMAP_479"
+        }
+    ],
+    "NCIBDABPFAA": 402110,
+    "GOGDODDBEDA": true
+}

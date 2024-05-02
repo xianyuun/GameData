@@ -1,0 +1,21 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "group": [
+        [
+            {
+                "$type": "KFDBLNIPPOP",
+                "type": "CUTSCENE",
+                "HIKJAMFCBOM": {
+                    "$type": "PMKDFKOCEEA",
+                    "luaDataPath": "",
+                    "resPath": "",
+                    "castListPath": "",
+                    "entityBan": "",
+                    "needYEuler": true,
+                    "fadeInDuration": 1.0
+                }
+            }
+        ]
+    ]
+}

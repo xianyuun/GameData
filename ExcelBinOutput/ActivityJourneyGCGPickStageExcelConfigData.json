@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1001,
+    "CLBKJDANIGC": 50311,
+    "AENHBHMBKFK": 50312,
+    "CGOICAEEJEL": [
+      111503,
+      111504,
+      111406,
+      111401,
+      112201,
+      111301,
+      111103,
+      111605
+    ],
+    "unlockCond": 2022201,
+    "watcherList": [
+      12022201,
+      12022202,
+      12022203
+    ],
+    "GCPBJLJBDNI": [
+      101304,
+      101306,
+      101201
+    ],
+    "GKECAKBDJMK": [
+      101304,
+      101306,
+      101201
+    ],
+    "JMHCFHOBOME": 3385703922,
+    "DIBENJIJJEO": 4107995925,
+    "OGIEFCCIBNE": 187851965,
+    "GCGIPGDKDDD": 30381,
+    "DFIKCLGIDDP": 7053207,
+    "LELDGGMMCHI": 7053206,
+    "MEMJPOHHLHM": [
+      111503,
+      111504,
+      112201,
+      111301
+    ],
+    "OLKPNABOAFM": 75438368,
+    "OKJLOLNJCPL": "UI_Activity_Journey_GCGPick_04"
+  },
+  {
+    "id": 1002,
+    "CLBKJDANIGC": 50321,
+    "AENHBHMBKFK": 50322,
+    "CGOICAEEJEL": [
+      111603,
+      111601,
+      111101,
+      111107,
+      112401,
+      111203,
+      112501,
+      111304
+    ],
+    "unlockCond": 2022202,
+    "watcherList": [
+      12022211,
+      12022212,
+      12022213
+    ],
+    "GCPBJLJBDNI": [
+      101202,
+      101307,
+      101504
+    ],
+    "GKECAKBDJMK": [
+      101202,
+      101307,
+      101504
+    ],
+    "JMHCFHOBOME": 3427807810,
+    "DIBENJIJJEO": 1803859477,
+    "OGIEFCCIBNE": 99815061,
+    "GCGIPGDKDDD": 30382,
+    "DFIKCLGIDDP": 7053216,
+    "LELDGGMMCHI": 7053217,
+    "MEMJPOHHLHM": [
+      111603,
+      111101,
+      112401,
+      112501
+    ],
+    "OLKPNABOAFM": 363683144,
+    "OKJLOLNJCPL": "UI_Activity_Journey_GCGPick_04"
+  },
+  {
+    "id": 1003,
+    "CLBKJDANIGC": 50331,
+    "AENHBHMBKFK": 50332,
+    "CGOICAEEJEL": [
+      101407,
+      101402,
+      102302,
+      101305,
+      101701,
+      101602,
+      101106,
+      101205
+    ],
+    "unlockCond": 2022203,
+    "watcherList": [
+      12022221,
+      12022222,
+      12022223
+    ],
+    "GCPBJLJBDNI": [
+      101105,
+      101107,
+      101302
+    ],
+    "GKECAKBDJMK": [
+      101105,
+      101107,
+      101302
+    ],
+    "JMHCFHOBOME": 1532602562,
+    "DIBENJIJJEO": 2635654997,
+    "OGIEFCCIBNE": 4282803237,
+    "GCGIPGDKDDD": 30383,
+    "DFIKCLGIDDP": 7053226,
+    "LELDGGMMCHI": 7053227,
+    "MEMJPOHHLHM": [
+      101407,
+      102302,
+      101701,
+      101106
+    ],
+    "OLKPNABOAFM": 1299653176,
+    "OKJLOLNJCPL": "UI_Activity_Journey_GCGPick_05"
+  },
+  {
+    "id": 1004,
+    "CLBKJDANIGC": 50341,
+    "AENHBHMBKFK": 50342,
+    "CGOICAEEJEL": [
+      101703,
+      101702,
+      101206,
+      101204,
+      101307,
+      101408,
+      102101,
+      101501
+    ],
+    "unlockCond": 2022204,
+    "watcherList": [
+      12022231,
+      12022232,
+      12022233
+    ],
+    "GCPBJLJBDNI": [
+      101701,
+      101404,
+      101205
+    ],
+    "GKECAKBDJMK": [
+      101701,
+      101404,
+      101205
+    ],
+    "JMHCFHOBOME": 621454722,
+    "DIBENJIJJEO": 677421589,
+    "OGIEFCCIBNE": 1114632877,
+    "GCGIPGDKDDD": 30384,
+    "DFIKCLGIDDP": 7053236,
+    "LELDGGMMCHI": 7053237,
+    "MEMJPOHHLHM": [
+      101703,
+      101206,
+      102101,
+      101307
+    ],
+    "OLKPNABOAFM": 876472536,
+    "OKJLOLNJCPL": "UI_Activity_Journey_GCGPick_05"
+  }
+]

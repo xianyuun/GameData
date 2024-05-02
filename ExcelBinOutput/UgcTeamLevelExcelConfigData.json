@@ -1,0 +1,84 @@
+[
+  {
+    "level": 1,
+    "avatarLevel": 70,
+    "PFIBNECCLAA": [
+      1
+    ],
+    "GHOHCGBCKMP": 40,
+    "NECABEPLCDC": 2000,
+    "LGNACEGANOA": 10,
+    "CIKGCCJEOHJ": 40
+  },
+  {
+    "level": 2,
+    "avatarLevel": 75,
+    "PFIBNECCLAA": [
+      2
+    ],
+    "GHOHCGBCKMP": 50,
+    "NECABEPLCDC": 4000,
+    "LGNACEGANOA": 15,
+    "OPAJGLIINLE": 10,
+    "MJAJOJBFIMC": 20,
+    "CIKGCCJEOHJ": 55,
+    "BFHGFIKGIOL": 15,
+    "elementMastery": 30,
+    "CPBGBNKOIEK": 20,
+    "FOLBKBDJDJB": 8,
+    "JKACMDABIHD": 10
+  },
+  {
+    "level": 3,
+    "avatarLevel": 80,
+    "PFIBNECCLAA": [
+      4
+    ],
+    "GHOHCGBCKMP": 65,
+    "NECABEPLCDC": 6000,
+    "LGNACEGANOA": 20,
+    "OPAJGLIINLE": 20,
+    "MJAJOJBFIMC": 40,
+    "CIKGCCJEOHJ": 70,
+    "BFHGFIKGIOL": 30,
+    "elementMastery": 60,
+    "CPBGBNKOIEK": 40,
+    "FOLBKBDJDJB": 16,
+    "JKACMDABIHD": 20
+  },
+  {
+    "level": 4,
+    "avatarLevel": 85,
+    "PFIBNECCLAA": [
+      6
+    ],
+    "GHOHCGBCKMP": 80,
+    "NECABEPLCDC": 8000,
+    "LGNACEGANOA": 25,
+    "OPAJGLIINLE": 30,
+    "MJAJOJBFIMC": 60,
+    "CIKGCCJEOHJ": 85,
+    "BFHGFIKGIOL": 45,
+    "elementMastery": 90,
+    "CPBGBNKOIEK": 60,
+    "FOLBKBDJDJB": 24,
+    "JKACMDABIHD": 30
+  },
+  {
+    "level": 5,
+    "avatarLevel": 90,
+    "PFIBNECCLAA": [
+      8
+    ],
+    "GHOHCGBCKMP": 90,
+    "LGNACEGANOA": 30,
+    "OPAJGLIINLE": 40,
+    "MJAJOJBFIMC": 80,
+    "CIKGCCJEOHJ": 100,
+    "BFHGFIKGIOL": 60,
+    "elementMastery": 120,
+    "CPBGBNKOIEK": 80,
+    "FOLBKBDJDJB": 32,
+    "JKACMDABIHD": 40
+  }
+]

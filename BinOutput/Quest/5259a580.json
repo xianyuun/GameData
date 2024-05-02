@@ -1,0 +1,39 @@
+{
+  "id": 40138,
+  "type": "EQ",
+  "activeMode": "PLAY_MODE_ALL",
+  "titleTextMapHash": 2120755423,
+  "luaPath": "Actor/Quest/EQ40138",
+  "rewardIdList": [
+    140138
+  ],
+  "showType": "QUEST_HIDDEN",
+  "subQuests": [
+    {
+      "subId": 4013801,
+      "mainId": 40138,
+      "order": 1,
+      "showType": "QUEST_HIDDEN",
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_FINISH_PLOT",
+          "param": [
+            4013801,
+            0
+          ]
+        }
+      ],
+      "guide": {},
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "DBJJALMJAGP": true,
+      "AMNCBBBDJPK": "QUEST_HIDDEN",
+      "OHFJAMDKKBI": "QUEST_HIDDEN",
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    }
+  ],
+  "NKMGAAOIGIL": true
+}

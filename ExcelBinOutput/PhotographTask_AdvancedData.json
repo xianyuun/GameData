@@ -1,0 +1,152 @@
+[
+  {
+    "MEPHAGPMOHG": 10097,
+    "BEFBMPEOOAF": 2911883204,
+    "BFJNOBONHLB": 2432540232,
+    "GLMLIGEEOEN": 3560978373,
+    "KBDNPGCMFFN": 2476936942,
+    "ADHCPHAPHAE": [
+      3489438729,
+      1837683250,
+      1200628970
+    ],
+    "IIILPJLKCLD": [
+      {
+        "type": "PhotographTask_Cond_Time",
+        "param": [
+          19,
+          20,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "IKLINAIDBBN": "ART/UI/Atlas/CodexSceneryPic/UI_Codex_PhotoDisplayStand_05"
+  },
+  {
+    "MEPHAGPMOHG": 10098,
+    "BEFBMPEOOAF": 1705120332,
+    "BFJNOBONHLB": 2667289920,
+    "GLMLIGEEOEN": 1227168157,
+    "KBDNPGCMFFN": 410022518,
+    "ADHCPHAPHAE": [
+      4270888297,
+      8465930,
+      4102625802
+    ],
+    "IIILPJLKCLD": [
+      {
+        "type": "PhotographTask_Cond_Time",
+        "param": [
+          15,
+          17,
+          0
+        ]
+      },
+      {
+        "type": "PhotographTask_Cond_Monster_Count",
+        "param": [
+          28030609,
+          1,
+          80
+        ]
+      },
+      {
+        "type": "PhotographTask_Cond_Monster_Count",
+        "param": [
+          28030506,
+          2,
+          0
+        ]
+      }
+    ],
+    "IKLINAIDBBN": "ART/UI/Atlas/CodexSceneryPic/UI_Codex_PhotoDisplayStand_06"
+  },
+  {
+    "MEPHAGPMOHG": 10099,
+    "BEFBMPEOOAF": 809416036,
+    "BFJNOBONHLB": 2069706608,
+    "GLMLIGEEOEN": 3482910573,
+    "KBDNPGCMFFN": 3604515958,
+    "ADHCPHAPHAE": [
+      2128708753,
+      1147335970,
+      3143568418
+    ],
+    "IIILPJLKCLD": [
+      {
+        "type": "PhotographTask_Cond_Time",
+        "param": [
+          8,
+          10,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "IKLINAIDBBN": "ART/UI/Atlas/CodexSceneryPic/UI_Codex_PhotoDisplayStand_04"
+  },
+  {
+    "MEPHAGPMOHG": 10100,
+    "BEFBMPEOOAF": 4290628692,
+    "BFJNOBONHLB": 3656272272,
+    "GLMLIGEEOEN": 3145383301,
+    "KBDNPGCMFFN": 313725630,
+    "ADHCPHAPHAE": [
+      1680052009,
+      3008703298,
+      2361516450
+    ],
+    "IIILPJLKCLD": [
+      {
+        "type": "PhotographTask_Cond_Time",
+        "param": [
+          17,
+          18,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      },
+      {
+        "param": [
+          0,
+          0,
+          0
+        ]
+      }
+    ],
+    "IKLINAIDBBN": "ART/UI/Atlas/CodexSceneryPic/UI_Codex_PhotoDisplayStand_03"
+  }
+]

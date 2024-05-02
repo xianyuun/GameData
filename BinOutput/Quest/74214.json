@@ -1,0 +1,35 @@
+{
+    "id": 74214,
+    "type": "WQ",
+    "activeMode": "PLAY_MODE_ALL",
+    "titleTextMapHash": 3716144599,
+    "luaPath": "Actor/Quest/WQ74214",
+    "showType": "QUEST_HIDDEN",
+    "subQuests": [
+        {
+            "subId": 7421401,
+            "mainId": 74214,
+            "order": 1,
+            "showType": "QUEST_HIDDEN",
+            "finishCond": [
+                {
+                    "type": "QUEST_CONTENT_LUA_NOTIFY",
+                    "param": [
+                        0,
+                        0
+                    ],
+                    "OLEJPHMGHEK": 1
+                }
+            ],
+            "guide": {},
+            "CDDKJNJPILI": {
+                "KPOGPNLFAAE": ""
+            },
+            "DBJJALMJAGP": true,
+            "isRewind": true,
+            "versionBegin": "",
+            "versionEnd": ""
+        }
+    ],
+    "NKMGAAOIGIL": true
+}

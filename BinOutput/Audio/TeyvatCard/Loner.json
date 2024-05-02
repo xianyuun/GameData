@@ -1,0 +1,19 @@
+{
+    "voiceSwitchKey": {
+        "text": "SwitchGroup_charName"
+    },
+    "OEABIBBLONJ": {
+        "HitHeavy": 102,
+        "Die": 101,
+        "SelectOnStage": 105
+    },
+    "FLNILIGGBJP": {
+        "text": "SwitchGroup_GCG_Stage"
+    },
+    "JMOIOLBFHNN": {
+        "text": "Switch_GCG_onStage"
+    },
+    "KMKMPJLGBKB": {
+        "text": "Switch_GCG_offStage"
+    }
+}

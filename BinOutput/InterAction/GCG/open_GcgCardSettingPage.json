@@ -1,0 +1,19 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigUITriggerInterAction",
+                "type": "UI_TRIGGER",
+                "contextName": "GcgDeckPage",
+                "param": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG_CLEAR",
+                "MPNGOGDAABE": false
+            }
+        ]
+    ]
+}

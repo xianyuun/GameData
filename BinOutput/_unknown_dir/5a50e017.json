@@ -1,0 +1,158 @@
+{
+    "GBAPBDJGNKA": 9007,
+    "JBCEFDOCMHK": 15.0,
+    "EBHCEGNJIGF": 15.0,
+    "COKHAPHNLML": [
+        {
+            "configId": 3016,
+            "NHICAGAMGPO": 1,
+            "DLCDLADIMJB": {
+                "x": 4.0,
+                "z": -5.0
+            },
+            "EMOBFFIABIK": {}
+        },
+        {
+            "configId": 3016,
+            "NHICAGAMGPO": 2,
+            "DLCDLADIMJB": {
+                "z": 6.0
+            },
+            "EMOBFFIABIK": {}
+        },
+        {
+            "configId": 3016,
+            "NHICAGAMGPO": 3,
+            "DLCDLADIMJB": {
+                "x": -4.0,
+                "z": -5.0
+            },
+            "EMOBFFIABIK": {}
+        },
+        {
+            "configId": 8006,
+            "NHICAGAMGPO": 4,
+            "EMOBFFIABIK": {
+                "POJCOLFLONL": 15,
+                "PMFEBJGFADH": [
+                    {
+                        "configId": 101,
+                        "FCPOIHCMHGM": 40
+                    },
+                    {
+                        "configId": 102,
+                        "FCPOIHCMHGM": 1000
+                    }
+                ]
+            }
+        }
+    ],
+    "LFJMPBNMMDJ": [
+        {
+            "configId": 6100,
+            "NHICAGAMGPO": 5,
+            "DLCDLADIMJB": {
+                "x": -4.5,
+                "z": 0.5
+            },
+            "EMOBFFIABIK": {
+                "PAMBBIDLCJH": true,
+                "CACBIKPHIKO": [
+                    2
+                ],
+                "EHBAFIHOMPJ": 1,
+                "AFFGNIOFACD": true,
+                "JKLPHJFFGAC": true
+            }
+        },
+        {
+            "configId": 6100,
+            "NHICAGAMGPO": 11,
+            "DLCDLADIMJB": {
+                "x": 4.5,
+                "z": 0.5
+            },
+            "EMOBFFIABIK": {
+                "PAMBBIDLCJH": true,
+                "CACBIKPHIKO": [
+                    2
+                ],
+                "EHBAFIHOMPJ": 1,
+                "AFFGNIOFACD": true,
+                "JKLPHJFFGAC": true
+            }
+        },
+        {
+            "configId": 6102,
+            "NHICAGAMGPO": 16,
+            "DLCDLADIMJB": {
+                "z": -5.0
+            },
+            "EMOBFFIABIK": {
+                "PAMBBIDLCJH": true,
+                "CACBIKPHIKO": [
+                    15
+                ],
+                "EHBAFIHOMPJ": 1,
+                "AFFGNIOFACD": true,
+                "JKLPHJFFGAC": true
+            }
+        }
+    ],
+    "JCOKDAGDLIH": [
+        {
+            "NHICAGAMGPO": 19,
+            "PNLJCPKODDO": [
+                {
+                    "configId": 2,
+                    "OPIPBENHNID": 16
+                },
+                {
+                    "configId": 2,
+                    "OPIPBENHNID": 11
+                },
+                {
+                    "configId": 2,
+                    "OPIPBENHNID": 5
+                }
+            ],
+            "JNAOMAGIAJI": [
+                {
+                    "configId": 1,
+                    "OPIPBENHNID": 4
+                }
+            ]
+        },
+        {
+            "NHICAGAMGPO": 20,
+            "PNLJCPKODDO": [
+                {
+                    "configId": 4,
+                    "OPIPBENHNID": 1
+                },
+                {
+                    "configId": 4,
+                    "OPIPBENHNID": 3
+                },
+                {
+                    "configId": 4,
+                    "OPIPBENHNID": 2
+                }
+            ],
+            "JNAOMAGIAJI": [
+                {
+                    "configId": 4,
+                    "OPIPBENHNID": 11
+                },
+                {
+                    "configId": 4,
+                    "OPIPBENHNID": 5
+                },
+                {
+                    "configId": 4,
+                    "OPIPBENHNID": 16
+                }
+            ]
+        }
+    ]
+}

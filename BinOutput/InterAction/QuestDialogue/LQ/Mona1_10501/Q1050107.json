@@ -1,0 +1,241 @@
+{
+    "luaDataPath": "",
+    "dontUseDefaultFinish": true,
+    "entityBan": "10501_Dialog",
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1005,
+            "alias": "1005",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 10095,
+            "alias": "10095",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 220601,
+            "alias": "220601",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "delayTime": 0.009999999776482582,
+                "duration": 40.0,
+                "MEEOFFMAAJP": {
+                    "x": 933.68212890625,
+                    "y": 214.64393615722656,
+                    "z": 346.9454345703125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 934.6068725585938,
+                    "y": 214.29107666015625,
+                    "z": 346.8028259277344
+                },
+                "OADKONNOJHC": 35.0,
+                "KMABIPKEMNG": 1,
+                "CBNIDBJOFOD": "EaseOutQuad",
+                "BOLFJKBKMAF": {},
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "MEEOFFMAAJP": {
+                    "x": 933.69921875,
+                    "y": 214.6567840576172,
+                    "z": 346.22650146484375
+                },
+                "MGDCLCOKDOF": {
+                    "x": 934.6326293945312,
+                    "y": 214.30111694335938,
+                    "z": 346.2741394042969
+                },
+                "OADKONNOJHC": 35.0,
+                "KMABIPKEMNG": 6,
+                "CBNIDBJOFOD": "EaseInOutCubic",
+                "BOLFJKBKMAF": {},
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 6.0
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "delayTime": 3.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MCGCHJMHMDI": true,
+                "FNDLMMMOCLP": {
+                    "x": 25.0
+                },
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 3.0,
+                "duration": 1.0,
+                "aliasList": [
+                    "1005"
+                ],
+                "GJFGEAEKFEH": {
+                    "x": 0.3887005150318146,
+                    "z": -0.9213641881942749
+                },
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "delayTime": 3.0,
+                "aliasList": [
+                    "1005"
+                ],
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.4000000059604645,
+                "MOIAMOAOEHJ": "220601",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "1005"
+                ],
+                "EKNHMHFBMEF": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "delayTime": 3.0,
+                "aliasList": [
+                    "10095"
+                ],
+                "MCGCHJMHMDI": true,
+                "FNDLMMMOCLP": {
+                    "x": -15.0
+                },
+                "BOAHNFGDBAO": 0.4000000059604645,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "delayTime": 2.299999952316284,
+                "aliasList": [
+                    "220601"
+                ],
+                "ACDCGBPKCAF": 105010701
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 2.200000047683716,
+                "aliasList": [
+                    "220601"
+                ],
+                "HJICCFGEJKI": 1172,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigMoveToAction",
+                "type": "MOVE_TO",
+                "delayTime": 0.12922580540180206,
+                "aliasList": [
+                    "220601"
+                ],
+                "moveType": "WALK",
+                "routeList": [
+                    {
+                        "x": 935.6884155273438,
+                        "y": 212.77969360351562,
+                        "z": 345.8893127441406
+                    }
+                ],
+                "bindMovingTargetKey": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigMoveToAction",
+                "type": "MOVE_TO",
+                "aliasList": [
+                    "220601"
+                ],
+                "routeList": [
+                    {
+                        "x": 934.5911254882812,
+                        "y": 212.77969360351562,
+                        "z": 345.49969482421875
+                    }
+                ],
+                "bindMovingTargetKey": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigVisibleInterAction",
+                "type": "VISIBLE",
+                "aliasList": [
+                    "220601"
+                ],
+                "isVisible": true,
+                "extraParam": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 2346479196,
+            "nextGrpId": 2346479197
+        }
+    ],
+    "freeStyleDic": {
+        "10095": [],
+        "220601": [
+            1172
+        ]
+    }
+}

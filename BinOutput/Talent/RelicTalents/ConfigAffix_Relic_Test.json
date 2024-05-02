@@ -1,0 +1,33 @@
+{
+    "Relic_CompareHPEnhanceCrit": [
+        {
+            "$type": "BPBLPCNKLDD",
+            "abilityName": "Relic_CompareHPEnhanceCrit"
+        },
+        {
+            "$type": "BLOLBDELNDP",
+            "abilityName": "Relic_CompareHPEnhanceCrit",
+            "paramSpecial": "Crit",
+            "paramDelta": "%1"
+        },
+        {
+            "$type": "BLOLBDELNDP",
+            "abilityName": "Relic_CompareHPEnhanceCrit",
+            "paramSpecial": "CritHurt",
+            "paramDelta": "%2"
+        }
+    ],
+    "Relic_DamageUpAgainstIceAndFrozen": [
+        {
+            "$type": "BPBLPCNKLDD",
+            "abilityName": "Relic_DamageUpAgainstIceAndFrozen"
+        },
+        {
+            "$type": "BLOLBDELNDP",
+            "abilityName": "Relic_DamageUpAgainstIceAndFrozen",
+            "paramSpecial": "Rate",
+            "paramDelta": "%1",
+            "BNENLHBJMIP": 0.0
+        }
+    ]
+}

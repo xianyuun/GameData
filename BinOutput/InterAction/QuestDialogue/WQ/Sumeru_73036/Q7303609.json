@@ -1,0 +1,277 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "disableNpcLod": true,
+    "isAutoBanNpc": true,
+    "isBanWidgetPet": true,
+    "protectNpcMobileLod": true,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 20783,
+            "alias": "20783",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 1.003999948501587
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 1.0,
+                "actionId": 122,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 123,
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "MOIAMOAOEHJ": "20783",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 124,
+                "MCGCHJMHMDI": true,
+                "BOAHNFGDBAO": 0.5,
+                "MOIAMOAOEHJ": "20783",
+                "NPLGONEPKID": true,
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigLuaAction",
+                "type": "LUA_ACTION",
+                "delayTime": 0.10000000149011612,
+                "duration": 0.10000000149011612,
+                "invoke": true,
+                "invokeAlias": "73286",
+                "invokeParam": 1
+            }
+        ],
+        [
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 125,
+                "HJICCFGEJKI": 1030,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20783"
+                ],
+                "ACDCGBPKCAF": 730360901,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MoleMole.Config.ConfigLuaAction",
+                "type": "LUA_ACTION",
+                "delayTime": 0.10000000149011612,
+                "duration": 0.10000000149011612,
+                "invoke": true,
+                "invokeAlias": "73230",
+                "invokeParam": 1
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "HLOONFICMOJ": [
+                    730360902
+                ],
+                "BJBCCFDIICN": [
+                    2757876497
+                ],
+                "FALHCBLLBCG": true
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigBlackScreenAction",
+                "type": "BLACK_SCREEN",
+                "aliasList": [
+                    "20783"
+                ],
+                "durationToBlack": 0.5,
+                "durationKeepBlack": 0.5,
+                "durationFromBlack": 0.5,
+                "inteePos": "",
+                "textMapID": "",
+                "useTextFade": true
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20783"
+                ],
+                "ACDCGBPKCAF": 730360903,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20783"
+                ],
+                "ACDCGBPKCAF": 730360904,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20783"
+                ],
+                "ACDCGBPKCAF": 730360905,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20783"
+                ],
+                "ACDCGBPKCAF": 730360906,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20783"
+                ],
+                "ACDCGBPKCAF": 730360907,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 127,
+                "EKNHMHFBMEF": true,
+                "MOAIMHFEAMK": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigLuaAction",
+                "type": "LUA_ACTION",
+                "delayTime": 0.10000000149011612,
+                "duration": 0.10000000149011612,
+                "invoke": true,
+                "invokeAlias": "73286"
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 2757876494,
+            "nextGrpId": 2757876495
+        },
+        {
+            "index": 1,
+            "grpId": 2757876495,
+            "nextGrpId": 2757876496
+        },
+        {
+            "index": 2,
+            "grpId": 2757876496,
+            "nextGrpId": 2757876497
+        },
+        {
+            "index": 3,
+            "grpId": 2757876497,
+            "nextGrpId": 2757876498
+        },
+        {
+            "index": 4,
+            "grpId": 2757876498,
+            "nextGrpId": 2757876499
+        },
+        {
+            "index": 5,
+            "grpId": 2757876499,
+            "nextGrpId": 2757876500
+        },
+        {
+            "index": 6,
+            "grpId": 2757876500,
+            "nextGrpId": 2757876501
+        },
+        {
+            "index": 7,
+            "grpId": 2757876501,
+            "nextGrpId": 2757876502
+        },
+        {
+            "index": 8,
+            "grpId": 2757876502,
+            "nextGrpId": 3889792738
+        }
+    ]
+}

@@ -1,0 +1,233 @@
+[
+  {
+    "id": 400101,
+    "KCAPCMIJMNH": 4001,
+    "CCDKKMFILJG": [
+      10108,
+      10109,
+      10110
+    ],
+    "DEGGFDGFHMB": [
+      10110
+    ],
+    "DHPHBJGMHKB": "Clues",
+    "MMGNFHFIEOP": 400111,
+    "CGLPCMDOBJI": 400125,
+    "FJGGPKNEJHL": 757928706
+  },
+  {
+    "id": 400201,
+    "KCAPCMIJMNH": 4001,
+    "CCDKKMFILJG": [
+      10111,
+      10108,
+      10109,
+      10110,
+      10106,
+      10107
+    ],
+    "DEGGFDGFHMB": [
+      10110,
+      10111
+    ],
+    "DHPHBJGMHKB": "Clues",
+    "MMGNFHFIEOP": 400225,
+    "CGLPCMDOBJI": 400201,
+    "FJGGPKNEJHL": 2324831842
+  },
+  {
+    "id": 400202,
+    "KCAPCMIJMNH": 4001,
+    "CCDKKMFILJG": [
+      10101,
+      10102,
+      10103,
+      10104,
+      10105,
+      10112
+    ],
+    "DEGGFDGFHMB": [
+      10105
+    ],
+    "DHPHBJGMHKB": "Evidence",
+    "MMGNFHFIEOP": 400226,
+    "CGLPCMDOBJI": 400202,
+    "FJGGPKNEJHL": 1594143986
+  },
+  {
+    "id": 400601,
+    "KCAPCMIJMNH": 4004,
+    "CCDKKMFILJG": [
+      10108,
+      10109,
+      10110
+    ],
+    "DEGGFDGFHMB": [
+      10108
+    ],
+    "DHPHBJGMHKB": "Clues",
+    "MMGNFHFIEOP": 400658,
+    "CGLPCMDOBJI": 400657,
+    "FJGGPKNEJHL": 252455418
+  },
+  {
+    "id": 402201,
+    "KCAPCMIJMNH": 4021,
+    "CCDKKMFILJG": [
+      402103,
+      402104,
+      402108
+    ],
+    "DEGGFDGFHMB": [
+      402104
+    ],
+    "DHPHBJGMHKB": "Evidence",
+    "MMGNFHFIEOP": 402211,
+    "CGLPCMDOBJI": 402212,
+    "FJGGPKNEJHL": 3163521154
+  },
+  {
+    "id": 402202,
+    "KCAPCMIJMNH": 4021,
+    "CCDKKMFILJG": [
+      402102,
+      402103,
+      402108
+    ],
+    "DEGGFDGFHMB": [
+      402103
+    ],
+    "DHPHBJGMHKB": "Evidence",
+    "MMGNFHFIEOP": 402213,
+    "CGLPCMDOBJI": 402214,
+    "FJGGPKNEJHL": 3743144930
+  },
+  {
+    "id": 402203,
+    "KCAPCMIJMNH": 4021,
+    "CCDKKMFILJG": [
+      402101,
+      402102,
+      402105,
+      402107
+    ],
+    "DEGGFDGFHMB": [
+      402102
+    ],
+    "DHPHBJGMHKB": "Evidence",
+    "MMGNFHFIEOP": 402215,
+    "CGLPCMDOBJI": 402216,
+    "FJGGPKNEJHL": 4106862250
+  },
+  {
+    "id": 7411301,
+    "KCAPCMIJMNH": 74113,
+    "CCDKKMFILJG": [
+      11302,
+      11303,
+      11304,
+      11305,
+      11301
+    ],
+    "DEGGFDGFHMB": [
+      11305
+    ],
+    "DHPHBJGMHKB": "Evidence",
+    "MMGNFHFIEOP": 7411311,
+    "CGLPCMDOBJI": 7411326,
+    "FJGGPKNEJHL": 3781045610
+  },
+  {
+    "id": 7411302,
+    "KCAPCMIJMNH": 74113,
+    "CCDKKMFILJG": [
+      11301,
+      11302,
+      11303,
+      11304,
+      11305
+    ],
+    "DEGGFDGFHMB": [
+      11301
+    ],
+    "DHPHBJGMHKB": "Evidence",
+    "MMGNFHFIEOP": 7411334,
+    "CGLPCMDOBJI": 7411335,
+    "FJGGPKNEJHL": 1860336514
+  },
+  {
+    "id": 7411501,
+    "KCAPCMIJMNH": 74113,
+    "CCDKKMFILJG": [
+      11321,
+      11320,
+      11306,
+      11303,
+      11304,
+      11323,
+      11325,
+      11328
+    ],
+    "DEGGFDGFHMB": [
+      11321
+    ],
+    "DHPHBJGMHKB": "Evidence",
+    "MMGNFHFIEOP": 7411510,
+    "CGLPCMDOBJI": 7411524,
+    "FJGGPKNEJHL": 4089763514
+  },
+  {
+    "id": 7411601,
+    "KCAPCMIJMNH": 74113,
+    "CCDKKMFILJG": [
+      11301,
+      11302,
+      11305,
+      11307,
+      11320,
+      11322,
+      11327,
+      11329,
+      11324,
+      11323
+    ],
+    "DEGGFDGFHMB": [
+      11307,
+      11302,
+      11322,
+      11327
+    ],
+    "DHPHBJGMHKB": "Evidence",
+    "MMGNFHFIEOP": 7411605,
+    "CGLPCMDOBJI": 7411639,
+    "FJGGPKNEJHL": 1094114138
+  },
+  {
+    "id": 7411602,
+    "KCAPCMIJMNH": 74113,
+    "CCDKKMFILJG": [
+      11306,
+      11301,
+      11302,
+      11303,
+      11304,
+      11305,
+      11320,
+      11325,
+      11324,
+      11327,
+      11328,
+      11329,
+      11323,
+      11326
+    ],
+    "DEGGFDGFHMB": [
+      11306,
+      11325
+    ],
+    "DHPHBJGMHKB": "Evidence",
+    "MMGNFHFIEOP": 7411616,
+    "CGLPCMDOBJI": 7411649,
+    "FJGGPKNEJHL": 3461093178
+  }
+]

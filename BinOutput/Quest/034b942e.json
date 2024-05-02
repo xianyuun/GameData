@@ -1,0 +1,945 @@
+{
+  "id": 40134,
+  "FKFBNNHJPDP": 10161,
+  "type": "EQ",
+  "titleTextMapHash": 3730961559,
+  "descTextMapHash": 2141179062,
+  "luaPath": "Actor/Quest/EQ40134",
+  "GEMDBAMINAF": [
+    40135
+  ],
+  "rewardIdList": [
+    140134
+  ],
+  "FLCLAPBOOHF": 10163,
+  "PMKEAKECDPO": 2027,
+  "subQuests": [
+    {
+      "subId": 4013401,
+      "mainId": 40134,
+      "order": 2,
+      "descTextMapHash": 3558812476,
+      "exclusivePlaceList": [
+        340103,
+        340202,
+        340208,
+        340205,
+        340206
+      ],
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            4013410,
+            0
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "[3_340100357:3500.906,426.623,4516.021]"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "OHFJAMDKKBI": "QUEST_HIDDEN",
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013402,
+      "mainId": 40134,
+      "order": 3,
+      "descTextMapHash": 594561508,
+      "exclusivePlaceList": [
+        340202,
+        340205,
+        340206,
+        340208
+      ],
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            4013401,
+            0
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "[3_340200137:3473.424,459.354,3661.147]"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013403,
+      "mainId": 40134,
+      "order": 7,
+      "FDDFBECJMPA": true,
+      "descTextMapHash": 672665172,
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            4013402,
+            0
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "[3_340200137:3473.424,459.354,3661.147]"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "isRewind": true,
+      "OKIAJNBIJGE": [
+        {
+          "type": "QUEST_EXEC_UNREGISTER_DYNAMIC_GROUP",
+          "param": [
+            "133402887",
+            "0"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_REMOVE_TRIAL_AVATAR",
+          "param": [
+            "82"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_REMOVE_TRIAL_AVATAR",
+          "param": [
+            "83"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_UNLOCK_AVATAR_TEAM_V2"
+        }
+      ],
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013404,
+      "mainId": 40134,
+      "order": 14,
+      "descTextMapHash": 2005462516,
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            4013403,
+            0
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "[3_340300203:2399.316,462.329,4297.444]"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "DBJJALMJAGP": true,
+      "isRewind": true,
+      "OKIAJNBIJGE": [
+        {
+          "type": "QUEST_EXEC_UNREGISTER_DYNAMIC_GROUP",
+          "param": [
+            "133403790",
+            "1"
+          ]
+        }
+      ],
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013405,
+      "mainId": 40134,
+      "order": 1,
+      "descTextMapHash": 2573324980,
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_GAME_TIME_TICK",
+          "param": [
+            1,
+            0
+          ]
+        }
+      ],
+      "guide": {},
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013406,
+      "mainId": 40134,
+      "order": 4,
+      "FDDFBECJMPA": true,
+      "descTextMapHash": 3455386180,
+      "exclusivePlaceList": [
+        340202,
+        340205,
+        340206,
+        340208
+      ],
+      "IFELFAJIHLM": "BAN_GROUP_TRANSPORT_MAP",
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_LUA_NOTIFY",
+          "param": [
+            0,
+            0
+          ],
+          "OLEJPHMGHEK": 1
+        }
+      ],
+      "GINBCAPJDBN": [
+        {
+          "type": "QUEST_CONTENT_ANY_MANUAL_TRANSPORT",
+          "param": [
+            0,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_TEAM_DEAD",
+          "param": [
+            0,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_LEAVE_SCENE_RANGE",
+          "param": [
+            3,
+            25
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "[3_340200137:3473.424,459.354,3661.147]",
+          "20"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "OKIAJNBIJGE": [
+        {
+          "type": "QUEST_EXEC_UNREGISTER_DYNAMIC_GROUP",
+          "param": [
+            "133402888",
+            "0"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_SET_IS_GAME_TIME_LOCKED_V2",
+          "param": [
+            "0"
+          ]
+        }
+      ],
+      "JAIKKCPFOGO": [
+        {
+          "type": "QUEST_EXEC_REMOVE_TRIAL_AVATAR",
+          "param": [
+            "82"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_REMOVE_TRIAL_AVATAR",
+          "param": [
+            "83"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_UNLOCK_AVATAR_TEAM_V2"
+        },
+        {
+          "type": "QUEST_EXEC_ROLLBACK_QUEST",
+          "param": [
+            "4013402"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_SET_IS_GAME_TIME_LOCKED_V2",
+          "param": [
+            "0"
+          ]
+        }
+      ],
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013407,
+      "mainId": 40134,
+      "order": 10,
+      "descTextMapHash": 2419209932,
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            4013407,
+            0
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "[3_340300284:2491.712,497.371,4240.678]"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013408,
+      "mainId": 40134,
+      "order": 12,
+      "FDDFBECJMPA": true,
+      "descTextMapHash": 2933604932,
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_FINISH_DUNGEON",
+          "param": [
+            9215,
+            0
+          ]
+        }
+      ],
+      "GINBCAPJDBN": [
+        {
+          "type": "QUEST_CONTENT_FAIL_DUNGEON",
+          "param": [
+            9215,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_LEAVE_SCENE",
+          "param": [
+            35928,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_ENTER_MY_WORLD",
+          "param": [
+            3,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_ANY_MANUAL_TRANSPORT",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "guide": {},
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "isRewind": true,
+      "OKIAJNBIJGE": [
+        {
+          "type": "QUEST_EXEC_SET_IS_GAME_TIME_LOCKED_V2",
+          "param": [
+            "0"
+          ]
+        }
+      ],
+      "JAIKKCPFOGO": [
+        {
+          "type": "QUEST_EXEC_ROLLBACK_QUEST",
+          "param": [
+            "4013407"
+          ]
+        }
+      ],
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013409,
+      "mainId": 40134,
+      "order": 13,
+      "descTextMapHash": 4190623476,
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            4013409,
+            0
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "[3_340300284:2491.712,497.371,4240.678]"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013410,
+      "mainId": 40134,
+      "order": 9,
+      "descTextMapHash": 40332884,
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_COMPLETE_TALK",
+          "param": [
+            4013404,
+            0
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "[3_340300349:2594.151,507.802,4152.021]"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "isRewind": true,
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013411,
+      "mainId": 40134,
+      "order": 8,
+      "showType": "QUEST_HIDDEN",
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
+          "param": [
+            4013403,
+            3
+          ]
+        }
+      ],
+      "GINBCAPJDBN": [
+        {
+          "type": "QUEST_CONTENT_ANY_MANUAL_TRANSPORT",
+          "param": [
+            0,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_TEAM_DEAD",
+          "param": [
+            0,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_LEAVE_SCENE_RANGE",
+          "param": [
+            3,
+            25
+          ]
+        }
+      ],
+      "guide": {},
+      "HAKIGBJJKEO": "QUEST_GUIDE_ITEM_DISABLE",
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "AMNCBBBDJPK": "QUEST_HIDDEN",
+      "OHFJAMDKKBI": "QUEST_HIDDEN",
+      "OKIAJNBIJGE": [
+        {
+          "type": "QUEST_EXEC_UNREGISTER_DYNAMIC_GROUP",
+          "param": [
+            "133402887",
+            "0"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_REMOVE_TRIAL_AVATAR",
+          "param": [
+            "82"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_REMOVE_TRIAL_AVATAR",
+          "param": [
+            "83"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_UNLOCK_AVATAR_TEAM_V2"
+        }
+      ],
+      "JAIKKCPFOGO": [
+        {
+          "type": "QUEST_EXEC_REMOVE_TRIAL_AVATAR",
+          "param": [
+            "82"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_REMOVE_TRIAL_AVATAR",
+          "param": [
+            "83"
+          ]
+        },
+        {
+          "type": "QUEST_EXEC_UNLOCK_AVATAR_TEAM_V2"
+        }
+      ],
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013412,
+      "mainId": 40134,
+      "order": 6,
+      "showType": "QUEST_HIDDEN",
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
+          "param": [
+            4013406,
+            3
+          ]
+        }
+      ],
+      "GINBCAPJDBN": [
+        {
+          "type": "QUEST_CONTENT_ANY_MANUAL_TRANSPORT",
+          "param": [
+            0,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_TEAM_DEAD",
+          "param": [
+            0,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_LEAVE_SCENE_RANGE",
+          "param": [
+            3,
+            25
+          ]
+        }
+      ],
+      "guide": {},
+      "HAKIGBJJKEO": "QUEST_GUIDE_ITEM_DISABLE",
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "AMNCBBBDJPK": "QUEST_HIDDEN",
+      "OHFJAMDKKBI": "QUEST_HIDDEN",
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013413,
+      "mainId": 40134,
+      "order": 5,
+      "showType": "QUEST_HIDDEN",
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_QUEST_STATE_EQUAL",
+          "param": [
+            4013406,
+            3
+          ]
+        }
+      ],
+      "GINBCAPJDBN": [
+        {
+          "type": "QUEST_CONTENT_ANY_MANUAL_TRANSPORT",
+          "param": [
+            0,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_TEAM_DEAD",
+          "param": [
+            0,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_LEAVE_SCENE_RANGE",
+          "param": [
+            3,
+            25
+          ]
+        }
+      ],
+      "guide": {},
+      "HAKIGBJJKEO": "QUEST_GUIDE_ITEM_DISABLE",
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "AMNCBBBDJPK": "QUEST_HIDDEN",
+      "OHFJAMDKKBI": "QUEST_HIDDEN",
+      "versionBegin": "",
+      "versionEnd": ""
+    },
+    {
+      "subId": 4013414,
+      "mainId": 40134,
+      "order": 11,
+      "FDDFBECJMPA": true,
+      "descTextMapHash": 58464132,
+      "finishCond": [
+        {
+          "type": "QUEST_CONTENT_ENTER_DUNGEON",
+          "param": [
+            9215,
+            1093
+          ]
+        }
+      ],
+      "GINBCAPJDBN": [
+        {
+          "type": "QUEST_CONTENT_FAIL_DUNGEON",
+          "param": [
+            9215,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_ANY_MANUAL_TRANSPORT",
+          "param": [
+            0,
+            0
+          ]
+        },
+        {
+          "type": "QUEST_CONTENT_TEAM_DEAD",
+          "param": [
+            0,
+            0
+          ]
+        }
+      ],
+      "guide": {
+        "type": "QUEST_GUIDE_LOCATION",
+        "param": [
+          "[3_340300284:2491.712,497.371,4240.678]"
+        ],
+        "guideScene": 3,
+        "guideStyle": "QUEST_GUIDE_STYLE_POINT",
+        "DHGKFEKLGFG": 4
+      },
+      "CDDKJNJPILI": {
+        "KPOGPNLFAAE": ""
+      },
+      "JAIKKCPFOGO": [
+        {
+          "type": "QUEST_EXEC_ROLLBACK_QUEST",
+          "param": [
+            "4013407"
+          ]
+        }
+      ],
+      "versionBegin": "",
+      "versionEnd": ""
+    }
+  ],
+  "PCNNNPLAEAI": [
+    {
+      "id": 4013401,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "4013402",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "FMFFELFBBJN": 401340101,
+      "JDOFKFPHIDC": [
+        2604
+      ],
+      "GHHGNCCJOEJ": "",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 40134,
+      "NKIDPMJGEKA": 16359203399484338191,
+      "BBMLHKKNIOJ": "",
+      "FGABNCHLIPE": true,
+      "NCDNOCPDNIO": true
+    },
+    {
+      "id": 4013402,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "4013403",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "FMFFELFBBJN": 401340201,
+      "JDOFKFPHIDC": [
+        1081
+      ],
+      "GHHGNCCJOEJ": "",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 40134,
+      "NKIDPMJGEKA": 1656809577551243856,
+      "BBMLHKKNIOJ": "",
+      "FGABNCHLIPE": true,
+      "NCDNOCPDNIO": true
+    },
+    {
+      "id": 4013403,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "4013404",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "FMFFELFBBJN": 401340301,
+      "JDOFKFPHIDC": [
+        1081
+      ],
+      "GHHGNCCJOEJ": "",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 40134,
+      "NKIDPMJGEKA": 2094447673797908649,
+      "BBMLHKKNIOJ": "",
+      "FGABNCHLIPE": true,
+      "NCDNOCPDNIO": true
+    },
+    {
+      "id": 4013404,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "4013410",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "FMFFELFBBJN": 401340401,
+      "JDOFKFPHIDC": [
+        1081
+      ],
+      "GHHGNCCJOEJ": "",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 40134,
+      "NKIDPMJGEKA": 1866048006960157405,
+      "BBMLHKKNIOJ": "",
+      "FGABNCHLIPE": true,
+      "NCDNOCPDNIO": true
+    },
+    {
+      "id": 4013407,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "4013407",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "FMFFELFBBJN": 401340701,
+      "JDOFKFPHIDC": [
+        1081
+      ],
+      "GHHGNCCJOEJ": "",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 40134,
+      "NKIDPMJGEKA": 28567575014657645,
+      "BBMLHKKNIOJ": "",
+      "FGABNCHLIPE": true,
+      "NCDNOCPDNIO": true
+    },
+    {
+      "id": 4013409,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "4013409",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "FMFFELFBBJN": 401340901,
+      "JDOFKFPHIDC": [
+        1081
+      ],
+      "GHHGNCCJOEJ": "",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 40134,
+      "NKIDPMJGEKA": 6044794004626865801,
+      "BBMLHKKNIOJ": "",
+      "FGABNCHLIPE": true,
+      "NCDNOCPDNIO": true
+    },
+    {
+      "id": 4013410,
+      "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+      "AFNAENENCBB": [
+        {
+          "_type": "QUEST_COND_STATE_EQUAL",
+          "_param": [
+            "4013401",
+            "2"
+          ]
+        }
+      ],
+      "KPMDGJNJNJC": 5,
+      "JDOFKFPHIDC": [
+        1081
+      ],
+      "GHHGNCCJOEJ": "",
+      "GKACCNJHFHH": "TALK_HERO_MAIN",
+      "OLLANCCFJKD": 40134,
+      "NKIDPMJGEKA": 532091092854492258,
+      "BBMLHKKNIOJ": "",
+      "FGABNCHLIPE": true,
+      "NCDNOCPDNIO": true
+    }
+  ],
+  "NKGCPAOHMJI": [
+    14457059026087496718
+  ],
+  "DBHFDGHAFGF": {
+    "1073": [
+      1190
+    ],
+    "30447": [
+      1120
+    ],
+    "1005": [
+      1120
+    ],
+    "1025": [
+      1230
+    ],
+    "1026": [
+      1230
+    ]
+  },
+  "AAOAAFLLOJI": [
+    {
+      "id": 401349801,
+      "HJLEMJIGNFE": {
+        "_type": "TALK_ROLE_BLACK_SCREEN",
+        "_id": ""
+      },
+      "LBIALGEBDEF": "",
+      "OHKKBEPEBKH": "",
+      "AMNGMAPONHL": "",
+      "IANGBGFBILD": "",
+      "ADGDAEPIILL": "",
+      "DGJCJLLDMON": "",
+      "DOCDFJJIDNG": ""
+    },
+    {
+      "id": 401349903,
+      "HJLEMJIGNFE": {
+        "_type": "TALK_ROLE_BLACK_SCREEN",
+        "_id": ""
+      },
+      "BDOKCLNNDGN": 1287793594,
+      "LBIALGEBDEF": "",
+      "OHKKBEPEBKH": "",
+      "AMNGMAPONHL": "",
+      "IANGBGFBILD": "",
+      "ADGDAEPIILL": "",
+      "DGJCJLLDMON": "",
+      "DOCDFJJIDNG": ""
+    }
+  ],
+  "NKMGAAOIGIL": true
+}

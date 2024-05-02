@@ -1,0 +1,21 @@
+{
+    "talkId": 2476,
+    "type": "FREE",
+    "dialogList": [
+        {
+            "id": 1016247600,
+            "talkRole": {
+                "type": "TALK_ROLE_NPC",
+                "id": "2476"
+            },
+            "talkContentTextMapHash": 1459166266,
+            "talkAssetPath": "",
+            "talkAssetPathAlter": "",
+            "talkAudioName": "",
+            "actionBefore": "",
+            "actionWhile": "",
+            "actionAfter": "",
+            "optionIcon": ""
+        }
+    ]
+}

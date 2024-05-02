@@ -1,0 +1,33 @@
+{
+    "name": "Char_Skill_12053",
+    "GFGCHHFMDAK": {
+        "-2060930438": {
+            "$type": "GOHCNBKLCFL",
+            "KHMNAHOBJAE": 2
+        },
+        "476224977": {
+            "$type": "LFDAKNBOAPH",
+            "type": "Element",
+            "value": "GCG_ELEMENT_HYDRO"
+        },
+        "25457495": {
+            "$type": "ADEBMIHAJPF",
+            "type": "Heal",
+            "KHMNAHOBJAE": 1
+        },
+        "-655016129": {
+            "$type": "ABBFILGNLDO",
+            "type": "EffectNum",
+            "KHMNAHOBJAE": 1
+        },
+        "92232043": {
+            "$type": "ABBFILGNLDO",
+            "type": "EffectNum"
+        },
+        "-1186168532": {
+            "$type": "ABBFILGNLDO",
+            "type": "EffectNum",
+            "KHMNAHOBJAE": 1
+        }
+    }
+}

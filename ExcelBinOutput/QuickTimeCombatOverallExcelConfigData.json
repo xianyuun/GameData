@@ -1,0 +1,30 @@
+[
+  {
+    "scheduleId": 5159001,
+    "JDKNBGOCIDG": 3,
+    "NJGMLLODOOG": 2,
+    "DLNNLGJBGNM": 80,
+    "IKCBFLACCCG": 40,
+    "BAFLGDAPIIP": 50,
+    "KOKOIBCBIIA": 10,
+    "EFBKKKHCIKJ": "ActivityAbility_QuickTimeCombat_ClientCall",
+    "FPGIAPELIHJ": "GV_Activity_QuickTimeCombat_QTETriggerCJB",
+    "JCKELHDFJKP": 40.0,
+    "BAOCAHIPCOB": 100,
+    "DPPAKJEDOAB": 50,
+    "DDCKOOOCGPO": [
+      0,
+      150,
+      300
+    ],
+    "PEMFFKKALJE": [
+      2000,
+      4000,
+      8000,
+      20000
+    ],
+    "IPGCDJLGDKP": "<color=#ffc677>{0}</color>",
+    "OIAEAMNBPOH": "<color=#a1a1a1>{0}</color>",
+    "dungeonEntryID": 1087
+  }
+]

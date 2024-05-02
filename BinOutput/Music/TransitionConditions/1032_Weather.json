@@ -1,0 +1,37 @@
+[
+    {
+        "$type": "BNJEHFCMNOG",
+        "id": 10320001,
+        "DHKPKGMFPFB": "Weather",
+        "value": "Rain"
+    },
+    {
+        "$type": "BNJEHFCMNOG",
+        "id": 10320002,
+        "DHKPKGMFPFB": "Weather",
+        "value": "Foggy"
+    },
+    {
+        "$type": "BNJEHFCMNOG",
+        "id": 10320003,
+        "DHKPKGMFPFB": "Weather",
+        "value": "Storm"
+    },
+    {
+        "$type": "EGHNHJJHFJO",
+        "id": 10320004,
+        "PAHIOGEDGGC": 10320001,
+        "JNEFHBFNHGG": 10320002
+    },
+    {
+        "$type": "EGHNHJJHFJO",
+        "id": 10320005,
+        "PAHIOGEDGGC": 10320003,
+        "JNEFHBFNHGG": 10320004
+    },
+    {
+        "$type": "HBEJNGCPOOH",
+        "id": 10320006,
+        "FDHAELOFCFJ": 10320005
+    }
+]

@@ -1,0 +1,509 @@
+[
+  {
+    "id": 1001,
+    "scheduleId": 5143001,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60111,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60112,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60113,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        101,
+        102,
+        103
+      ],
+      [
+        100121,
+        100122,
+        100123
+      ]
+    ],
+    "nameTextMapHash": 3180630703,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 626027337,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Enemy_Rockdog",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Enemy_BruteRockShield",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Enemy_Rockdog"
+  },
+  {
+    "id": 1002,
+    "scheduleId": 5143001,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60121,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60122,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60123,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        101,
+        102,
+        103
+      ],
+      [
+        100221,
+        100222,
+        100223
+      ]
+    ],
+    "nameTextMapHash": 1010912983,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 4108564289,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Enemy_RoninEle",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Monster_MageIce",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Enemy_RoninFire"
+  },
+  {
+    "id": 1003,
+    "scheduleId": 5143001,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60131,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60132,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60133,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        111,
+        112,
+        113
+      ],
+      [
+        100321,
+        100322,
+        100323
+      ]
+    ],
+    "nameTextMapHash": 3226593511,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 3792035225,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Monster_Fatuus",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatwater",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatice"
+  },
+  {
+    "id": 1004,
+    "scheduleId": 5143001,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60101,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60102,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60103,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        111,
+        112,
+        113
+      ],
+      [
+        100421,
+        100422,
+        100423
+      ]
+    ],
+    "nameTextMapHash": 1450847159,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 2107307249,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Enemy_UnDeltaRock",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Enemy_UnDeltaIce",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Enemy_UnDeltaWater"
+  },
+  {
+    "id": 1005,
+    "scheduleId": 5143001,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60141,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60142,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60143,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        111,
+        112,
+        113
+      ],
+      [
+        100521,
+        100522,
+        100523
+      ]
+    ],
+    "nameTextMapHash": 3072250543,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 3108714505,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Monster_Effigyelectric",
+    "AHPLHKNNGIJ": "",
+    "LCCDHBCKMDH": ""
+  },
+  {
+    "id": 1011,
+    "scheduleId": 5143002,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60401,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60402,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60403,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        101,
+        102,
+        103
+      ],
+      [
+        101121,
+        101122,
+        101123
+      ]
+    ],
+    "nameTextMapHash": 4211562407,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 3985256153,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Enemy_ShamanWater",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Enemy_BruteAxe",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Enemy_UnDeltaWater"
+  },
+  {
+    "id": 1012,
+    "scheduleId": 5143002,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60421,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60422,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60423,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        101,
+        102,
+        103
+      ],
+      [
+        101221,
+        101222,
+        101223
+      ]
+    ],
+    "nameTextMapHash": 3364043647,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 3423732225,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Monster_FatuusMageice",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Monster_Maidenwater",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Monster_Fatuus"
+  },
+  {
+    "id": 1013,
+    "scheduleId": 5143002,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60411,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60412,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60413,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        101,
+        102,
+        103
+      ],
+      [
+        101321,
+        101322,
+        101323
+      ]
+    ],
+    "nameTextMapHash": 3694528999,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 1440745585,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Enemy_BruteEleAxe",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Enemy_BruteIceShield",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Enemy_UnDeltaWater"
+  },
+  {
+    "id": 1014,
+    "scheduleId": 5143002,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60431,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60432,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60433,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        101,
+        102,
+        103
+      ],
+      [
+        101421,
+        101422,
+        101423
+      ]
+    ],
+    "nameTextMapHash": 2073707223,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 2091104881,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Monster_Oceanid",
+    "AHPLHKNNGIJ": "",
+    "LCCDHBCKMDH": ""
+  },
+  {
+    "id": 1021,
+    "scheduleId": 5143003,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60731,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60732,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60733,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        101,
+        102,
+        103
+      ],
+      [
+        102121,
+        102122,
+        102123
+      ]
+    ],
+    "nameTextMapHash": 3896893039,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 2513521385,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Enemy_RuggieroMeleeOusia",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Enemy_RuggieroRangedOusia",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Enemy_RuggieroMeleeOusia"
+  },
+  {
+    "id": 1022,
+    "scheduleId": 5143003,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60721,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60722,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60723,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        111,
+        112,
+        113
+      ],
+      [
+        102221,
+        102222,
+        102223
+      ]
+    ],
+    "nameTextMapHash": 3475986103,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 3854379697,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatice",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Enemy_Skirnisherfatfire",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Enemy_Skirnisherstrongele"
+  },
+  {
+    "id": 1023,
+    "scheduleId": 5143003,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60701,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60702,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60703,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        121,
+        122,
+        123
+      ],
+      [
+        102321,
+        102322,
+        102323
+      ]
+    ],
+    "nameTextMapHash": 444960975,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 1049088729,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Enemy_SlimeIce",
+    "AHPLHKNNGIJ": "UI_Gcg_CardFace_Char_Enemy_SlimeWater02",
+    "LCCDHBCKMDH": "UI_Gcg_CardFace_Char_Enemy_SlimeIce"
+  },
+  {
+    "id": 1024,
+    "scheduleId": 5143003,
+    "FOAJBKJGEAN": [
+      {
+        "type": "GCG_PVE_TYPE_SIMPLE",
+        "id": 60711,
+        "baseScore": 1000
+      },
+      {
+        "type": "GCG_PVE_TYPE_NORMAL",
+        "id": 60712,
+        "baseScore": 2000
+      },
+      {
+        "type": "GCG_PVE_TYPE_HARD",
+        "id": 60713,
+        "baseScore": 3000
+      }
+    ],
+    "IGEDDOOEJMG": [
+      [
+        101,
+        102,
+        103
+      ],
+      [
+        102421,
+        102422,
+        102423
+      ]
+    ],
+    "nameTextMapHash": 1993093079,
+    "scoreLevelList": [],
+    "tabNameTextMapHash": 3730605873,
+    "LMPOLCHBFHN": "UI_Gcg_CardFace_Char_Monster_EffigyIce",
+    "AHPLHKNNGIJ": "",
+    "LCCDHBCKMDH": ""
+  }
+]

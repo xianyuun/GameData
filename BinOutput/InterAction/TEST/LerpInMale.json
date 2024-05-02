@@ -1,0 +1,36 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "group": [
+        [
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR",
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "DOMDCMLMEKG": "RELATIVE_POS_TO_INTEE",
+                "MEEOFFMAAJP": {
+                    "y": 1.5499999523162842,
+                    "z": 1.399999976158142
+                },
+                "PEOMGGJMOLC": "TO_INTEE",
+                "MGDCLCOKDOF": {
+                    "y": 1.4500000476837158
+                },
+                "NPJJNOFEADI": 15.0,
+                "PNMMOGHLFME": true,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ]
+    ]
+}

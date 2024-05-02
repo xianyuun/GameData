@@ -1,0 +1,32 @@
+[
+    {
+        "$type": "DOGMJOMNNEO",
+        "id": 10040001,
+        "DHKPKGMFPFB": "SceneId",
+        "KHMNAHOBJAE": 3
+    },
+    {
+        "$type": "DOGMJOMNNEO",
+        "id": 10040002,
+        "DHKPKGMFPFB": "SceneId",
+        "KHMNAHOBJAE": 1009
+    },
+    {
+        "$type": "DOGMJOMNNEO",
+        "id": 10040003,
+        "DHKPKGMFPFB": "SceneId",
+        "KHMNAHOBJAE": 1008
+    },
+    {
+        "$type": "DOGMJOMNNEO",
+        "id": 10040004,
+        "DHKPKGMFPFB": "SceneId",
+        "KHMNAHOBJAE": 1004
+    },
+    {
+        "$type": "DOGMJOMNNEO",
+        "id": 10040005,
+        "DHKPKGMFPFB": "SceneId",
+        "KHMNAHOBJAE": 20018
+    }
+]

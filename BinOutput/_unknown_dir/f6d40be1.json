@@ -1,0 +1,187 @@
+{
+    "GBAPBDJGNKA": 9006,
+    "JBCEFDOCMHK": 18.0,
+    "EBHCEGNJIGF": 15.0,
+    "COKHAPHNLML": [
+        {
+            "configId": 2002,
+            "NHICAGAMGPO": 1,
+            "DLCDLADIMJB": {
+                "x": 0.5,
+                "z": 7.5
+            },
+            "EMOBFFIABIK": {
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 2002,
+            "NHICAGAMGPO": 2,
+            "DLCDLADIMJB": {
+                "x": 0.5,
+                "z": -7.5
+            },
+            "EMOBFFIABIK": {
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 4004,
+            "NHICAGAMGPO": 3,
+            "DLCDLADIMJB": {
+                "x": 0.5,
+                "z": 2.5
+            },
+            "EMOBFFIABIK": {
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 4004,
+            "NHICAGAMGPO": 5,
+            "DLCDLADIMJB": {
+                "x": 0.5,
+                "z": -2.5
+            },
+            "EMOBFFIABIK": {
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 4017,
+            "NHICAGAMGPO": 6,
+            "DLCDLADIMJB": {
+                "x": 0.5,
+                "y": 4.0,
+                "z": 2.5
+            },
+            "EMOBFFIABIK": {
+                "PAMBBIDLCJH": true,
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 4017,
+            "NHICAGAMGPO": 7,
+            "DLCDLADIMJB": {
+                "x": 0.5,
+                "y": 4.0,
+                "z": -2.5
+            },
+            "EMOBFFIABIK": {
+                "PAMBBIDLCJH": true,
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 4015,
+            "NHICAGAMGPO": 13,
+            "DLCDLADIMJB": {
+                "x": 0.5,
+                "y": 5.0,
+                "z": 6.5
+            },
+            "EMOBFFIABIK": {
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 1004,
+            "NHICAGAMGPO": 14,
+            "DLCDLADIMJB": {
+                "x": 1.0,
+                "y": 5.0,
+                "z": 3.0
+            },
+            "EMOBFFIABIK": {
+                "PAMBBIDLCJH": true,
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 1004,
+            "NHICAGAMGPO": 15,
+            "DLCDLADIMJB": {
+                "y": 5.0,
+                "z": 1.0
+            },
+            "EMOBFFIABIK": {
+                "PAMBBIDLCJH": true,
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 1004,
+            "NHICAGAMGPO": 16,
+            "DLCDLADIMJB": {
+                "x": 1.0,
+                "y": 5.0,
+                "z": -1.0
+            },
+            "EMOBFFIABIK": {
+                "PAMBBIDLCJH": true,
+                "GMJOGDOCPEK": 1
+            }
+        },
+        {
+            "configId": 1004,
+            "NHICAGAMGPO": 17,
+            "DLCDLADIMJB": {
+                "y": 5.0,
+                "z": -3.0
+            },
+            "EMOBFFIABIK": {
+                "PAMBBIDLCJH": true,
+                "GMJOGDOCPEK": 1
+            }
+        }
+    ],
+    "JCOKDAGDLIH": [
+        {
+            "NHICAGAMGPO": 18,
+            "PNLJCPKODDO": [
+                {
+                    "configId": 4,
+                    "OPIPBENHNID": 13
+                }
+            ],
+            "JNAOMAGIAJI": [
+                {
+                    "configId": 2,
+                    "OPIPBENHNID": 6
+                },
+                {
+                    "configId": 2,
+                    "OPIPBENHNID": 7
+                }
+            ]
+        },
+        {
+            "NHICAGAMGPO": 19,
+            "PNLJCPKODDO": [
+                {
+                    "configId": 4,
+                    "OPIPBENHNID": 13
+                }
+            ],
+            "JNAOMAGIAJI": [
+                {
+                    "configId": 2,
+                    "OPIPBENHNID": 17
+                },
+                {
+                    "configId": 2,
+                    "OPIPBENHNID": 16
+                },
+                {
+                    "configId": 2,
+                    "OPIPBENHNID": 15
+                },
+                {
+                    "configId": 2,
+                    "OPIPBENHNID": 14
+                }
+            ]
+        }
+    ]
+}

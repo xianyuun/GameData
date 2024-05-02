@@ -1,0 +1,215 @@
+{
+  "folderStructure": {
+    "resources": "./resources/",
+    "data": "./data/",
+    "packets": "./packets/",
+    "scripts": "resources:Scripts/",
+    "plugins": "./plugins/",
+    "cache": "./cache/"
+  },
+  "databaseInfo": {
+    "server": {
+      "connectionUri": "mongodb://localhost:27017",
+      "collection": "grasscutter"
+    },
+    "game": {
+      "connectionUri": "mongodb://localhost:27017",
+      "collection": "grasscutter"
+    }
+  },
+  "language": {
+    "language": "zh_CN",
+    "fallback": "en_US",
+    "document": "CHS"
+  },
+  "account": {
+    "autoCreate": false,
+    "EXPERIMENTAL_RealPassword": false,
+    "defaultPermissions": [],
+    "maxPlayer": -1
+  },
+  "server": {
+    "debugWhitelist": [],
+    "debugBlacklist": [],
+    "runMode": "HYBRID",
+    "logCommands": false,
+    "fastRequire": true,
+    "http": {
+      "startImmediately": false,
+      "bindAddress": "0.0.0.0",
+      "bindPort": 21000,
+      "accessAddress": "127.0.0.1",
+      "accessPort": 0,
+      "encryption": {
+        "useEncryption": true,
+        "useInRouting": true,
+        "keystore": "./keystore.p12",
+        "keystorePassword": "123456"
+      },
+      "policies": {
+        "cors": {
+          "enabled": true,
+          "allowedOrigins": [
+            "*"
+          ]
+        }
+      },
+      "files": {
+        "indexFile": "./index.html",
+        "errorFile": "./404.html"
+      }
+    },
+    "game": {
+      "bindAddress": "0.0.0.0",
+      "bindPort": 22102,
+      "accessAddress": "127.0.0.1",
+      "accessPort": 0,
+      "useUniquePacketKey": true,
+      "loadEntitiesForPlayerRange": 300,
+      "enableScriptInBigWorld": true,
+      "enableConsole": true,
+      "kcpInterval": 20,
+      "logPackets": "NONE",
+      "isShowPacketPayload": false,
+      "isShowLoopPackets": false,
+      "cacheSceneEntitiesEveryRun": false,
+      "gameOptions": {
+        "inventoryLimits": {
+          "weapons": 2000,
+          "relics": 2000,
+          "materials": 2000,
+          "furniture": 2000,
+          "all": 30000
+        },
+        "avatarLimits": {
+          "singlePlayerTeam": 4,
+          "multiplayerTeam": 4
+        },
+        "sceneEntityLimit": 1000,
+        "watchGachaConfig": false,
+        "enableShopItems": true,
+        "staminaUsage": true,
+        "energyUsage": true,
+        "fishhookTeleport": true,
+        "trialCostumes": false,
+        "questing": {
+          "enabled": true
+        },
+        "resinOptions": {
+          "resinUsage": false,
+          "cap": 160,
+          "rechargeTime": 480
+        },
+        "rates": {
+          "adventureExp": 1.0,
+          "mora": 1.0,
+          "leyLines": 1.0
+        },
+        "handbook": {
+          "enable": false,
+          "allowCommands": true,
+          "limits": {
+            "enabled": false,
+            "interval": 3,
+            "maxRequests": 10,
+            "maxEntities": 25
+          },
+          "server": {
+            "enforced": false,
+            "address": "127.0.0.1",
+            "port": 21000,
+            "canChange": true
+          }
+        }
+      },
+      "joinOptions": {
+        "welcomeEmotes": [
+          2007,
+          1002,
+          4010
+        ],
+        "welcomeMessage": "欢迎来到天机端.",
+        "welcomeMail": {
+          "title": "欢迎来到天机端!",
+          "content": "本端是免费的，如果您是付费购买的，那您就被骗了！！！请及时退款并举报",
+          "sender": "Lawnmower",
+          "items": [
+            {
+              "itemId": 13509,
+              "itemCount": 1,
+              "itemLevel": 1
+            },
+            {
+              "itemId": 201,
+              "itemCount": 99999,
+              "itemLevel": 1
+            }
+          ]
+        }
+      },
+      "serverAccount": {
+        "avatarId": 10000007,
+        "nameCardId": 210001,
+        "adventureRank": 1,
+        "worldLevel": 0,
+        "nickName": "天机阁",
+        "signature": "欢迎来到天机端!"
+      },
+      "visionOptions": [
+        {
+          "name": "VISION_LEVEL_NORMAL",
+          "visionRange": 80,
+          "gridWidth": 20
+        },
+        {
+          "name": "VISION_LEVEL_LITTLE_REMOTE",
+          "visionRange": 16,
+          "gridWidth": 40
+        },
+        {
+          "name": "VISION_LEVEL_REMOTE",
+          "visionRange": 1000,
+          "gridWidth": 250
+        },
+        {
+          "name": "VISION_LEVEL_SUPER",
+          "visionRange": 4000,
+          "gridWidth": 1000
+        },
+        {
+          "name": "VISION_LEVEL_NEARBY",
+          "visionRange": 40,
+          "gridWidth": 20
+        },
+        {
+          "name": "VISION_LEVEL_SUPER_NEARBY",
+          "visionRange": 20,
+          "gridWidth": 20
+        }
+      ]
+    },
+    "dispatch": {
+      "regions": [],
+      "dispatchUrl": "ws://127.0.0.1:1111",
+      "encryptionKey": "jGPI98ZyvRGKYKgzZP+IDohnEMjnv2BuOZaHAPa3ln0=",
+      "dispatchKey": "6Qc+iDYam+8zEqWGJ/LcP6eeOoLxt6oMGeDSxFOqADE=",
+      "defaultName": "天机阁",
+      "logRequests": "NONE"
+    },
+    "debugMode": {
+      "serverLoggerLevel": {
+        "levelInt": 10000,
+        "levelStr": "DEBUG"
+      },
+      "servicesLoggersLevel": {
+        "levelInt": 20000,
+        "levelStr": "INFO"
+      },
+      "logPackets": "ALL",
+      "isShowPacketPayload": false,
+      "isShowLoopPackets": false,
+      "logRequests": "ALL"
+    }
+  },
+  "version": 13
+}

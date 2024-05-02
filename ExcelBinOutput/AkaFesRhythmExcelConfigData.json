@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "openDay": 1,
+    "levelNameTextMapHash": 2693591708,
+    "score": 10,
+    "EMGPFOAGHAH": "0,400",
+    "dungeonId": 3061,
+    "galleryId": 42002,
+    "DBJGGNLNJJI": 3068,
+    "KAJGLIMDPDN": 42005,
+    "watcherId": [
+      12021101,
+      12021102,
+      12021103
+    ],
+    "tutorialId": 6122,
+    "BMAPPPHDHIE": 6133,
+    "DDBMHGACAGF": 969,
+    "DKMGPGBONDP": [
+      3,
+      6
+    ]
+  },
+  {
+    "id": 2,
+    "openDay": 5,
+    "type": "PIG",
+    "levelNameTextMapHash": 885053972,
+    "score": 10,
+    "EMGPFOAGHAH": "0,400",
+    "dungeonId": 3060,
+    "galleryId": 42001,
+    "DBJGGNLNJJI": 3067,
+    "KAJGLIMDPDN": 42004,
+    "watcherId": [
+      12021104,
+      12021105,
+      12021106
+    ],
+    "tutorialId": 6121,
+    "BMAPPPHDHIE": 6132,
+    "DDBMHGACAGF": 968,
+    "DKMGPGBONDP": [
+      6,
+      12
+    ]
+  },
+  {
+    "id": 3,
+    "openDay": 7,
+    "type": "FISH",
+    "levelNameTextMapHash": 2857629900,
+    "score": 10,
+    "EMGPFOAGHAH": "0,400",
+    "dungeonId": 3062,
+    "galleryId": 42003,
+    "DBJGGNLNJJI": 3069,
+    "KAJGLIMDPDN": 42006,
+    "watcherId": [
+      12021107,
+      12021108,
+      12021109
+    ],
+    "tutorialId": 6123,
+    "BMAPPPHDHIE": 6134,
+    "DDBMHGACAGF": 970,
+    "DKMGPGBONDP": [
+      3,
+      6
+    ]
+  }
+]

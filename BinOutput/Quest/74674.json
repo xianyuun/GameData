@@ -1,0 +1,74 @@
+{
+    "id": 74674,
+    "type": "WQ",
+    "DPKJDKDKDFH": "mainQuestTag",
+    "activeMode": "PLAY_MODE_ALL",
+    "titleTextMapHash": 370213031,
+    "descTextMapHash": 1054548110,
+    "luaPath": "Actor/Quest/WQ74674",
+    "rewardIdList": [
+        174674
+    ],
+    "CFHCHGOOLBN": true,
+    "PMKEAKECDPO": 5174,
+    "subQuests": [
+        {
+            "subId": 7467401,
+            "mainId": 74674,
+            "order": 1,
+            "descTextMapHash": 516528588,
+            "finishCond": [
+                {
+                    "type": "QUEST_CONTENT_COMPLETE_TALK",
+                    "param": [
+                        7467401,
+                        0
+                    ]
+                }
+            ],
+            "guide": {
+                "type": "QUEST_GUIDE_NPC",
+                "param": [
+                    "30456"
+                ],
+                "guideScene": 3,
+                "guideStyle": "QUEST_GUIDE_STYLE_TARGET",
+                "DHGKFEKLGFG": 4
+            },
+            "CDDKJNJPILI": {
+                "KPOGPNLFAAE": ""
+            },
+            "DBJJALMJAGP": true,
+            "isRewind": true,
+            "versionBegin": "",
+            "versionEnd": ""
+        }
+    ],
+    "PCNNNPLAEAI": [
+        {
+            "id": 7467401,
+            "CLHPPLIFPFJ": "TALK_BEGIN_MANUAL",
+            "activeMode": "PLAY_MODE_HOST",
+            "AFNAENENCBB": [
+                {
+                    "type": "QUEST_COND_STATE_EQUAL",
+                    "param": [
+                        "7467401",
+                        "2"
+                    ]
+                }
+            ],
+            "KPMDGJNJNJC": 5,
+            "FMFFELFBBJN": 746740101,
+            "JDOFKFPHIDC": [
+                30456
+            ],
+            "GHHGNCCJOEJ": "QuestDialogue/WQ/Fontaine_74673/Q7467401",
+            "GKACCNJHFHH": "TALK_HERO_MAIN",
+            "OLLANCCFJKD": 74674,
+            "NKIDPMJGEKA": 2494398839571051094,
+            "BBMLHKKNIOJ": ""
+        }
+    ],
+    "NKMGAAOIGIL": true
+}

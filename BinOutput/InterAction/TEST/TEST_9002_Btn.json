@@ -1,0 +1,90 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "group": [
+        [
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR",
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "DOMDCMLMEKG": "RELATIVE_POS_TO_INTEE",
+                "MEEOFFMAAJP": {
+                    "y": 1.7000000476837158,
+                    "z": 1.5
+                },
+                "PEOMGGJMOLC": "TO_INTEE",
+                "MGDCLCOKDOF": {
+                    "y": 1.2999999523162842
+                },
+                "OADKONNOJHC": 60.0,
+                "DDEGLLDBNHE": 60.0,
+                "NPJJNOFEADI": 5.0,
+                "PNMMOGHLFME": true,
+                "BOLFJKBKMAF": {
+                    "enable": true,
+                    "FAFCPJJAIGK": 3.0
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "ACDCGBPKCAF": 9991501
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "ACDCGBPKCAF": 9991601
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "ACDCGBPKCAF": 9991701
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG_FINISH"
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 0.5,
+                "MEHNLJGJOJM": "RETURN",
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 3.5,
+                "DOMDCMLMEKG": "EXIT",
+                "PEOMGGJMOLC": "TO_INTEE",
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 9,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ]
+    ]
+}

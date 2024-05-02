@@ -1,0 +1,75 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigUITriggerInterAction",
+                "type": "UI_TRIGGER",
+                "contextName": "LanV3ShadowGameSelectLevelPage",
+                "param": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigVisibleInterAction",
+                "type": "VISIBLE",
+                "delayTime": 0.20000000298023224,
+                "duration": 0.20000000298023224,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "useDither": true,
+                "extraParam": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG_CLEAR"
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 0.20000000298023224,
+                "DOMDCMLMEKG": "EXIT",
+                "PEOMGGJMOLC": "TO_INTEE",
+                "NPJJNOFEADI": 5.0,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigVisibleInterAction",
+                "type": "VISIBLE",
+                "delayTime": 0.20000000298023224,
+                "duration": 0.20000000298023224,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "isVisible": true,
+                "useDither": true,
+                "extraParam": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 0.75,
+                "MEHNLJGJOJM": "RETURN",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            }
+        ]
+    ]
+}

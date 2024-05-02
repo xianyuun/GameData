@@ -1,0 +1,673 @@
+{
+    "luaDataPath": "",
+    "isSimpleTalk": true,
+    "entityBan": "",
+    "disableNpcLod": true,
+    "isBanWidgetPet": true,
+    "protectNpcMobileLod": true,
+    "BENAABMGANF": 5,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 4283,
+            "alias": "4283",
+            "visible": true,
+            "bornPointName": "",
+            "removeActorType": "NEW_REMOVE",
+            "forceCreateDaily": true,
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 20883,
+            "alias": "20883",
+            "visible": true,
+            "bornPointName": "",
+            "useRelativePos": true,
+            "relativePos": {
+                "x": 0.699999988079071
+            },
+            "removeActorType": "NEW_REMOVE_WITH_DISAPPEAR",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1005,
+            "alias": "1005",
+            "visible": true,
+            "bornPointName": "",
+            "useRelativePos": true,
+            "relativePos": {
+                "x": -0.6000000238418579,
+                "z": 0.10000000149011612
+            },
+            "removeActorType": "NEW_REMOVE_WITH_DISAPPEAR",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_FOCUS",
+                "duration": 0.10000000149011612,
+                "actionId": 103,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 104
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 164,
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "4283",
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 165,
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 107,
+                "ACDCGBPKCAF": 732519101,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 109,
+                "ACDCGBPKCAF": 732519102,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20883"
+                ],
+                "actionId": 111,
+                "ACDCGBPKCAF": 732519103,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 113,
+                "ACDCGBPKCAF": 732519104,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20883"
+                ],
+                "actionId": 115,
+                "ACDCGBPKCAF": 732519105,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 117,
+                "ACDCGBPKCAF": 732519106,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 119,
+                "ACDCGBPKCAF": 732519107,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 121,
+                "ACDCGBPKCAF": 732519108,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 123,
+                "ACDCGBPKCAF": 732519109,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 125,
+                "ACDCGBPKCAF": 732519110,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 127,
+                "ACDCGBPKCAF": 732519111,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 128,
+                "HLOONFICMOJ": [
+                    732519112,
+                    732519114
+                ],
+                "BJBCCFDIICN": [
+                    3896415190,
+                    3896415191
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 2342448124
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 130,
+                "ACDCGBPKCAF": 732519113,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 132,
+                "ACDCGBPKCAF": 732519115,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 134,
+                "ACDCGBPKCAF": 732519116,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 136,
+                "ACDCGBPKCAF": 732519117,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 138,
+                "ACDCGBPKCAF": 732519118,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 140,
+                "ACDCGBPKCAF": 732519119,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20883"
+                ],
+                "actionId": 142,
+                "ACDCGBPKCAF": 732519120,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20883"
+                ],
+                "actionId": 144,
+                "ACDCGBPKCAF": 732519121,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 146,
+                "ACDCGBPKCAF": 732519122,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 148,
+                "ACDCGBPKCAF": 732519123,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "actionId": 150,
+                "ACDCGBPKCAF": 732519124,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "20883"
+                ],
+                "actionId": 152,
+                "ACDCGBPKCAF": 732519125,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 154,
+                "ACDCGBPKCAF": 732519126,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 156,
+                "ACDCGBPKCAF": 732519127,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 158,
+                "ACDCGBPKCAF": 732519128,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 159,
+                "HLOONFICMOJ": [
+                    732519129,
+                    732519130
+                ],
+                "BJBCCFDIICN": [
+                    3896415226,
+                    3896415226
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 2342448124
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 161,
+                "ACDCGBPKCAF": 732519131,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 163,
+                "ACDCGBPKCAF": 732519132,
+                "LENKPLFIBOP": 0.5
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 105
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "duration": 1.0,
+                "aliasList": [
+                    "4283"
+                ],
+                "actionId": 166,
+                "MEHNLJGJOJM": "RETURN",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "HKMHEDBICGC": true,
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 2342448125,
+            "nextGrpId": 2342448126
+        },
+        {
+            "index": 1,
+            "grpId": 2342448126,
+            "nextGrpId": 2342448127
+        },
+        {
+            "index": 2,
+            "grpId": 2342448127,
+            "nextGrpId": 2342448128
+        },
+        {
+            "index": 3,
+            "grpId": 2342448128,
+            "nextGrpId": 2342448129
+        },
+        {
+            "index": 4,
+            "grpId": 2342448129,
+            "nextGrpId": 2342448130
+        },
+        {
+            "index": 5,
+            "grpId": 2342448130,
+            "nextGrpId": 2342448131
+        },
+        {
+            "index": 6,
+            "grpId": 2342448131,
+            "nextGrpId": 2342448132
+        },
+        {
+            "index": 7,
+            "grpId": 2342448132,
+            "nextGrpId": 2342448133
+        },
+        {
+            "index": 8,
+            "grpId": 2342448133,
+            "nextGrpId": 3896415187
+        },
+        {
+            "index": 9,
+            "grpId": 3896415187,
+            "nextGrpId": 3896415188
+        },
+        {
+            "index": 10,
+            "grpId": 3896415188,
+            "nextGrpId": 3896415189
+        },
+        {
+            "index": 11,
+            "grpId": 3896415189,
+            "nextGrpId": 3896415190
+        },
+        {
+            "index": 12,
+            "grpId": 3896415190,
+            "nextGrpId": 3896415192
+        },
+        {
+            "index": 13,
+            "grpId": 3896415191,
+            "nextGrpId": 3896415192
+        },
+        {
+            "index": 14,
+            "grpId": 3896415192,
+            "nextGrpId": 3896415193
+        },
+        {
+            "index": 15,
+            "grpId": 3896415193,
+            "nextGrpId": 3896415194
+        },
+        {
+            "index": 16,
+            "grpId": 3896415194,
+            "nextGrpId": 3896415195
+        },
+        {
+            "index": 17,
+            "grpId": 3896415195,
+            "nextGrpId": 3896415196
+        },
+        {
+            "index": 18,
+            "grpId": 3896415196,
+            "nextGrpId": 3896415218
+        },
+        {
+            "index": 19,
+            "grpId": 3896415218,
+            "nextGrpId": 3896415219
+        },
+        {
+            "index": 20,
+            "grpId": 3896415219,
+            "nextGrpId": 3896415220
+        },
+        {
+            "index": 21,
+            "grpId": 3896415220,
+            "nextGrpId": 3896415221
+        },
+        {
+            "index": 22,
+            "grpId": 3896415221,
+            "nextGrpId": 3896415222
+        },
+        {
+            "index": 23,
+            "grpId": 3896415222,
+            "nextGrpId": 3896415223
+        },
+        {
+            "index": 24,
+            "grpId": 3896415223,
+            "nextGrpId": 3896415224
+        },
+        {
+            "index": 25,
+            "grpId": 3896415224,
+            "nextGrpId": 3896415225
+        },
+        {
+            "index": 26,
+            "grpId": 3896415225,
+            "nextGrpId": 3896415226
+        },
+        {
+            "index": 27,
+            "grpId": 3896415226,
+            "nextGrpId": 3896415227
+        },
+        {
+            "index": 28,
+            "grpId": 3896415227,
+            "nextGrpId": 3896415249
+        },
+        {
+            "index": 29,
+            "grpId": 3896415249,
+            "nextGrpId": 3896415250
+        }
+    ],
+    "freeStyleDic": {
+        "4283": [],
+        "20883": []
+    }
+}

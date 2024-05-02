@@ -1,0 +1,28 @@
+{
+    "EGICBLNJDBE": {
+        "Eff_Gcg_Monster_Dahaka_Spine_Loop_Electric": {
+            "IPKNBGKJOOP": "",
+            "KICMAMFBILI": "",
+            "DPMJBJLCBKF": true,
+            "NIHOEKPKEDA": 1.2000000476837158
+        },
+        "Eff_Gcg_Monster_Dahaka_Spine_Loop_Glow": {
+            "CPJEHMDJKNK": true,
+            "IPKNBGKJOOP": "Gcg_CardFace_Char_Monster_Dahaka_Sub_Spine",
+            "KICMAMFBILI": "EffectRoot_Bg",
+            "KPEHOEJOHNF": true
+        },
+        "Eff_Gcg_Monster_Dahaka_Spine_Loop_Eye_L": {
+            "CPJEHMDJKNK": true,
+            "IPKNBGKJOOP": "Gcg_CardFace_Char_Monster_DahakaElec_Spine",
+            "KICMAMFBILI": "EffectRoot_Eye_L",
+            "KPEHOEJOHNF": true
+        },
+        "Eff_Gcg_Monster_Dahaka_Spine_Loop_Eye_R": {
+            "CPJEHMDJKNK": true,
+            "IPKNBGKJOOP": "Gcg_CardFace_Char_Monster_DahakaElec_Spine",
+            "KICMAMFBILI": "EffectRoot_Eye_R",
+            "KPEHOEJOHNF": true
+        }
+    }
+}

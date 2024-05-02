@@ -1,0 +1,56 @@
+{
+    "luaDataPath": "",
+    "entityBan": "",
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigUITriggerInterAction",
+                "type": "UI_TRIGGER",
+                "contextName": "MPPlayPage",
+                "param": "MP_PLAY_WATER_SPRITE"
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "MEEOFFMAAJP": {
+                    "x": 1778.68994140625,
+                    "y": 201.8699951171875,
+                    "z": 275.6099853515625
+                },
+                "CIJLMBOJJBF": 5.0,
+                "MGDCLCOKDOF": {
+                    "x": 1796.6199951171875,
+                    "y": 205.1300048828125,
+                    "z": 273.44000244140625
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 6,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "DOMDCMLMEKG": "EXIT",
+                "MEEOFFMAAJP": {
+                    "x": 1778.68994140625,
+                    "y": 201.8699951171875,
+                    "z": 275.6099853515625
+                },
+                "PEOMGGJMOLC": "TO_INTEE",
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 6,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ]
+    ]
+}

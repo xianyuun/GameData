@@ -1,0 +1,324 @@
+{
+    "luaDataPath": "",
+    "isSimpleTalk": true,
+    "entityBan": "",
+    "disableNpcLod": true,
+    "isBanWidgetPet": true,
+    "protectNpcMobileLod": true,
+    "BENAABMGANF": 5,
+    "startFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "endFade": {
+        "startFadeOutDuration": 0.0
+    },
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 30354,
+            "alias": "30354",
+            "visible": true,
+            "bornPointName": "",
+            "relativePosType": "AVATAR_NEW",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.10000000149011612,
+                "actionId": 104
+            },
+            {
+                "$type": "MoleMole.Config.ConfigCameraFocusNewInterAction",
+                "type": "CAMERA_FOCUS_NEW",
+                "duration": 0.10000000149011612,
+                "actionId": 120,
+                "focusExtendedSetting": {
+                    "duration": 1.0,
+                    "refPosData": {
+                        "npcAlias": ""
+                    },
+                    "tarPosData": {
+                        "npcAlias": ""
+                    }
+                }
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 117,
+                "MEHNLJGJOJM": "TO_TARGET_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "30354",
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.30000001192092896,
+                "duration": 0.800000011920929,
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 118,
+                "MEHNLJGJOJM": "TO_LOCAL_AVATAR_ADVANCED",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 107,
+                "ACDCGBPKCAF": 735210201,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 121,
+                "HJICCFGEJKI": 1190,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 109,
+                "ACDCGBPKCAF": 735210202,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 122,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "MKCLMCPEFOB",
+                "type": "DIALOG_SELECT",
+                "delayTime": 0.4000000059604645,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "actionId": 110,
+                "HLOONFICMOJ": [
+                    735210203
+                ],
+                "BJBCCFDIICN": [
+                    4282337706
+                ],
+                "FALHCBLLBCG": true,
+                "HHLMNCLJCAE": 4282337702
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "delayTime": 0.5099999904632568,
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 123,
+                "HJICCFGEJKI": 1171,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 112,
+                "ACDCGBPKCAF": 735210204,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 124,
+                "HJICCFGEJKI": 4040,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 114,
+                "ACDCGBPKCAF": 735210205,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 125,
+                "HJICCFGEJKI": 1171,
+                "MOAIMHFEAMK": true,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 116,
+                "ACDCGBPKCAF": 735210206,
+                "LENKPLFIBOP": 0.5
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 126,
+                "HJICCFGEJKI": 1190,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            }
+        ],
+        [
+            {
+                "$type": "MoleMole.Config.ConfigTimeProtectAction",
+                "type": "TIME_PROTECT",
+                "duration": 0.30000001192092896,
+                "actionId": 105
+            },
+            {
+                "$type": "EOHGJPECGDB",
+                "type": "BODY_LANG",
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 127,
+                "EKNHMHFBMEF": true,
+                "OCMGFAFKLEG": false,
+                "KPDLGCANCDI": true,
+                "PAOLGENKEGO": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "delayTime": 0.25,
+                "duration": 1.0,
+                "aliasList": [
+                    "30354"
+                ],
+                "actionId": 119,
+                "MEHNLJGJOJM": "RETURN",
+                "ODONLEDECOB": true,
+                "JHACHKGHGPJ": true,
+                "PCDLCPNMAHI": true,
+                "MOIAMOAOEHJ": "",
+                "HKMHEDBICGC": true,
+                "NJPEFGKGIKA": true,
+                "CABFNEDPLAJ": ""
+            }
+        ]
+    ],
+    "groupId": [
+        {
+            "grpId": 4282337703,
+            "nextGrpId": 4282337704
+        },
+        {
+            "index": 1,
+            "grpId": 4282337704,
+            "nextGrpId": 4282337705
+        },
+        {
+            "index": 2,
+            "grpId": 4282337705,
+            "nextGrpId": 4282337706
+        },
+        {
+            "index": 3,
+            "grpId": 4282337706,
+            "nextGrpId": 4282337707
+        },
+        {
+            "index": 4,
+            "grpId": 4282337707,
+            "nextGrpId": 4282337708
+        },
+        {
+            "index": 5,
+            "grpId": 4282337708,
+            "nextGrpId": 4282337709
+        },
+        {
+            "index": 6,
+            "grpId": 4282337709,
+            "nextGrpId": 4282337710
+        }
+    ],
+    "freeStyleDic": {
+        "30354": [
+            1190,
+            1171,
+            4040
+        ]
+    }
+}

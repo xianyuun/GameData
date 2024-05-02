@@ -1,0 +1,38 @@
+[
+    {
+        "$type": "EMNHPCAAHED",
+        "id": 10010001,
+        "DHKPKGMFPFB": "Time",
+        "KHMNAHOBJAE": 6.0
+    },
+    {
+        "$type": "EMNHPCAAHED",
+        "id": 10010003,
+        "DHKPKGMFPFB": "Time",
+        "KHMNAHOBJAE": 18.0
+    },
+    {
+        "$type": "NEFNJDKCEGG",
+        "id": 10010005,
+        "DHKPKGMFPFB": "Time",
+        "KHMNAHOBJAE": 6.0
+    },
+    {
+        "$type": "NEFNJDKCEGG",
+        "id": 10010007,
+        "DHKPKGMFPFB": "Time",
+        "KHMNAHOBJAE": 18.0
+    },
+    {
+        "$type": "DMMJGIOBGDK",
+        "id": 10010009,
+        "PAHIOGEDGGC": 10010001,
+        "JNEFHBFNHGG": 10010007
+    },
+    {
+        "$type": "EGHNHJJHFJO",
+        "id": 10010011,
+        "PAHIOGEDGGC": 10010003,
+        "JNEFHBFNHGG": 10010005
+    }
+]

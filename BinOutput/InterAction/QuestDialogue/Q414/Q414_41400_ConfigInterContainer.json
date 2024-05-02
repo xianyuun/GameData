@@ -1,0 +1,1143 @@
+{
+    "luaDataPath": "Actor/InterLua/Q414_41400",
+    "entityBan": "",
+    "actors": [
+        {
+            "alias": "Avatar",
+            "visible": true,
+            "bornPointName": "Q414Player1",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1001,
+            "alias": "1001",
+            "visible": true,
+            "bornPointName": "Q414WendyBorn",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        },
+        {
+            "configID": 1005,
+            "alias": "1005",
+            "visible": true,
+            "bornPointName": "Q414Paimon1",
+            "relativePosNpcAlias": "",
+            "bindMovingTargetKey": ""
+        }
+    ],
+    "group": [
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140101
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "NPJJNOFEADI": 4.0,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 4140102
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1005"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2266.806884765625,
+                    "y": 217.11399841308594,
+                    "z": -4976.583984375
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.035888671875,
+                    "y": 217.34771728515625,
+                    "z": -4975.99169921875
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 1,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1005"
+                ],
+                "GIAKFCOAECK": true,
+                "BAIMEPGLHND": -40.0,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140103
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 4140104
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1005"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.919921875,
+                    "y": 217.3470001220703,
+                    "z": -4975.92578125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2265.0341796875,
+                    "y": 217.3470001220703,
+                    "z": -4975.46142578125
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140105
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "PNMMOGHLFME": true,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140106
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "ACDCGBPKCAF": 4140201
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2266.117919921875,
+                    "y": 217.34800720214844,
+                    "z": -4975.69384765625
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2265.13720703125,
+                    "y": 217.2991180419922,
+                    "z": -4975.88330078125
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "GIAKFCOAECK": true,
+                "BAIMEPGLHND": -20.0,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1005"
+                ],
+                "GIAKFCOAECK": true,
+                "BAIMEPGLHND": -45.0,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140202
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1001"
+                ],
+                "GIAKFCOAECK": true,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140401
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140402
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 4140403
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1005"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.919921875,
+                    "y": 217.3470001220703,
+                    "z": -4975.92578125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2265.0341796875,
+                    "y": 217.3470001220703,
+                    "z": -4975.46142578125
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1005"
+                ],
+                "GIAKFCOAECK": true,
+                "BAIMEPGLHND": -10.0,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140404
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140405
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140406
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "ACDCGBPKCAF": 4140501
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.9970703125,
+                    "y": 217.43600463867188,
+                    "z": -4975.623046875
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2265.208740234375,
+                    "y": 217.43600463867188,
+                    "z": -4976.23828125
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "GIAKFCOAECK": true,
+                "BAIMEPGLHND": -15.0,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140502
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140701
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140702
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 4140703
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1005"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.919921875,
+                    "y": 217.3470001220703,
+                    "z": -4975.92578125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2265.0341796875,
+                    "y": 217.3470001220703,
+                    "z": -4975.46142578125
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140704
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140705
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4140706
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 4140707
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1005"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.919921875,
+                    "y": 217.3470001220703,
+                    "z": -4975.92578125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2265.0341796875,
+                    "y": 217.3470001220703,
+                    "z": -4975.46142578125
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 1,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "ACDCGBPKCAF": 4140801
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.9970703125,
+                    "y": 217.43600463867188,
+                    "z": -4975.623046875
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2265.208740234375,
+                    "y": 217.43600463867188,
+                    "z": -4976.23828125
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 1,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141001
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141002
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141003
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141004
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1005"
+                ],
+                "ACDCGBPKCAF": 4141005
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1005"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2266.117919921875,
+                    "y": 217.34800720214844,
+                    "z": -4975.69384765625
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2265.13720703125,
+                    "y": 217.2991180419922,
+                    "z": -4975.88330078125
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1005"
+                ],
+                "GIAKFCOAECK": true,
+                "BAIMEPGLHND": -30.0,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141006
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141007
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141008
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141009
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.160888671875,
+                    "y": 217.6529998779297,
+                    "z": -4975.59716796875
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.072021484375,
+                    "y": 217.3079833984375,
+                    "z": -4975.822265625
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 1,
+                "PNMMOGHLFME": true,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1001"
+                ],
+                "GIAKFCOAECK": true,
+                "BAIMEPGLHND": -20.0,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141010
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 2.0,
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2226.41796875,
+                    "y": 227.88900756835938,
+                    "z": -5008.2412109375
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2226.72509765625,
+                    "y": 228.09628295898438,
+                    "z": -5007.3125
+                },
+                "NPJJNOFEADI": 4.0,
+                "KMABIPKEMNG": 1,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141011
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 2.0,
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2224.4189453125,
+                    "y": 237.3209991455078,
+                    "z": -4972.369140625
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2225.046142578125,
+                    "y": 237.1349334716797,
+                    "z": -4971.61279296875
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 1,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141012
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 2.0,
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2336.260009765625,
+                    "y": 270.9159851074219,
+                    "z": -4894.2568359375
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2336.260009765625,
+                    "y": 270.5387878417969,
+                    "z": -4893.33056640625
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 1,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141013
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 2.0,
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2386.83203125,
+                    "y": 296.12701416015625,
+                    "z": -4818.41015625
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2387.326904296875,
+                    "y": 295.5675354003906,
+                    "z": -4817.7451171875
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 1,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141014
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.160888671875,
+                    "y": 217.6529998779297,
+                    "z": -4975.59716796875
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.072021484375,
+                    "y": 217.3079833984375,
+                    "z": -4975.822265625
+                },
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            }
+        ],
+        [
+            {
+                "$type": "KMMICEBMDBC",
+                "type": "DIALOG",
+                "aliasList": [
+                    "1001"
+                ],
+                "ACDCGBPKCAF": 4141015
+            },
+            {
+                "$type": "KEEJDNCIDHM",
+                "type": "CAMERA_MOVE",
+                "duration": 1.0,
+                "aliasList": [
+                    "1001"
+                ],
+                "MEEOFFMAAJP": {
+                    "x": 2265.552978515625,
+                    "y": 217.38099670410156,
+                    "z": -4975.35986328125
+                },
+                "MGDCLCOKDOF": {
+                    "x": 2266.460693359375,
+                    "y": 217.38099670410156,
+                    "z": -4975.779296875
+                },
+                "NPJJNOFEADI": 5.0,
+                "KMABIPKEMNG": 1,
+                "MOIAMOAOEHJ": "",
+                "JGCGKJMAHEN": "",
+                "GNGDPJMJHCL": "",
+                "FEJACNCECPG": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1001"
+                ],
+                "GIAKFCOAECK": true,
+                "BAIMEPGLHND": 5.0,
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ],
+        [
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MEHNLJGJOJM": "RETURN",
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "Avatar"
+                ],
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "aliasList": [
+                    "1001"
+                ],
+                "MEHNLJGJOJM": "RETURN",
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1001"
+                ],
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "GEHLPKMDKFJ",
+                "type": "STEER_TO",
+                "aliasList": [
+                    "1005"
+                ],
+                "MEHNLJGJOJM": "RETURN",
+                "MOIAMOAOEHJ": "",
+                "CABFNEDPLAJ": ""
+            },
+            {
+                "$type": "LMKJEPFGEAC",
+                "type": "LOOK_AT",
+                "aliasList": [
+                    "1005"
+                ],
+                "MOIAMOAOEHJ": "",
+                "JHMKJOJENEH": "",
+                "CABFNEDPLAJ": ""
+            }
+        ]
+    ]
+}

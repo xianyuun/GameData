@@ -1,0 +1,53 @@
+[
+  {
+    "EAPPDBCOKKO": 100,
+    "EIIIEJMNKBI": 411
+  },
+  {
+    "type": "GCG_ELEMENT_CRYO",
+    "EAPPDBCOKKO": 101,
+    "EIIIEJMNKBI": 301,
+    "BMNGPGEGFAP": 201,
+    "IBABDDPEACB": 111
+  },
+  {
+    "type": "GCG_ELEMENT_HYDRO",
+    "EAPPDBCOKKO": 102,
+    "EIIIEJMNKBI": 302,
+    "BMNGPGEGFAP": 202,
+    "IBABDDPEACB": 112
+  },
+  {
+    "type": "GCG_ELEMENT_PYRO",
+    "EAPPDBCOKKO": 103,
+    "EIIIEJMNKBI": 303,
+    "BMNGPGEGFAP": 203,
+    "IBABDDPEACB": 113
+  },
+  {
+    "type": "GCG_ELEMENT_ELECTRO",
+    "EAPPDBCOKKO": 104,
+    "EIIIEJMNKBI": 304,
+    "BMNGPGEGFAP": 204,
+    "IBABDDPEACB": 114
+  },
+  {
+    "type": "GCG_ELEMENT_ANEMO",
+    "EAPPDBCOKKO": 105,
+    "EIIIEJMNKBI": 305,
+    "IBABDDPEACB": 115
+  },
+  {
+    "type": "GCG_ELEMENT_GEO",
+    "EAPPDBCOKKO": 106,
+    "EIIIEJMNKBI": 306,
+    "IBABDDPEACB": 116
+  },
+  {
+    "type": "GCG_ELEMENT_DENDRO",
+    "EAPPDBCOKKO": 107,
+    "EIIIEJMNKBI": 307,
+    "BMNGPGEGFAP": 207,
+    "IBABDDPEACB": 117
+  }
+]
